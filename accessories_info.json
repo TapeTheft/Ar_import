@@ -1,0 +1,8468 @@
+[
+  {
+    "model_id": 5381,
+    "dff": "obj6_watch_1",
+    "txd": "acsar_tx",
+    "name": "Часы 'Rolex Submariner'"
+  },
+  {
+    "model_id": 5382,
+    "dff": "obj6_watch_3",
+    "txd": "acsar_tx",
+    "name": "Часы 'Gucci'"
+  },
+  {
+    "model_id": 5383,
+    "dff": "obj6_watch_7",
+    "txd": "acsar_tx",
+    "name": "Часы 'Panthere de Cartier'"
+  },
+  {
+    "model_id": 5384,
+    "dff": "obj6_watch_4",
+    "txd": "acsar_tx",
+    "name": "Часы 'Relogios Casio'"
+  },
+  {
+    "model_id": 5385,
+    "dff": "obj6_watch_5",
+    "txd": "acsar_tx",
+    "name": "Часы 'Casio G-SHOCK'"
+  },
+  {
+    "model_id": 5386,
+    "dff": "obj6_watch_2",
+    "txd": "acsar_tx",
+    "name": "Часы 'Patek Philippe Nautilus'"
+  },
+  {
+    "model_id": 5387,
+    "dff": "obj6_watch_6",
+    "txd": "acsar_tx",
+    "name": "Часы 'Apple Watch'"
+  },
+  {
+    "model_id": 5388,
+    "dff": "obj6_headp_1",
+    "txd": "acsar_tx",
+    "name": "Наушники 'beats by Dre'"
+  },
+  {
+    "model_id": 5389,
+    "dff": "obj6_headp_2",
+    "txd": "acsar_tx",
+    "name": "Наушники 'Harman/Kardon'"
+  },
+  {
+    "model_id": 5683,
+    "dff": "obj6_headp_4",
+    "txd": "acsar_tx",
+    "name": "Наушники 'Razer'"
+  },
+  {
+    "model_id": 5684,
+    "dff": "obj6_headp_3",
+    "txd": "acsar_tx",
+    "name": "Наушники 'AirPods Max'"
+  },
+  {
+    "model_id": 5685,
+    "dff": "obj6_cap_1",
+    "txd": "acsar_tx",
+    "name": "Кепка 'Tommy Hilfiger'"
+  },
+  {
+    "model_id": 5686,
+    "dff": "obj6_cap_2",
+    "txd": "acsar_tx",
+    "name": "Кепка 'Ralph Lauren'"
+  },
+  {
+    "model_id": 5687,
+    "dff": "obj6_cap_3",
+    "txd": "acsar_tx",
+    "name": "Кепка 'LA'"
+  },
+  {
+    "model_id": 5688,
+    "dff": "obj6_cap_4",
+    "txd": "acsar_tx",
+    "name": "Кепка 'Gucci'"
+  },
+  {
+    "model_id": 5689,
+    "dff": "obj6_cap_5",
+    "txd": "acsar_tx",
+    "name": "Кепка 'Supreme'"
+  },
+  {
+    "model_id": 5690,
+    "dff": "obj6_mask_1",
+    "txd": "acsar_tx",
+    "name": "Неоновая маска"
+  },
+  {
+    "model_id": 5691,
+    "dff": "obj6_mask_2",
+    "txd": "acsar_tx",
+    "name": "Маска 'Scary'"
+  },
+  {
+    "model_id": 5692,
+    "dff": "obj6_mask_3",
+    "txd": "acsar_tx",
+    "name": "Маска 'Wrench'"
+  },
+  {
+    "model_id": 5693,
+    "dff": "obj6_mask_4",
+    "txd": "acsar_tx",
+    "name": "Маска Локи"
+  },
+  {
+    "model_id": 5694,
+    "dff": "obj6_mask_5",
+    "txd": "acsar_tx",
+    "name": "Маска 'Rust'"
+  },
+  {
+    "model_id": 5695,
+    "dff": "obj6_helmet_1",
+    "txd": "acsar_tx",
+    "name": "Мотошлем 'Kitty'"
+  },
+  {
+    "model_id": 5696,
+    "dff": "obj6_helmet_3",
+    "txd": "acsar_tx",
+    "name": "Мотошлем 'Pink'"
+  },
+  {
+    "model_id": 5697,
+    "dff": "obj6_helmet_2",
+    "txd": "acsar_tx",
+    "name": "Мотошлем"
+  },
+  {
+    "model_id": 5698,
+    "dff": "obj6_helmet_4",
+    "txd": "acsar_tx",
+    "name": "Мотошлем 'Alien'"
+  },
+  {
+    "model_id": 5699,
+    "dff": "obj6_hat_1",
+    "txd": "acsar_tx",
+    "name": "Эксклюзивная шляпа 1"
+  },
+  {
+    "model_id": 5700,
+    "dff": "obj6_hat_2",
+    "txd": "acsar_tx",
+    "name": "Эксклюзивная шляпа 2"
+  },
+  {
+    "model_id": 5701,
+    "dff": "obj6_hat_3",
+    "txd": "acsar_tx",
+    "name": "Эксклюзивная шляпа 3"
+  },
+  {
+    "model_id": 5702,
+    "dff": "obj6_hat_4",
+    "txd": "acsar_tx",
+    "name": "Эксклюзивная шляпа 4"
+  },
+  {
+    "model_id": 6011,
+    "dff": "obj6_hat_5",
+    "txd": "acsar_tx",
+    "name": "Эксклюзивная шляпа 5"
+  },
+  {
+    "model_id": 6818,
+    "dff": "obj6_bikeback_1",
+    "txd": "acsar_tx",
+    "name": "Велосипед на спину"
+  },
+  {
+    "model_id": 6013,
+    "dff": "obj7_delta_backp_1",
+    "txd": "acsar_tx",
+    "name": "Дельтаплан на спину"
+  },
+  {
+    "model_id": 12634,
+    "dff": "obj10_backp_1",
+    "txd": "acsar_tx",
+    "name": "Рюкзак 'Крипер'"
+  },
+  {
+    "model_id": 12635,
+    "dff": "obj10_backp_2",
+    "txd": "acsar_tx",
+    "name": "Рюкзак альпиниста"
+  },
+  {
+    "model_id": 12636,
+    "dff": "obj10_helmet_1",
+    "txd": "acsar_tx",
+    "name": "Шлем Тора"
+  },
+  {
+    "model_id": 12637,
+    "dff": "obj10_helmet_2",
+    "txd": "acsar_tx",
+    "name": "Футбольный шлем"
+  },
+  {
+    "model_id": 12638,
+    "dff": "obj10_helmet_3",
+    "txd": "acsar_tx",
+    "name": "Шлем 'Daft Punk'"
+  },
+  {
+    "model_id": 12639,
+    "dff": "obj10_helmet_4",
+    "txd": "acsar_tx",
+    "name": "Шлем 'Стив'"
+  },
+  {
+    "model_id": 12640,
+    "dff": "obj10_helmet_5",
+    "txd": "acsar_tx",
+    "name": "Шлем 'Гомер'"
+  },
+  {
+    "model_id": 12641,
+    "dff": "obj10_mask_1",
+    "txd": "acsar_tx",
+    "name": "Маска распорядителя"
+  },
+  {
+    "model_id": 12642,
+    "dff": "obj10_mask_2",
+    "txd": "acsar_tx",
+    "name": "Маска охранника 1"
+  },
+  {
+    "model_id": 12643,
+    "dff": "obj10_mask_2a",
+    "txd": "acsar_tx",
+    "name": "Маска охранника 3"
+  },
+  {
+    "model_id": 12644,
+    "dff": "obj10_mask_2b",
+    "txd": "acsar_tx",
+    "name": "Маска охранника 2"
+  },
+  {
+    "model_id": 12645,
+    "dff": "obj10_mask_3",
+    "txd": "acsar_tx",
+    "name": "VIP маска 'Бык'"
+  },
+  {
+    "model_id": 12646,
+    "dff": "obj10_sword_1",
+    "txd": "acsar_tx",
+    "name": "Алмазная кирка"
+  },
+  {
+    "model_id": 12647,
+    "dff": "obj10_wings_1",
+    "txd": "acsar_tx",
+    "name": "Крылья #1"
+  },
+  {
+    "model_id": 12648,
+    "dff": "obj10_wings_1a",
+    "txd": "acsar_tx",
+    "name": "Крылья #2"
+  },
+  {
+    "model_id": 12649,
+    "dff": "obj10_wings_1b",
+    "txd": "acsar_tx",
+    "name": "Крылья #3"
+  },
+  {
+    "model_id": 12650,
+    "dff": "obj10_wings_1c",
+    "txd": "acsar_tx",
+    "name": "Крылья #4"
+  },
+  {
+    "model_id": 12651,
+    "dff": "obj10_wings_1d",
+    "txd": "acsar_tx",
+    "name": "Крылья #5"
+  },
+  {
+    "model_id": 12598,
+    "dff": "obj9_helmet_1",
+    "txd": "sa_pubg",
+    "name": "Каска #1"
+  },
+  {
+    "model_id": 12617,
+    "dff": "obj9_helmet_1a",
+    "txd": "sa_pubg",
+    "name": "Каска #2"
+  },
+  {
+    "model_id": 12618,
+    "dff": "obj9_helmet_1b",
+    "txd": "sa_pubg",
+    "name": "Каска #3"
+  },
+  {
+    "model_id": 12619,
+    "dff": "obj9_helmet_1c",
+    "txd": "sa_pubg",
+    "name": "Каска #4"
+  },
+  {
+    "model_id": 12620,
+    "dff": "obj9_helmet_1d",
+    "txd": "sa_pubg",
+    "name": "Каска #5"
+  },
+  {
+    "model_id": 12600,
+    "dff": "obj9_vest_1",
+    "txd": "sa_pubg",
+    "name": "Бронежилет #1"
+  },
+  {
+    "model_id": 12621,
+    "dff": "obj9_vest_1a",
+    "txd": "sa_pubg",
+    "name": "Бронежилет #2"
+  },
+  {
+    "model_id": 12622,
+    "dff": "obj9_vest_1b",
+    "txd": "sa_pubg",
+    "name": "Бронежилет #3"
+  },
+  {
+    "model_id": 12623,
+    "dff": "obj9_vest_1c",
+    "txd": "sa_pubg",
+    "name": "Бронежилет #4"
+  },
+  {
+    "model_id": 12624,
+    "dff": "obj9_vest_1d",
+    "txd": "sa_pubg",
+    "name": "Бронежилет #5"
+  },
+  {
+    "model_id": 12599,
+    "dff": "obj9_backp_1",
+    "txd": "sa_pubg",
+    "name": "Рюкзак #1"
+  },
+  {
+    "model_id": 12613,
+    "dff": "obj9_backp_1a",
+    "txd": "sa_pubg",
+    "name": "Рюкзак #2"
+  },
+  {
+    "model_id": 12614,
+    "dff": "obj9_backp_1b",
+    "txd": "sa_pubg",
+    "name": "Рюкзак #3"
+  },
+  {
+    "model_id": 12615,
+    "dff": "obj9_backp_1c",
+    "txd": "sa_pubg",
+    "name": "Рюкзак #4"
+  },
+  {
+    "model_id": 12616,
+    "dff": "obj9_backp_1d",
+    "txd": "sa_pubg",
+    "name": "Рюкзак #5"
+  },
+  {
+    "model_id": 12652,
+    "dff": "obj12_pickaxe_1",
+    "txd": "acsar_tx",
+    "name": "Супер-кирка"
+  },
+  {
+    "model_id": 12653,
+    "dff": "obj12_rake_1",
+    "txd": "acsar_tx",
+    "name": "Супер-грабли"
+  },
+  {
+    "model_id": 12657,
+    "dff": "obj15_mask_1",
+    "txd": "acs_obj_TXD",
+    "name": "Маска Гринча"
+  },
+  {
+    "model_id": 12659,
+    "dff": "obj15_wings_1",
+    "txd": "acs_obj_TXD",
+    "name": "Крылья #6"
+  },
+  {
+    "model_id": 12660,
+    "dff": "obj15_hat_3",
+    "txd": "acs_obj_TXD",
+    "name": "Шапка Верки Сердючки"
+  },
+  {
+    "model_id": 12661,
+    "dff": "obj15_bow_1",
+    "txd": "acs_obj_TXD",
+    "name": "Подарочный бант на спине"
+  },
+  {
+    "model_id": 12662,
+    "dff": "obj15_helmet_1",
+    "txd": "acs_obj_TXD",
+    "name": "Голова Пряни"
+  },
+  {
+    "model_id": 12663,
+    "dff": "obj15_helmet_2",
+    "txd": "acs_obj_TXD",
+    "name": "Голова Тигра"
+  },
+  {
+    "model_id": 12664,
+    "dff": "obj15_vest_1",
+    "txd": "acs_obj_TXD",
+    "name": "Бронежилет #6"
+  },
+  {
+    "model_id": 12665,
+    "dff": "obj15_wings_2d",
+    "txd": "acs_obj_TXD",
+    "name": "Крылья #7"
+  },
+  {
+    "model_id": 12666,
+    "dff": "obj15_wings_2d001",
+    "txd": "acs_obj_TXD",
+    "name": "Крылья #8"
+  },
+  {
+    "model_id": 12668,
+    "dff": "obj15_vest_1R",
+    "txd": "acs_obj_TXD",
+    "name": "Бронежилет #7"
+  },
+  {
+    "model_id": 12669,
+    "dff": "obj15_vest_1GS",
+    "txd": "acs_obj_TXD",
+    "name": "Бронежилет #8"
+  },
+  {
+    "model_id": 14766,
+    "dff": "car_box_2",
+    "txd": "car_box_2",
+    "name": "Багажник"
+  },
+  {
+    "model_id": 12672,
+    "dff": "obj18_armor_1",
+    "txd": "obj18TXD",
+    "name": "Бронежилет железного человека"
+  },
+  {
+    "model_id": 15607,
+    "dff": "obj18_axe_1",
+    "txd": "obj18TXD",
+    "name": "Русский боевой топор"
+  },
+  {
+    "model_id": 12674,
+    "dff": "obj18_backp_1",
+    "txd": "obj18TXD",
+    "name": "Рюкзак Louis Vuitton"
+  },
+  {
+    "model_id": 15608,
+    "dff": "obj18_glove_1",
+    "txd": "obj18TXD",
+    "name": "Рука бесконечности"
+  },
+  {
+    "model_id": 12677,
+    "dff": "obj18_glove_r_2",
+    "txd": "obj18TXD",
+    "name": "Рука Халка"
+  },
+  {
+    "model_id": 15609,
+    "dff": "obj18_hammer_1",
+    "txd": "obj18TXD",
+    "name": "Молот Тора"
+  },
+  {
+    "model_id": 12679,
+    "dff": "obj18_helmet_1",
+    "txd": "obj18TXD",
+    "name": "Шлем железного человека"
+  },
+  {
+    "model_id": 12680,
+    "dff": "obj18_helmet_2",
+    "txd": "obj18TXD",
+    "name": "Шлем Мистерио"
+  },
+  {
+    "model_id": 12681,
+    "dff": "obj18_hook_1",
+    "txd": "obj18TXD",
+    "name": "Хук Пуджа"
+  },
+  {
+    "model_id": 12682,
+    "dff": "obj18_lsaber_1",
+    "txd": "obj18TXD",
+    "name": "Меч 'Звёздные войны'"
+  },
+  {
+    "model_id": 12683,
+    "dff": "obj18_mask_1",
+    "txd": "obj18TXD",
+    "name": "Маска Халка"
+  },
+  {
+    "model_id": 12684,
+    "dff": "obj18_shield_1",
+    "txd": "obj18TXD",
+    "name": "Щит Капитана Америки"
+  },
+  {
+    "model_id": 12685,
+    "dff": "obj18_skate_1",
+    "txd": "obj18TXD",
+    "name": "Красный сноуборд"
+  },
+  {
+    "model_id": 12686,
+    "dff": "obj18_stick_1",
+    "txd": "obj18TXD",
+    "name": "Пятизубец"
+  },
+  {
+    "model_id": 12687,
+    "dff": "obj18_stick_2",
+    "txd": "obj18TXD",
+    "name": "Серебряный крюк"
+  },
+  {
+    "model_id": 12688,
+    "dff": "obj18_stick_3",
+    "txd": "obj18TXD",
+    "name": "Посох льда"
+  },
+  {
+    "model_id": 12689,
+    "dff": "obj17_backp_1",
+    "txd": "obj18TXD",
+    "name": "Рюкзак Черепашки-ниндзя"
+  },
+  {
+    "model_id": 12690,
+    "dff": "obj17_helmet_1",
+    "txd": "obj18TXD",
+    "name": "Голова LEGO"
+  },
+  {
+    "model_id": 12691,
+    "dff": "obj17_helmet_2",
+    "txd": "obj18TXD",
+    "name": "Голова 'Тише едешь, дальше будешь'"
+  },
+  {
+    "model_id": 12692,
+    "dff": "obj17_helmet_3",
+    "txd": "obj18TXD",
+    "name": "Голова Робокоп"
+  },
+  {
+    "model_id": 12693,
+    "dff": "obj17_mask_1",
+    "txd": "obj18TXD",
+    "name": "Маска Человека-паук"
+  },
+  {
+    "model_id": 12694,
+    "dff": "obj17_mask_2",
+    "txd": "obj18TXD",
+    "name": "Маска Шрек"
+  },
+  {
+    "model_id": 12695,
+    "dff": "obj17_mask_3",
+    "txd": "obj18TXD",
+    "name": "Маска из Бумажного дома"
+  },
+  {
+    "model_id": 12696,
+    "dff": "obj17_mask_4",
+    "txd": "obj18TXD",
+    "name": "Маска Терминатор"
+  },
+  {
+    "model_id": 12697,
+    "dff": "obj17_mask_5",
+    "txd": "obj18TXD",
+    "name": "Маска Добби"
+  },
+  {
+    "model_id": 6263,
+    "dff": "obj25_sword_1",
+    "txd": "txd_accsfish",
+    "name": "Золотой меч"
+  },
+  {
+    "model_id": 6265,
+    "dff": "obj25_vest_1",
+    "txd": "txd_accsfish",
+    "name": "Спасательный жилет"
+  },
+  {
+    "model_id": 6267,
+    "dff": "obj25_divemask_1",
+    "txd": "txd_accsfish",
+    "name": "Маска дайвера"
+  },
+  {
+    "model_id": 6268,
+    "dff": "obj25_pirhat_1",
+    "txd": "txd_accsfish",
+    "name": "Кепка пирата"
+  },
+  {
+    "model_id": 6269,
+    "dff": "obj25_pircoat_1",
+    "txd": "txd_accsfish",
+    "name": "Плащ пирата"
+  },
+  {
+    "model_id": 6270,
+    "dff": "obj25_shield_1",
+    "txd": "txd_accsfish",
+    "name": "Щит легиона"
+  },
+  {
+    "model_id": 6271,
+    "dff": "obj25_scullmask_1",
+    "txd": "txd_accsfish",
+    "name": "Маска пирата"
+  },
+  {
+    "model_id": 6273,
+    "dff": "obj26_gravgun_1",
+    "txd": "txd_accsfish",
+    "name": "Грави-пушка"
+  },
+  {
+    "model_id": 6274,
+    "dff": "obj26_glasses_1",
+    "txd": "txd_accsfish",
+    "name": "Очки с Half-Life"
+  },
+  {
+    "model_id": 6275,
+    "dff": "obj26_shocker_1",
+    "txd": "txd_accsfish",
+    "name": "Оружие с Half-Life"
+  },
+  {
+    "model_id": 6277,
+    "dff": "obj26_handsword_1",
+    "txd": "txd_accsfish",
+    "name": "Прототип"
+  },
+  {
+    "model_id": 6279,
+    "dff": "obj26_axe_1",
+    "txd": "txd_accsfish",
+    "name": "Магический топор"
+  },
+  {
+    "model_id": 6552,
+    "dff": "obj27_backp_1",
+    "txd": "acs1",
+    "name": "Восточный переносной ларек 1"
+  },
+  {
+    "model_id": 6541,
+    "dff": "obj27_backp_2",
+    "txd": "acs1",
+    "name": "Восточный переносной ларек 2"
+  },
+  {
+    "model_id": 6542,
+    "dff": "obj27_backp_3",
+    "txd": "acs1",
+    "name": "Восточный переносной ларек 3"
+  },
+  {
+    "model_id": 6555,
+    "dff": "obj27_kiosk_rdy_3",
+    "txd": "acs1",
+    "name": "Восточный переносной ларек 1 (открыт)"
+  },
+  {
+    "model_id": 6554,
+    "dff": "obj27_kiosk_rdy_2",
+    "txd": "acs1",
+    "name": "Восточный переносной ларек 2 (открыт)"
+  },
+  {
+    "model_id": 6553,
+    "dff": "obj27_kiosk_rdy_1",
+    "txd": "acs1",
+    "name": "Восточный переносной ларек 3 (открыт)"
+  },
+  {
+    "model_id": 6573,
+    "dff": "obj28_wings_1",
+    "txd": "acs1",
+    "name": "Крылья Золотого ангела"
+  },
+  {
+    "model_id": 6544,
+    "dff": "Рюкзак Магический глаз",
+    "txd": "acs1",
+    "name": "Рюкзак Магический глаз"
+  },
+  {
+    "model_id": 6545,
+    "dff": "obj28_backp_2",
+    "txd": "acs1",
+    "name": "Рюкзак Святого Георга"
+  },
+  {
+    "model_id": 6546,
+    "dff": "obj28_backp_3",
+    "txd": "acs1",
+    "name": "Рюкзак Мистика"
+  },
+  {
+    "model_id": 6543,
+    "dff": "obj27_shovel_1",
+    "txd": "acs1",
+    "name": "Супер-лопата"
+  },
+  {
+    "model_id": 6547,
+    "dff": "obj28_bow_1",
+    "txd": "acs1",
+    "name": "Магический лук"
+  },
+  {
+    "model_id": 6548,
+    "dff": "obj28_mask_1",
+    "txd": "acs1",
+    "name": "Маска племени Майя"
+  },
+  {
+    "model_id": 6549,
+    "dff": "obj28_mask_2",
+    "txd": "acs1",
+    "name": "Карнавальная маска"
+  },
+  {
+    "model_id": 6550,
+    "dff": "obj28_mask_3",
+    "txd": "acs1",
+    "name": "Маска дракона"
+  },
+  {
+    "model_id": 6551,
+    "dff": "obj28_shlder_1",
+    "txd": "acs1",
+    "name": "Золотой наплечник"
+  },
+  {
+    "model_id": 6033,
+    "dff": "amon_1",
+    "txd": "acs_amongus",
+    "name": "Амонгус(коричневый)"
+  },
+  {
+    "model_id": 6034,
+    "dff": "amon_2",
+    "txd": "acs_amongus",
+    "name": "Амонгус(темно-зеленый)"
+  },
+  {
+    "model_id": 6540,
+    "dff": "amon_3",
+    "txd": "acs_amongus",
+    "name": "Амонгус(фиолетовый)"
+  },
+  {
+    "model_id": 6576,
+    "dff": "amon_4",
+    "txd": "acs_amongus",
+    "name": "Амонгус(голубой)"
+  },
+  {
+    "model_id": 6577,
+    "dff": "amon_5",
+    "txd": "acs_amongus",
+    "name": "Амонгус(желтый)"
+  },
+  {
+    "model_id": 6578,
+    "dff": "amon_6",
+    "txd": "acs_amongus",
+    "name": "Амонгус(красный)"
+  },
+  {
+    "model_id": 6579,
+    "dff": "amon_7",
+    "txd": "acs_amongus",
+    "name": "Амонгус(светло-зеленый)"
+  },
+  {
+    "model_id": 6580,
+    "dff": "amon_8",
+    "txd": "acs_amongus",
+    "name": "Амонгус(черный)"
+  },
+  {
+    "model_id": 6581,
+    "dff": "amon_9",
+    "txd": "acs_amongus",
+    "name": "Амонгус(белый)"
+  },
+  {
+    "model_id": 6582,
+    "dff": "amon_10",
+    "txd": "acs_amongus",
+    "name": "Амонгус(розовый)"
+  },
+  {
+    "model_id": 6583,
+    "dff": "amon_11",
+    "txd": "acs_amongus",
+    "name": "Амонгус(синий)"
+  },
+  {
+    "model_id": 6584,
+    "dff": "amon_12",
+    "txd": "acs_amongus",
+    "name": "Амонгус(оранжевый)"
+  },
+  {
+    "model_id": 6590,
+    "dff": "bandage_6",
+    "txd": "acs_bandage",
+    "name": "Бандана наруто (6)"
+  },
+  {
+    "model_id": 6596,
+    "dff": "bandage_12",
+    "txd": "acs_bandage",
+    "name": "Бандана наруто (12)"
+  },
+  {
+    "model_id": 6600,
+    "dff": "bandage_16",
+    "txd": "acs_bandage",
+    "name": "Бандана наруто (16)"
+  },
+  {
+    "model_id": 6603,
+    "dff": "rojki_cel",
+    "txd": "acs_horn",
+    "name": "Рожки на голову (1)"
+  },
+  {
+    "model_id": 6698,
+    "dff": "rojki_cel1",
+    "txd": "acs_horn",
+    "name": "Рожки на голову (2)"
+  },
+  {
+    "model_id": 6720,
+    "dff": "rojki_cel3",
+    "txd": "acs_horn",
+    "name": "Рожки на голову (4)"
+  },
+  {
+    "model_id": 6723,
+    "dff": "toy",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(1)"
+  },
+  {
+    "model_id": 6724,
+    "dff": "toy1",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(2)"
+  },
+  {
+    "model_id": 6725,
+    "dff": "toy2",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(3)"
+  },
+  {
+    "model_id": 6726,
+    "dff": "toy3",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(4)"
+  },
+  {
+    "model_id": 6727,
+    "dff": "toy4",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(5)"
+  },
+  {
+    "model_id": 6728,
+    "dff": "toy5",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(6)"
+  },
+  {
+    "model_id": 6729,
+    "dff": "toy6",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(7)"
+  },
+  {
+    "model_id": 6730,
+    "dff": "toy7",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(8)"
+  },
+  {
+    "model_id": 6731,
+    "dff": "toy8",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(9)"
+  },
+  {
+    "model_id": 6732,
+    "dff": "toy9",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(10)"
+  },
+  {
+    "model_id": 6733,
+    "dff": "toy10",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(11)"
+  },
+  {
+    "model_id": 6734,
+    "dff": "toy11",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(12)"
+  },
+  {
+    "model_id": 6735,
+    "dff": "toy12",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(13)"
+  },
+  {
+    "model_id": 6736,
+    "dff": "toy13",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(14)"
+  },
+  {
+    "model_id": 6737,
+    "dff": "toy14",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(15)"
+  },
+  {
+    "model_id": 6738,
+    "dff": "toy15",
+    "txd": "acs_toys",
+    "name": "Плюшевая игрушка(16)"
+  },
+  {
+    "model_id": 6739,
+    "dff": "shark_blue",
+    "txd": "acs_toys",
+    "name": "Голубая акула (IKEA)"
+  },
+  {
+    "model_id": 6740,
+    "dff": "shark_pink",
+    "txd": "acs_toys",
+    "name": "Розовая акула (IKEA)"
+  },
+  {
+    "model_id": 12583,
+    "dff": "bear_hat",
+    "txd": "acs_toys",
+    "name": "Шляпка с бантиками"
+  },
+  {
+    "model_id": 12698,
+    "dff": "stitch",
+    "txd": "acs_toys",
+    "name": "Стич"
+  },
+  {
+    "model_id": 12699,
+    "dff": "huggy_wuggy",
+    "txd": "acs_toys",
+    "name": "Хагги Вагги"
+  },
+  {
+    "model_id": 14555,
+    "dff": "kissy_missy",
+    "txd": "acs_toys",
+    "name": "Кисси Мисси"
+  },
+  {
+    "model_id": 15338,
+    "dff": "shield_3",
+    "txd": "acs_middle_ages",
+    "name": "Щит(3)"
+  },
+  {
+    "model_id": 15345,
+    "dff": "shield_10",
+    "txd": "acs_middle_ages",
+    "name": "Щит(10)"
+  },
+  {
+    "model_id": 15346,
+    "dff": "surikeni_cel1",
+    "txd": "acs_middle_ages",
+    "name": "Сюрикен ниндзя(1)"
+  },
+  {
+    "model_id": 15347,
+    "dff": "surikeni_cel2",
+    "txd": "acs_middle_ages",
+    "name": "Сюрикен ниндзя(2)"
+  },
+  {
+    "model_id": 15348,
+    "dff": "surikeni_cel3",
+    "txd": "acs_middle_ages",
+    "name": "Сюрикен ниндзя(3)"
+  },
+  {
+    "model_id": 15349,
+    "dff": "surikeni_cel4",
+    "txd": "acs_middle_ages",
+    "name": "Сюрикен ниндзя(4)"
+  },
+  {
+    "model_id": 15350,
+    "dff": "sword_1",
+    "txd": "acs_middle_ages",
+    "name": "Меч(5)"
+  },
+  {
+    "model_id": 15351,
+    "dff": "sword_2",
+    "txd": "acs_middle_ages",
+    "name": "Меч(6)"
+  },
+  {
+    "model_id": 15352,
+    "dff": "sword_3",
+    "txd": "acs_middle_ages",
+    "name": "Меч(7)"
+  },
+  {
+    "model_id": 15353,
+    "dff": "sword_4",
+    "txd": "acs_middle_ages",
+    "name": "Меч(8)"
+  },
+  {
+    "model_id": 15354,
+    "dff": "Katana_x",
+    "txd": "acs_middle_ages",
+    "name": "Катаны на спину"
+  },
+  {
+    "model_id": 15355,
+    "dff": "bars00",
+    "txd": "acs_man_purse",
+    "name": "Барсетка классическая(1)"
+  },
+  {
+    "model_id": 15356,
+    "dff": "bars01",
+    "txd": "acs_man_purse",
+    "name": "Барсетка классическая(2)"
+  },
+  {
+    "model_id": 15357,
+    "dff": "bars02",
+    "txd": "acs_man_purse",
+    "name": "Барсетка классическая(3)"
+  },
+  {
+    "model_id": 15358,
+    "dff": "bars03",
+    "txd": "acs_man_purse",
+    "name": "Барсетка классическая(4)"
+  },
+  {
+    "model_id": 15359,
+    "dff": "bars04",
+    "txd": "acs_man_purse",
+    "name": "Барсетка классическая(5)"
+  },
+  {
+    "model_id": 15360,
+    "dff": "bars05",
+    "txd": "acs_man_purse",
+    "name": "Барсетка классическая(6)"
+  },
+  {
+    "model_id": 15361,
+    "dff": "truchSMK00",
+    "txd": "acs_man_purse",
+    "name": "Барсетка мажора(1)"
+  },
+  {
+    "model_id": 15362,
+    "dff": "truchSMK02",
+    "txd": "acs_man_purse",
+    "name": "Барсетка мажора(2)"
+  },
+  {
+    "model_id": 15363,
+    "dff": "truchSMK01",
+    "txd": "acs_man_purse",
+    "name": "Барсетка мажора(3)"
+  },
+  {
+    "model_id": 15364,
+    "dff": "truchSMK04",
+    "txd": "acs_man_purse",
+    "name": "Барсетка мажора(4)"
+  },
+  {
+    "model_id": 15365,
+    "dff": "obj7_purse_1",
+    "txd": "acs_man_purse",
+    "name": "Барсетка SUPREME"
+  },
+  {
+    "model_id": 15366,
+    "dff": "obj7_purse_2",
+    "txd": "acs_man_purse",
+    "name": "Барсетка GUCCI"
+  },
+  {
+    "model_id": 15367,
+    "dff": "obj7_purse_3",
+    "txd": "acs_man_purse",
+    "name": "Барсетка CHANEL"
+  },
+  {
+    "model_id": 15368,
+    "dff": "obj7_purse_4",
+    "txd": "acs_man_purse",
+    "name": "Барсетка Louis Vuitton"
+  },
+  {
+    "model_id": 15369,
+    "dff": "obj7_purse_5",
+    "txd": "acs_man_purse",
+    "name": "Барсетка NIKE"
+  },
+  {
+    "model_id": 15370,
+    "dff": "obj2_suitc_1",
+    "txd": "acs_man_purse",
+    "name": "Бандитская барсетка(1)"
+  },
+  {
+    "model_id": 15371,
+    "dff": "obj2_suitc_1a",
+    "txd": "acs_man_purse",
+    "name": "Бандитская барсетка(2)"
+  },
+  {
+    "model_id": 15372,
+    "dff": "obj2_suitc_1b",
+    "txd": "acs_man_purse",
+    "name": "Бандитская барсетка(3)"
+  },
+  {
+    "model_id": 15373,
+    "dff": "obj2_suitc_1d",
+    "txd": "acs_man_purse",
+    "name": "Бандитская барсетка(4)"
+  },
+  {
+    "model_id": 15388,
+    "dff": "jetAks1",
+    "txd": "acs_backpack",
+    "name": "Реактивный ранец(2)"
+  },
+  {
+    "model_id": 15389,
+    "dff": "obj4_backp_1",
+    "txd": "acs_backpack",
+    "name": "Рюкзак Пикачу"
+  },
+  {
+    "model_id": 15396,
+    "dff": "pikachu01",
+    "txd": "acs_backpack",
+    "name": "Пикачу"
+  },
+  {
+    "model_id": 15397,
+    "dff": "reckzk04",
+    "txd": "acs_backpack",
+    "name": "Рюкзак(1)"
+  },
+  {
+    "model_id": 15398,
+    "dff": "reckzk00",
+    "txd": "acs_backpack",
+    "name": "Рюкзак(2)"
+  },
+  {
+    "model_id": 15399,
+    "dff": "reckzk01",
+    "txd": "acs_backpack",
+    "name": "Рюкзак(3)"
+  },
+  {
+    "model_id": 15400,
+    "dff": "reckzk02",
+    "txd": "acs_backpack",
+    "name": "Рюкзак(4)"
+  },
+  {
+    "model_id": 15401,
+    "dff": "reckzk03",
+    "txd": "acs_backpack",
+    "name": "Рюкзак(5)"
+  },
+  {
+    "model_id": 15402,
+    "dff": "obj2_vest_1",
+    "txd": "acs_armor",
+    "name": "Бандитский бронежилет(1)"
+  },
+  {
+    "model_id": 15403,
+    "dff": "obj2_vest_1a",
+    "txd": "acs_armor",
+    "name": "Бандитский бронежилет(2)"
+  },
+  {
+    "model_id": 15404,
+    "dff": "obj2_vest_1b",
+    "txd": "acs_armor",
+    "name": "Бандитский бронежилет(3)"
+  },
+  {
+    "model_id": 15405,
+    "dff": "obj2_vest_1c",
+    "txd": "acs_armor",
+    "name": "Бандитский бронежилет(4)"
+  },
+  {
+    "model_id": 15406,
+    "dff": "obj2_vest_1d",
+    "txd": "acs_armor",
+    "name": "Бандитский бронежилет(5)"
+  },
+  {
+    "model_id": 15407,
+    "dff": "uppr_2_u",
+    "txd": "acs_armor",
+    "name": "Бронежилет(1)"
+  },
+  {
+    "model_id": 15408,
+    "dff": "uppr_3_u",
+    "txd": "acs_armor",
+    "name": "Бронежилет(2)"
+  },
+  {
+    "model_id": 15409,
+    "dff": "uppr_4_u",
+    "txd": "acs_armor",
+    "name": "Бронежилет(3)"
+  },
+  {
+    "model_id": 15410,
+    "dff": "uppr_5_u",
+    "txd": "acs_armor",
+    "name": "Бронежилет(4)"
+  },
+  {
+    "model_id": 15411,
+    "dff": "uppr_1_u",
+    "txd": "acs_armor",
+    "name": "Бронежилет(5)"
+  },
+  {
+    "model_id": 15412,
+    "dff": "truchSMK03",
+    "txd": "acs_man_purse",
+    "name": "Сумка(1)"
+  },
+  {
+    "model_id": 15441,
+    "dff": "bag_lv_7",
+    "txd": "acs_bag",
+    "name": "Сумка уточка"
+  },
+  {
+    "model_id": 6709,
+    "dff": "bag_lv_12",
+    "txd": "acs_bag",
+    "name": "Сумка Louis Vuitton(5)"
+  },
+  {
+    "model_id": 15449,
+    "dff": "bag_lv_15",
+    "txd": "acs_bag",
+    "name": "Сумка Louis Vuitton(8)"
+  },
+  {
+    "model_id": 15450,
+    "dff": "bag_th_1",
+    "txd": "acs_bag",
+    "name": "Сумка Tommy Hilfiger(1)"
+  },
+  {
+    "model_id": 15455,
+    "dff": "obj2_bag_1",
+    "txd": "acs_bag",
+    "name": "Бандитская сумка(1)"
+  },
+  {
+    "model_id": 15456,
+    "dff": "obj2_bag_1a",
+    "txd": "acs_bag",
+    "name": "Бандитская сумка(2)"
+  },
+  {
+    "model_id": 15557,
+    "dff": "sumk_p02",
+    "txd": "acs_bag",
+    "name": "Сумка бизнесмена(3)"
+  },
+  {
+    "model_id": 15558,
+    "dff": "sumk_p03",
+    "txd": "acs_bag",
+    "name": "Сумка бизнесмена(4)"
+  },
+  {
+    "model_id": 15568,
+    "dff": "obj7_hat_5",
+    "txd": "acs_head",
+    "name": "Шапка офицера"
+  },
+  {
+    "model_id": 6702,
+    "dff": "ears_stitch",
+    "txd": "acs_head",
+    "name": "Ушки стича"
+  },
+  {
+    "model_id": 15587,
+    "dff": "beer_hat",
+    "txd": "acs_head",
+    "name": "Пивная шляпа"
+  },
+  {
+    "model_id": 15589,
+    "dff": "cap_white",
+    "txd": "acs_head",
+    "name": "Кепка белая"
+  },
+  {
+    "model_id": 15591,
+    "dff": "cap_rabbit",
+    "txd": "acs_head",
+    "name": "Кепка зайчик"
+  },
+  {
+    "model_id": 15592,
+    "dff": "kaneki",
+    "txd": "acs_head",
+    "name": "Маска Канеки"
+  },
+  {
+    "model_id": 15596,
+    "dff": "mask_4",
+    "txd": "acs_head",
+    "name": "Маска чумного доктора"
+  },
+  {
+    "model_id": 15598,
+    "dff": "mask_17",
+    "txd": "acs_head",
+    "name": "Маска свиньи(2)"
+  },
+  {
+    "model_id": 15600,
+    "dff": "mask11",
+    "txd": "acs_head",
+    "name": "Маска грабителя(1)"
+  },
+  {
+    "model_id": 15601,
+    "dff": "mask22",
+    "txd": "acs_head",
+    "name": "Маска грабителя(2)"
+  },
+  {
+    "model_id": 15602,
+    "dff": "mask33",
+    "txd": "acs_head",
+    "name": "Маска грабителя(3)"
+  },
+  {
+    "model_id": 15603,
+    "dff": "mask44",
+    "txd": "acs_head",
+    "name": "Маска грабителя(4)"
+  },
+  {
+    "model_id": 15604,
+    "dff": "mask2100",
+    "txd": "acs_head",
+    "name": "Маска грабителя(5)"
+  },
+  {
+    "model_id": 15607,
+    "dff": "obj7_mask_3",
+    "txd": "acs_head",
+    "name": "Маска сварщика"
+  },
+  {
+    "model_id": 15608,
+    "dff": "obj7_mask_4",
+    "txd": "acs_head",
+    "name": "Маска робота"
+  },
+  {
+    "model_id": 15610,
+    "dff": "obj7_mask_7",
+    "txd": "acs_head",
+    "name": "Шлем водолаза"
+  },
+  {
+    "model_id": 15611,
+    "dff": "obj7_mask_1",
+    "txd": "acs_head",
+    "name": "Маска фараона"
+  },
+  {
+    "model_id": 15614,
+    "dff": "doska02",
+    "txd": "acs_surfing",
+    "name": "Доска для серфинга(3)"
+  },
+  {
+    "model_id": 15617,
+    "dff": "skate00",
+    "txd": "acs_skateboard",
+    "name": "Скейтборд(1)"
+  },
+  {
+    "model_id": 15622,
+    "dff": "kagune",
+    "txd": "acs_fun",
+    "name": "Кагуне"
+  },
+  {
+    "model_id": 15623,
+    "dff": "kup_krill",
+    "txd": "acs_fun",
+    "name": "Крылья Купидона"
+  },
+  {
+    "model_id": 15624,
+    "dff": "kup_lyk",
+    "txd": "acs_fun",
+    "name": "Лук Купидона"
+  },
+  {
+    "model_id": 15625,
+    "dff": "lollipop",
+    "txd": "acs_fun",
+    "name": "Новогодний леденец"
+  },
+  {
+    "model_id": 15726,
+    "dff": "obj38_hat_1",
+    "txd": "acs_31TXD",
+    "name": "Гавайская шляпа"
+  },
+  {
+    "model_id": 15727,
+    "dff": "obj38_necklace_1",
+    "txd": "acs_31TXD",
+    "name": "Гавайская леи"
+  },
+  {
+    "model_id": 15728,
+    "dff": "obj38_glasses_1",
+    "txd": "acs_31TXD",
+    "name": "Гавайские очки"
+  },
+  {
+    "model_id": 15729,
+    "dff": "obj38_vest_1",
+    "txd": "acs_31TXD",
+    "name": "Бронежилет 'Ветка Сакуры'"
+  },
+  {
+    "model_id": 15730,
+    "dff": "obj38_hair_1",
+    "txd": "acs_31TXD",
+    "name": "Прическа 1"
+  },
+  {
+    "model_id": 15731,
+    "dff": "obj38_mask_1",
+    "txd": "acs_31TXD",
+    "name": "Бионическая маска"
+  },
+  {
+    "model_id": 15732,
+    "dff": "obj38_synth_1",
+    "txd": "acs_31TXD",
+    "name": "Клавитара"
+  },
+  {
+    "model_id": 15735,
+    "dff": "obj38_skate_1",
+    "txd": "acs_31TXD",
+    "name": "Пенни борд (голубой)"
+  },
+  {
+    "model_id": 15736,
+    "dff": "obj38_necklace_2",
+    "txd": "acs_31TXD",
+    "name": "Ожерелье Майя"
+  },
+  {
+    "model_id": 15737,
+    "dff": "obj38_skate_2",
+    "txd": "acs_31TXD",
+    "name": "Пенни борд (красный)"
+  },
+  {
+    "model_id": 15738,
+    "dff": "obj38_surik_1",
+    "txd": "acs_31TXD",
+    "name": "Сюрикен на спину"
+  },
+  {
+    "model_id": 15739,
+    "dff": "obj38_glasses_2",
+    "txd": "acs_31TXD",
+    "name": "Ретро очки с леопардом"
+  },
+  {
+    "model_id": 15740,
+    "dff": "obj38_mask_2",
+    "txd": "acs_31TXD",
+    "name": "Нео очки"
+  },
+  {
+    "model_id": 15741,
+    "dff": "obj38_hat_2",
+    "txd": "acs_31TXD",
+    "name": "Крокодиловая шляпа"
+  },
+  {
+    "model_id": 15744,
+    "dff": "obj38_guitar_1",
+    "txd": "acs_31TXD",
+    "name": "Адская гитара"
+  },
+  {
+    "model_id": 15745,
+    "dff": "obj38_claw_1",
+    "txd": "acs_31TXD",
+    "name": "Клешня краба"
+  },
+  {
+    "model_id": 15869,
+    "dff": "binoculars",
+    "txd": "binoculars",
+    "name": "Бинокль"
+  },
+  {
+    "model_id": 15871,
+    "dff": "obj36_flag_1",
+    "txd": "acs36_37",
+    "name": "Красный флаг на спину"
+  },
+  {
+    "model_id": 15872,
+    "dff": "obj36_hat_1",
+    "txd": "acs36_37",
+    "name": "Цветочная маска"
+  },
+  {
+    "model_id": 15873,
+    "dff": "obj36_hat_2",
+    "txd": "acs36_37",
+    "name": "Венец из перьев"
+  },
+  {
+    "model_id": 15875,
+    "dff": "obj36_hat_4",
+    "txd": "acs36_37",
+    "name": "Мексиканская шляпа 1"
+  },
+  {
+    "model_id": 15876,
+    "dff": "obj36_hat_5",
+    "txd": "acs36_37",
+    "name": "Мексиканская шляпа 2"
+  },
+  {
+    "model_id": 15877,
+    "dff": "obj36_hat_6",
+    "txd": "acs36_37",
+    "name": "Корона из перьев"
+  },
+  {
+    "model_id": 15878,
+    "dff": "obj36_head_1",
+    "txd": "acs36_37",
+    "name": "Голова орла"
+  },
+  {
+    "model_id": 15879,
+    "dff": "obj36_head_2",
+    "txd": "acs36_37",
+    "name": "Скафандр с тентаклями"
+  },
+  {
+    "model_id": 15880,
+    "dff": "obj36_head_3",
+    "txd": "acs36_37",
+    "name": "Шлем Cyber Cat"
+  },
+  {
+    "model_id": 15881,
+    "dff": "obj36_mask_1",
+    "txd": "acs36_37",
+    "name": "Неоновая маска маньяка"
+  },
+  {
+    "model_id": 15707,
+    "dff": "obj36_mask_2",
+    "txd": "acs36_37",
+    "name": "Маска рейнджера"
+  },
+  {
+    "model_id": 15709,
+    "dff": "obj36_wings_1",
+    "txd": "acs36_37",
+    "name": "Крылья бабочки (Цветные)"
+  },
+  {
+    "model_id": 15712,
+    "dff": "obj37_dragon_1",
+    "txd": "acs36_37",
+    "name": "Гидра на спину"
+  },
+  {
+    "model_id": 15714,
+    "dff": "obj37_vest_1",
+    "txd": "acs36_37",
+    "name": "Бронежилет Supreme"
+  },
+  {
+    "model_id": 15868,
+    "dff": "obj37_drone_1",
+    "txd": "acs36_37",
+    "name": "Дрон Рабочий"
+  },
+  {
+    "model_id": 15867,
+    "dff": "obj37_drone_2",
+    "txd": "acs36_37",
+    "name": "Дрон Диджей"
+  },
+  {
+    "model_id": 15716,
+    "dff": "obj37_drone_3",
+    "txd": "acs36_37",
+    "name": "Дрон 320"
+  },
+  {
+    "model_id": 15715,
+    "dff": "obj37_mag_sphr_1",
+    "txd": "acs36_37",
+    "name": "Сфера Terra"
+  },
+  {
+    "model_id": 15717,
+    "dff": "obj37_mag_sphr_2",
+    "txd": "acs36_37",
+    "name": "Сфера Aqua"
+  },
+  {
+    "model_id": 15718,
+    "dff": "obj37_mag_sphr_3",
+    "txd": "acs36_37",
+    "name": "Сфера Fire"
+  },
+  {
+    "model_id": 15719,
+    "dff": "obj37_mag_sphr_4",
+    "txd": "acs36_37",
+    "name": "Сфера Air"
+  },
+  {
+    "model_id": 15931,
+    "dff": "obj39_spider_1",
+    "txd": "obj39",
+    "name": "Туловище паука"
+  },
+  {
+    "model_id": 15932,
+    "dff": "obj39_armor_1",
+    "txd": "obj39",
+    "name": "Бронежилет грудь скелета"
+  },
+  {
+    "model_id": 15959,
+    "dff": "obj39_sword_1",
+    "txd": "obj39",
+    "name": "Клинки Аззинота"
+  },
+  {
+    "model_id": 15936,
+    "dff": "obj39_armor_2",
+    "txd": "obj39",
+    "name": "Ледяной щит"
+  },
+  {
+    "model_id": 15939,
+    "dff": "obj39_dem_helmet_1",
+    "txd": "obj39",
+    "name": "Голова скелета с черной накидкой"
+  },
+  {
+    "model_id": 15941,
+    "dff": "obj39_sat_cape_1",
+    "txd": "obj39",
+    "name": "Черный плащ"
+  },
+  {
+    "model_id": 15944,
+    "dff": "obj39_drag_head_1",
+    "txd": "obj39",
+    "name": "Голова Балроги"
+  },
+  {
+    "model_id": 15946,
+    "dff": "obj39_drag_hand_1_R",
+    "txd": "obj39",
+    "name": "Рука Балроги (правая)"
+  },
+  {
+    "model_id": 15950,
+    "dff": "obj39_drag_shldr1L",
+    "txd": "obj39",
+    "name": "Наплечник Балроги (левый)"
+  },
+  {
+    "model_id": 15951,
+    "dff": "obj39_bat_1",
+    "txd": "obj39",
+    "name": "Летучая мышь"
+  },
+  {
+    "model_id": 6571,
+    "dff": "obj39_tyre_1_base",
+    "txd": "obj39",
+    "name": "Шипастый щит"
+  },
+  {
+    "model_id": 15953,
+    "dff": "obj39_pumpkin_1",
+    "txd": "obj39",
+    "name": "Голова Тыква"
+  },
+  {
+    "model_id": 15954,
+    "dff": "obj39_particle1",
+    "txd": "obj39",
+    "name": "Сфера над головой"
+  },
+  {
+    "model_id": 15955,
+    "dff": "obj39_sphere_1",
+    "txd": "obj39",
+    "name": "Магические сфера"
+  },
+  {
+    "model_id": 15956,
+    "dff": "obj39_shark_1",
+    "txd": "obj39",
+    "name": "Механическая акула на спину"
+  },
+  {
+    "model_id": 15957,
+    "dff": "obj39_dem_wing_1",
+    "txd": "obj39",
+    "name": "Крылья сукуба"
+  },
+  {
+    "model_id": 15958,
+    "dff": "obj39_jetpack_1",
+    "txd": "obj39",
+    "name": "Фантастический джетпак"
+  },
+  {
+    "model_id": 16807,
+    "dff": "Hot_Air_Bal_n1",
+    "txd": "balloon_texts",
+    "name": "Магический воздушный шар #1"
+  },
+  {
+    "model_id": 16801,
+    "dff": "Hot_Air_Bal_n2",
+    "txd": "balloon_texts",
+    "name": "Магический воздушный шар #2"
+  },
+  {
+    "model_id": 16802,
+    "dff": "Hot_Air_Bal_n3",
+    "txd": "balloon_texts",
+    "name": "Магический воздушный шар #3"
+  },
+  {
+    "model_id": 16803,
+    "dff": "Hot_Air_Bal_n4",
+    "txd": "balloon_texts",
+    "name": "Магический воздушный шар #4"
+  },
+  {
+    "model_id": 16804,
+    "dff": "Hot_Air_Bal_n5",
+    "txd": "balloon_texts",
+    "name": "Магический воздушный шар #5"
+  },
+  {
+    "model_id": 16805,
+    "dff": "Hot_Air_Bal_n6",
+    "txd": "balloon_texts",
+    "name": "Магический воздушный шар #6"
+  },
+  {
+    "model_id": 16806,
+    "dff": "Hot_Air_Bal_n7",
+    "txd": "balloon_texts",
+    "name": "Магический воздушный шар #7"
+  },
+  {
+    "model_id": 16876,
+    "dff": "but_wings04",
+    "txd": "new_year2023",
+    "name": "Крылья бабочки"
+  },
+  {
+    "model_id": 16877,
+    "dff": "wings_snow",
+    "txd": "new_year2023",
+    "name": "Ледянные крылья"
+  },
+  {
+    "model_id": 16878,
+    "dff": "snowflake",
+    "txd": "new_year2023",
+    "name": "Летающие снежинки"
+  },
+  {
+    "model_id": 16858,
+    "dff": "paimon_rim",
+    "txd": "acs_armor",
+    "name": "Летающая корона"
+  },
+  {
+    "model_id": 15897,
+    "dff": "snowboard1",
+    "txd": "snowboard",
+    "name": "Сноуборд Абстракция"
+  },
+  {
+    "model_id": 15898,
+    "dff": "snowboard2",
+    "txd": "snowboard",
+    "name": "Сноуборд GNU"
+  },
+  {
+    "model_id": 15933,
+    "dff": "snowboard3",
+    "txd": "snowboard",
+    "name": "Сноуборд Santa Cruse"
+  },
+  {
+    "model_id": 15938,
+    "dff": "snowboard4",
+    "txd": "snowboard",
+    "name": "Сноуборд INSINCT"
+  },
+  {
+    "model_id": 15940,
+    "dff": "snowboard5",
+    "txd": "snowboard",
+    "name": "Сноуборд Horse Man"
+  },
+  {
+    "model_id": 15993,
+    "dff": "snowboard6",
+    "txd": "snowboard",
+    "name": "Сноуборд Trick Stick"
+  },
+  {
+    "model_id": 16808,
+    "dff": "obj001_gun1",
+    "txd": "new_year2023",
+    "name": "Рождественское ружья"
+  },
+  {
+    "model_id": 16809,
+    "dff": "obj002_horns",
+    "txd": "new_year2023",
+    "name": "Новогодние оленьи рога"
+  },
+  {
+    "model_id": 16811,
+    "dff": "obj004_hat",
+    "txd": "new_year2023",
+    "name": "Распределяющая шляпа"
+  },
+  {
+    "model_id": 16812,
+    "dff": "xglass",
+    "txd": "new_year2023",
+    "name": "Очки эльфа"
+  },
+  {
+    "model_id": 16814,
+    "dff": "snow_mask",
+    "txd": "new_year2023",
+    "name": "Ледянная маска"
+  },
+  {
+    "model_id": 16823,
+    "dff": "snow_shield",
+    "txd": "new_year2023",
+    "name": "Ледяной щит короля-Лича"
+  },
+  {
+    "model_id": 16824,
+    "dff": "snow_sword",
+    "txd": "new_year2023",
+    "name": "Ледяной меч"
+  },
+  {
+    "model_id": 16825,
+    "dff": "weapon_candy",
+    "txd": "new_year2023",
+    "name": "Ледянец на спину"
+  },
+  {
+    "model_id": 16826,
+    "dff": "xmasgun1",
+    "txd": "new_year2023",
+    "name": "Рождественское AWP на спину"
+  },
+  {
+    "model_id": 16813,
+    "dff": "rabbit_mask",
+    "txd": "new_year2023",
+    "name": "Маска кролика Синяя"
+  },
+  {
+    "model_id": 16859,
+    "dff": "rabbit_mask1",
+    "txd": "new_year2023",
+    "name": "Маска кролика Черно-красная 1"
+  },
+  {
+    "model_id": 16860,
+    "dff": "rabbit_mask2",
+    "txd": "new_year2023",
+    "name": "Маска кролика Розовая"
+  },
+  {
+    "model_id": 16861,
+    "dff": "rabbit_mask3",
+    "txd": "new_year2023",
+    "name": "Маска кролика Серая"
+  },
+  {
+    "model_id": 16862,
+    "dff": "rabbit_mask4",
+    "txd": "new_year2023",
+    "name": "Маска кролика Изумрудная"
+  },
+  {
+    "model_id": 16863,
+    "dff": "rabbit_mask5",
+    "txd": "new_year2023",
+    "name": "Маска кролика Бронзовая"
+  },
+  {
+    "model_id": 16864,
+    "dff": "rabbit_mask6",
+    "txd": "new_year2023",
+    "name": "Маска кролика Черно-красная 2"
+  },
+  {
+    "model_id": 16868,
+    "dff": "glasses_cp",
+    "txd": "cyberpunk",
+    "name": "Очки Netrunnerа"
+  },
+  {
+    "model_id": 16869,
+    "dff": "helmet2077_1",
+    "txd": "cyberpunk",
+    "name": "Шлем Braindance"
+  },
+  {
+    "model_id": 16870,
+    "dff": "helmet2077_2",
+    "txd": "cyberpunk",
+    "name": "Космическая маска"
+  },
+  {
+    "model_id": 16872,
+    "dff": "gun_cp1",
+    "txd": "cyberpunk",
+    "name": "Оружие cyberpunk 1"
+  },
+  {
+    "model_id": 16873,
+    "dff": "gun_cp2",
+    "txd": "cyberpunk",
+    "name": "Оружие cyberpunk 2"
+  },
+  {
+    "model_id": 16874,
+    "dff": "obj_lk01",
+    "txd": "new_year2023",
+    "name": "Шлем господство"
+  },
+  {
+    "model_id": 16875,
+    "dff": "lich_sword",
+    "txd": "new_year2023",
+    "name": "Ледяная скорбь"
+  },
+  {
+    "model_id": 16906,
+    "dff": "obj40_cloak_1",
+    "txd": "obj40_42",
+    "name": "Рождественская накидка на спину"
+  },
+  {
+    "model_id": 16907,
+    "dff": "obj40_cookieman_1",
+    "txd": "obj40_42",
+    "name": "Пряня на спину"
+  },
+  {
+    "model_id": 16908,
+    "dff": "obj40_drone_1",
+    "txd": "obj40_42",
+    "name": "Новогодний компаньон"
+  },
+  {
+    "model_id": 16911,
+    "dff": "obj40_helmet_1",
+    "txd": "obj40_42",
+    "name": "Шлем самурая"
+  },
+  {
+    "model_id": 16912,
+    "dff": "obj40_mish_1",
+    "txd": "obj40_42",
+    "name": "Новогодний дождик на шею"
+  },
+  {
+    "model_id": 16914,
+    "dff": "obj40_santa_belt_1",
+    "txd": "obj40_42",
+    "name": "Пояс Санты"
+  },
+  {
+    "model_id": 16915,
+    "dff": "obj40_santa_shld_1",
+    "txd": "obj40_42",
+    "name": "Накидка Санты"
+  },
+  {
+    "model_id": 16916,
+    "dff": "obj40_skates_neck_1",
+    "txd": "obj40_42",
+    "name": "Белые коньки на шею"
+  },
+  {
+    "model_id": 16917,
+    "dff": "obj40_star_1",
+    "txd": "obj40_42",
+    "name": "Новогодняя звезда на голову"
+  },
+  {
+    "model_id": 16921,
+    "dff": "obj40_tree_s_body_1",
+    "txd": "obj40_42",
+    "name": "Ёлка на туловище"
+  },
+  {
+    "model_id": 16923,
+    "dff": "obj40_harp_1",
+    "txd": "obj40_42",
+    "name": "Арфа на спину"
+  },
+  {
+    "model_id": 16925,
+    "dff": "obj42_backpack_1",
+    "txd": "obj40_42",
+    "name": "Рюкзак Шаманский"
+  },
+  {
+    "model_id": 16926,
+    "dff": "obj42_cardb_helm_1",
+    "txd": "obj40_42",
+    "name": "Пакет на голову"
+  },
+  {
+    "model_id": 16929,
+    "dff": "obj42_cardb_vest_1",
+    "txd": "obj40_42",
+    "name": "Бронежилет из картона"
+  },
+  {
+    "model_id": 16930,
+    "dff": "obj42_flamingo_1",
+    "txd": "obj40_42",
+    "name": "Надувной фламинго"
+  },
+  {
+    "model_id": 16931,
+    "dff": "obj42_glasses_1",
+    "txd": "obj40_42",
+    "name": "Анимированные очки Netrunner"
+  },
+  {
+    "model_id": 16932,
+    "dff": "obj42_vest_1",
+    "txd": "obj40_42",
+    "name": "Бронежилет Netrunner"
+  },
+  {
+    "model_id": 16933,
+    "dff": "obj40_adm_band_1",
+    "txd": "obj40_42",
+    "name": "Браслет «ADMIN»"
+  },
+  {
+    "model_id": 16934,
+    "dff": "obj40_adm_ef_base_1",
+    "txd": "obj40_42",
+    "name": "Маркер «BAD»"
+  },
+  {
+    "model_id": 16935,
+    "dff": "obj40_adm_glass_1",
+    "txd": "obj40_42",
+    "name": "Очки «ADMIN»"
+  },
+  {
+    "model_id": 16936,
+    "dff": "obj40_amulet_base_1",
+    "txd": "obj40_42",
+    "name": "Амулет на спину"
+  },
+  {
+    "model_id": 16937,
+    "dff": "obj40_fish_ef",
+    "txd": "obj40_42",
+    "name": "Эффект «Рыбки в пруду»"
+  },
+  {
+    "model_id": 16938,
+    "dff": "obj40_rubik",
+    "txd": "obj40_42",
+    "name": "Анимированный Кубик-Рубика на спину"
+  },
+  {
+    "model_id": 16940,
+    "dff": "obj40_tree_effect_1",
+    "txd": "obj40_42",
+    "name": "Эффект «Снежная ель»"
+  },
+  {
+    "model_id": 16941,
+    "dff": "obj40_wings_base_1",
+    "txd": "obj40_42",
+    "name": "Великие белые крылья"
+  },
+  {
+    "model_id": 16973,
+    "dff": "adidascap",
+    "txd": "ny23",
+    "name": "Кепка «Adidas» (серая)"
+  },
+  {
+    "model_id": 16974,
+    "dff": "adminhand",
+    "txd": "ny23",
+    "name": "Перчатка «ADMIN»"
+  },
+  {
+    "model_id": 16975,
+    "dff": "armourburger",
+    "txd": "ny23",
+    "name": "Бронежилет «Burger King г*вно»"
+  },
+  {
+    "model_id": 16976,
+    "dff": "boxerban",
+    "txd": "ny23",
+    "name": "Боксерская перчатка «ADMIN»"
+  },
+  {
+    "model_id": 16977,
+    "dff": "burgerhat",
+    "txd": "ny23",
+    "name": "Корона «Burger King г*вн»"
+  },
+  {
+    "model_id": 16978,
+    "dff": "chaosbladeleft",
+    "txd": "ny23",
+    "name": "Клинок Хаоса (левый)"
+  },
+  {
+    "model_id": 16979,
+    "dff": "chaosbladeright",
+    "txd": "ny23",
+    "name": "Клинок Хаоса (правый)"
+  },
+  {
+    "model_id": 16980,
+    "dff": "chaosblades",
+    "txd": "ny23",
+    "name": "Клинки Хаоса на спину"
+  },
+  {
+    "model_id": 16981,
+    "dff": "hshinobi",
+    "txd": "ny23",
+    "name": "Шлем «Shinobi»"
+  },
+  {
+    "model_id": 16982,
+    "dff": "hummerban",
+    "txd": "ny23",
+    "name": "Банхаммер"
+  },
+  {
+    "model_id": 16983,
+    "dff": "loudspeaker",
+    "txd": "ny23",
+    "name": "Мегафон «ADMIN»"
+  },
+  {
+    "model_id": 16984,
+    "dff": "sblade",
+    "txd": "ny23",
+    "name": "Скрытый клинок"
+  },
+  {
+    "model_id": 16985,
+    "dff": "shithead",
+    "txd": "ny23",
+    "name": "Как*шка «Burger King»"
+  },
+  {
+    "model_id": 16986,
+    "dff": "starbuckscap",
+    "txd": "ny23",
+    "name": "Кепка «Starbucks»"
+  },
+  {
+    "model_id": 16987,
+    "dff": "tiktokcap1",
+    "txd": "ny23",
+    "name": "Кепка «TikTok» (серая)"
+  },
+  {
+    "model_id": 16988,
+    "dff": "tiktokcap2",
+    "txd": "ny23",
+    "name": "Кепка «TikTok» (красная)"
+  },
+  {
+    "model_id": 16989,
+    "dff": "tonyheart",
+    "txd": "ny23",
+    "name": "Железное сердце"
+  },
+  {
+    "model_id": 16990,
+    "dff": "vetementscap",
+    "txd": "ny23",
+    "name": "Кепка «Vetements»"
+  },
+  {
+    "model_id": 16991,
+    "dff": "e_scooter1",
+    "txd": "e_scooters",
+    "name": "Переносной электросамокат (1)"
+  },
+  {
+    "model_id": 16992,
+    "dff": "e_scooter2",
+    "txd": "e_scooters",
+    "name": "Переносной электросамокат (2)"
+  },
+  {
+    "model_id": 16993,
+    "dff": "e_scooter3",
+    "txd": "e_scooters",
+    "name": "Переносной электросамокат (3)"
+  },
+  {
+    "model_id": 17487,
+    "dff": "obj44_bagf_3",
+    "txd": "obj44",
+    "name": "Сумка 'Молодежная'"
+  },
+  {
+    "model_id": 17488,
+    "dff": "obj44_chest_1",
+    "txd": "obj44",
+    "name": "Сумка 'Сундук'"
+  },
+  {
+    "model_id": 17489,
+    "dff": "obj44_boombx_1",
+    "txd": "obj44",
+    "name": "Сумка 'Магнитофон BOOMIN'"
+  },
+  {
+    "model_id": 17490,
+    "dff": "obj44_shield_1",
+    "txd": "obj44",
+    "name": "Щит 'Магический бастион'"
+  },
+  {
+    "model_id": 17491,
+    "dff": "obj44_marshm_1",
+    "txd": "obj44",
+    "name": "Шлем 'Marshmello'"
+  },
+  {
+    "model_id": 17493,
+    "dff": "obj44_backpack_1",
+    "txd": "obj44",
+    "name": "Рюкзак 'Голова голема'"
+  },
+  {
+    "model_id": 17494,
+    "dff": "obj44_wheel_1",
+    "txd": "obj44",
+    "name": "Корабельный штурвал на спину"
+  },
+  {
+    "model_id": 17495,
+    "dff": "obj44_tartil_1",
+    "txd": "obj44",
+    "name": "Рюкзак 'Огненный панцирь'"
+  },
+  {
+    "model_id": 17496,
+    "dff": "obj44_sword_1",
+    "txd": "obj44",
+    "name": "Меч 'Повелитель морей'"
+  },
+  {
+    "model_id": 17497,
+    "dff": "obj44_net_1",
+    "txd": "obj44",
+    "name": "Сачок на спину"
+  },
+  {
+    "model_id": 17498,
+    "dff": "obj44_fish_2",
+    "txd": "obj44",
+    "name": "Скелет рыбы на спину"
+  },
+  {
+    "model_id": 17499,
+    "dff": "obj44_compas_1",
+    "txd": "obj44",
+    "name": "Звездный компас на спину"
+  },
+  {
+    "model_id": 17975,
+    "dff": "obj44_anchour_1",
+    "txd": "obj44",
+    "name": "Якорь душ на спину"
+  },
+  {
+    "model_id": 17977,
+    "dff": "obj44_helmet_1",
+    "txd": "obj44",
+    "name": "Шлем PUBG"
+  },
+  {
+    "model_id": 17979,
+    "dff": "obj44_squhat_1",
+    "txd": "obj44",
+    "name": "Шляпа 'Осьминожка'"
+  },
+  {
+    "model_id": 17980,
+    "dff": "obj44_newshat_1",
+    "txd": "obj44",
+    "name": "Шапка из газеты"
+  },
+  {
+    "model_id": 17981,
+    "dff": "obj44_crown_1",
+    "txd": "obj44",
+    "name": "Диадема из ракушек"
+  },
+  {
+    "model_id": 17982,
+    "dff": "obj44_hat_1",
+    "txd": "obj44",
+    "name": "Папайка моряка"
+  },
+  {
+    "model_id": 17983,
+    "dff": "obj44_hat_2",
+    "txd": "obj44",
+    "name": "Шляпа для сафари"
+  },
+  {
+    "model_id": 17984,
+    "dff": "obj44_mask_1",
+    "txd": "obj44",
+    "name": "Маска-эмоджи 'Злой DJ'"
+  },
+  {
+    "model_id": 17985,
+    "dff": "obj44_fishmask_1",
+    "txd": "obj44",
+    "name": "Маска-эмоджи 'Важная рыба'"
+  },
+  {
+    "model_id": 17986,
+    "dff": "obj44_banana_1",
+    "txd": "obj44",
+    "name": "Костюм 'Банан Пили'"
+  },
+  {
+    "model_id": 17988,
+    "dff": "obj44_fish_1",
+    "txd": "obj44",
+    "name": "Золотая рыбка"
+  },
+  {
+    "model_id": 17991,
+    "dff": "obj43_collar_1",
+    "txd": "obj43",
+    "name": "Чокер 'Сердце под замком'"
+  },
+  {
+    "model_id": 17995,
+    "dff": "obj43_bear_1",
+    "txd": "obj43",
+    "name": "Мишка с сердцем на спину"
+  },
+  {
+    "model_id": 17998,
+    "dff": "obj43_wings_1",
+    "txd": "obj43",
+    "name": "Крылья Купидона"
+  },
+  {
+    "model_id": 18111,
+    "dff": "obj43_smile_1",
+    "txd": "obj43",
+    "name": "Любовный смайлик"
+  },
+  {
+    "model_id": 18171,
+    "dff": "est23_mask_2",
+    "txd": "accs_est23",
+    "name": "Маска 'Упоротый заяц'"
+  },
+  {
+    "model_id": 18172,
+    "dff": "est23_head_1",
+    "txd": "accs_est23",
+    "name": "Шлем 'Киберзаяц'"
+  },
+  {
+    "model_id": 18173,
+    "dff": "est23_head_2",
+    "txd": "accs_est23",
+    "name": "Шлем 'Заяц-дройд'"
+  },
+  {
+    "model_id": 18174,
+    "dff": "est23_azirhead_1",
+    "txd": "accs_est23",
+    "name": "Шлем 'Броня 80lvl'"
+  },
+  {
+    "model_id": 18175,
+    "dff": "est23_spivyhead_1",
+    "txd": "accs_est23",
+    "name": "Голова 'Лесная фея'"
+  },
+  {
+    "model_id": 18176,
+    "dff": "est23_womhead_1",
+    "txd": "accs_est23",
+    "name": "Шлем 'Железный заяц'"
+  },
+  {
+    "model_id": 18177,
+    "dff": "est23_bag_1",
+    "txd": "accs_est23",
+    "name": "Кролик 'Happy Easter' на спину"
+  },
+  {
+    "model_id": 18178,
+    "dff": "est23_bag_2",
+    "txd": "accs_est23",
+    "name": "Рюкзак 'К прыжку готов!'"
+  },
+  {
+    "model_id": 18179,
+    "dff": "est23_spivytail_1",
+    "txd": "accs_est23",
+    "name": "Крылья 'Лесная фея'"
+  },
+  {
+    "model_id": 18180,
+    "dff": "est23_hand_r_1",
+    "txd": "accs_est23",
+    "name": "Перчатка 'Киберзаяц' - Правая"
+  },
+  {
+    "model_id": 18181,
+    "dff": "est23_womsld_R_1",
+    "txd": "accs_est23",
+    "name": "Наплечник 'Команда зайцев' - Правый"
+  },
+  {
+    "model_id": 18182,
+    "dff": "est23_hand_l_1",
+    "txd": "accs_est23",
+    "name": "Перчатка 'Киберзаяц' - Левая"
+  },
+  {
+    "model_id": 18183,
+    "dff": "est23_womsld_L_1",
+    "txd": "accs_est23",
+    "name": "Наплечник 'Команда зайцев' - Левый"
+  },
+  {
+    "model_id": 18184,
+    "dff": "est23_gun_1",
+    "txd": "accs_est23",
+    "name": "Лучевая пушка 'МарковкаТрон'"
+  },
+  {
+    "model_id": 18185,
+    "dff": "est23_shldr_l_1",
+    "txd": "accs_est23",
+    "name": "Розовый глазастый шар' - Левый"
+  },
+  {
+    "model_id": 18186,
+    "dff": "est23_shldr_r_1",
+    "txd": "accs_est23",
+    "name": "Розовый глазастый шар' - Правый"
+  },
+  {
+    "model_id": 18187,
+    "dff": "est23_vest_1",
+    "txd": "accs_est23",
+    "name": "Бронежилет 'Заяц-вожак'"
+  },
+  {
+    "model_id": 18188,
+    "dff": "est23_azirtorso_1",
+    "txd": "accs_est23",
+    "name": "Бронежилет 'Броня 80lvl'"
+  },
+  {
+    "model_id": 18189,
+    "dff": "est23_azirbelt_1",
+    "txd": "accs_est23",
+    "name": "Пояс 'Броня 80lvl'"
+  },
+  {
+    "model_id": 18190,
+    "dff": "est23_spivybelt_1",
+    "txd": "accs_est23",
+    "name": "Юбка 'Лесная фея'"
+  },
+  {
+    "model_id": 18191,
+    "dff": "est23_azirhand_R_1",
+    "txd": "accs_est23",
+    "name": "Наручи 'Броня 80lvl' - Правые"
+  },
+  {
+    "model_id": 18192,
+    "dff": "est23_spivyspikeR1",
+    "txd": "accs_est23",
+    "name": "Наручи 'Лесная фея' - Правые"
+  },
+  {
+    "model_id": 18193,
+    "dff": "est23_womhand_R_1",
+    "txd": "accs_est23",
+    "name": "Рука 'Железный заяц' - правая"
+  },
+  {
+    "model_id": 18194,
+    "dff": "est23_azirhand_L_1",
+    "txd": "accs_est23",
+    "name": "Наручи 'Броня 80lvl' - Левые"
+  },
+  {
+    "model_id": 18195,
+    "dff": "est23_spivyspikeL1",
+    "txd": "accs_est23",
+    "name": "Наручи 'Лесная фея' - Левые"
+  },
+  {
+    "model_id": 18196,
+    "dff": "est23_womhand_L_1",
+    "txd": "accs_est23",
+    "name": "Рука 'Железный заяц' - левая"
+  },
+  {
+    "model_id": 18197,
+    "dff": "est23_azirspare_1",
+    "txd": "accs_est23",
+    "name": "Броня 80lvl - Копье на спину"
+  },
+  {
+    "model_id": 18198,
+    "dff": "est23_drone_1",
+    "txd": "accs_est23",
+    "name": "Дрон 'Пасхалка #010'"
+  },
+  {
+    "model_id": 15391,
+    "dff": "obj50_mask_1",
+    "txd": "obj50",
+    "name": "Маска-невидимка"
+  },
+  {
+    "model_id": 15393,
+    "dff": "obj50_goldbag_2",
+    "txd": "obj50",
+    "name": "Небесный чемодан"
+  },
+  {
+    "model_id": 15394,
+    "dff": "obj50_ironmanbag_1",
+    "txd": "obj50",
+    "name": "Чемодан Железного Человека"
+  },
+  {
+    "model_id": 15395,
+    "dff": "obj50_magicbag_1",
+    "txd": "obj50",
+    "name": "Магический чемодан"
+  },
+  {
+    "model_id": 15413,
+    "dff": "obj50_rgbbag_1",
+    "txd": "obj50",
+    "name": "RGB Чемодан"
+  },
+  {
+    "model_id": 15414,
+    "dff": "obj50_scullbag_2",
+    "txd": "obj50",
+    "name": "Дьявольский чемодан"
+  },
+  {
+    "model_id": 15415,
+    "dff": "obj50_zombiebag_1",
+    "txd": "obj50",
+    "name": "Чемодан зомби"
+  },
+  {
+    "model_id": 15451,
+    "dff": "obj51_angel_bp",
+    "txd": "obj51",
+    "name": "Ангельский ранец"
+  },
+  {
+    "model_id": 15452,
+    "dff": "obj51_banana_cat",
+    "txd": "obj51",
+    "name": "Рюкзак «Банановый кот»"
+  },
+  {
+    "model_id": 15453,
+    "dff": "obj51_berserk_sw",
+    "txd": "obj51",
+    "name": "Убийца Драконов"
+  },
+  {
+    "model_id": 15454,
+    "dff": "obj51_bmo",
+    "txd": "obj51",
+    "name": "БиМО"
+  },
+  {
+    "model_id": 15457,
+    "dff": "obj51_bp_owl",
+    "txd": "obj51",
+    "name": "Рюкзак «Сова»"
+  },
+  {
+    "model_id": 15553,
+    "dff": "obj51_bp_shark",
+    "txd": "obj51",
+    "name": "Рюкзак «Акула»"
+  },
+  {
+    "model_id": 15454,
+    "dff": "obj51_bmo",
+    "txd": "obj51",
+    "name": "БиМО"
+  },
+  {
+    "model_id": 15457,
+    "dff": "obj51_bp_owl",
+    "txd": "obj51",
+    "name": "Рюкзак «Сова»"
+  },
+  {
+    "model_id": 15553,
+    "dff": "obj51_bp_shark",
+    "txd": "obj51",
+    "name": "Рюкзак «Акула»"
+  },
+  {
+    "model_id": 15556,
+    "dff": "obj51_capacc4",
+    "txd": "obj51",
+    "name": "Кепка Диппера"
+  },
+  {
+    "model_id": 15561,
+    "dff": "obj51_gaara_barrel",
+    "txd": "obj51",
+    "name": "Песчаная Тыква"
+  },
+  {
+    "model_id": 15576,
+    "dff": "obj51_lumpy",
+    "txd": "obj51",
+    "name": "Рюкзак «Принцесса Лумпи»"
+  },
+  {
+    "model_id": 15554,
+    "dff": "obj51_bulbasaur",
+    "txd": "obj51",
+    "name": "Бульбазавр"
+  },
+  {
+    "model_id": 15555,
+    "dff": "obj51_c3po",
+    "txd": "obj51",
+    "name": "C-3PO"
+  },
+  {
+    "model_id": 15606,
+    "dff": "obj51_chain_sch",
+    "txd": "obj51",
+    "name": "Цепь «Махинатор»"
+  },
+  {
+    "model_id": 15560,
+    "dff": "obj51_chebacca",
+    "txd": "obj51",
+    "name": "Маска Чубаки"
+  },
+  {
+    "model_id": 15562,
+    "dff": "obj51_groot_mini",
+    "txd": "obj51",
+    "name": "Мини-Грут"
+  },
+  {
+    "model_id": 15563,
+    "dff": "obj51_helm_horns",
+    "txd": "obj51",
+    "name": "Шлем с рогами"
+  },
+  {
+    "model_id": 15564,
+    "dff": "obj51_hlm_chicken",
+    "txd": "obj51",
+    "name": "Маска Курицы"
+  },
+  {
+    "model_id": 15565,
+    "dff": "obj51_hlm_cobra",
+    "txd": "obj51",
+    "name": "Маска Кобры"
+  },
+  {
+    "model_id": 15566,
+    "dff": "obj51_hlm_owl",
+    "txd": "obj51",
+    "name": "Маска Совы"
+  },
+  {
+    "model_id": 15569,
+    "dff": "obj51_hlm_rooster",
+    "txd": "obj51",
+    "name": "Маска Петуха"
+  },
+  {
+    "model_id": 15572,
+    "dff": "obj51_jedi_helmet",
+    "txd": "obj51",
+    "name": "Шлем Мандалорца"
+  },
+  {
+    "model_id": 15575,
+    "dff": "obj51_jedipink",
+    "txd": "obj51",
+    "name": "Джедайский меч"
+  },
+  {
+    "model_id": 15577,
+    "dff": "obj51_mask_shrek",
+    "txd": "obj51",
+    "name": "Маска Шрека"
+  },
+  {
+    "model_id": 15578,
+    "dff": "obj51_movie",
+    "txd": "obj51",
+    "name": "Табличка «Фрапс пишется»"
+  },
+  {
+    "model_id": 15579,
+    "dff": "obj51_pepe",
+    "txd": "obj51",
+    "name": "Грустный Пепе"
+  },
+  {
+    "model_id": 15580,
+    "dff": "obj51_pepe2",
+    "txd": "obj51",
+    "name": "Веселый Пепе"
+  },
+  {
+    "model_id": 15579,
+    "dff": "obj51_pepe",
+    "txd": "obj51",
+    "name": "Грустный Пепе"
+  },
+  {
+    "model_id": 15580,
+    "dff": "obj51_pepe2",
+    "txd": "obj51",
+    "name": "Веселый Пепе"
+  },
+  {
+    "model_id": 15582,
+    "dff": "obj51_trooper_helm",
+    "txd": "obj51",
+    "name": "Шлем штурмовика"
+  },
+  {
+    "model_id": 15583,
+    "dff": "obj51_thing",
+    "txd": "obj51",
+    "name": "Вещь"
+  },
+  {
+    "model_id": 6626,
+    "dff": "obj51_helm_pubg1",
+    "txd": "obj51",
+    "name": "Шлем «Гермес»"
+  },
+  {
+    "model_id": 6627,
+    "dff": "obj51_helm_pubg2",
+    "txd": "obj51",
+    "name": "Шлем «Шипы»"
+  },
+  {
+    "model_id": 6628,
+    "dff": "obj51_helm_pubg3",
+    "txd": "obj51",
+    "name": "Шлем «Джокер»"
+  },
+  {
+    "model_id": 6629,
+    "dff": "obj51_helm_pubg4",
+    "txd": "obj51",
+    "name": "Шлем «Собачка»"
+  },
+  {
+    "model_id": 6630,
+    "dff": "obj51_helm_pubg5",
+    "txd": "obj51",
+    "name": "Шлем «Лич»"
+  },
+  {
+    "model_id": 6631,
+    "dff": "obj51_helm_pubg6",
+    "txd": "obj51",
+    "name": "Шлем «Морозный»"
+  },
+  {
+    "model_id": 15584,
+    "dff": "obj51_bb8_zv",
+    "txd": "obj51",
+    "name": "BB-8"
+  },
+  {
+    "model_id": 15585,
+    "dff": "obj51_death_star",
+    "txd": "obj51",
+    "name": "Звезда смерти"
+  },
+  {
+    "model_id": 15586,
+    "dff": "obj51_yoda_zv",
+    "txd": "obj51",
+    "name": "Маленький Йода"
+  },
+  {
+    "model_id": 15588,
+    "dff": "obj51_tiefighter",
+    "txd": "obj51",
+    "name": "Разведывательный корабль"
+  },
+  {
+    "model_id": 15590,
+    "dff": "obj51_wings_over",
+    "txd": "obj51",
+    "name": "Крылья Ангела"
+  },
+  {
+    "model_id": 15593,
+    "dff": "obj51_xwing",
+    "txd": "obj51",
+    "name": "«X-wing»"
+  },
+  {
+    "model_id": 6643,
+    "dff": "flyingeggs",
+    "txd": "accs_east23",
+    "name": "Пасхальный нимб"
+  },
+  {
+    "model_id": 6644,
+    "dff": "nestchicken",
+    "txd": "accs_east23",
+    "name": "Курочка в гнезде"
+  },
+  {
+    "model_id": 6632,
+    "dff": "carrotsword",
+    "txd": "accs_east23",
+    "name": "Меч-морковка"
+  },
+  {
+    "model_id": 6633,
+    "dff": "easterback",
+    "txd": "accs_east23",
+    "name": "Пасхальный рюкзак"
+  },
+  {
+    "model_id": 6634,
+    "dff": "eastercake",
+    "txd": "accs_east23",
+    "name": "Кулич"
+  },
+  {
+    "model_id": 6635,
+    "dff": "eggbasket",
+    "txd": "accs_east23",
+    "name": "Корзина с яйцами"
+  },
+  {
+    "model_id": 6636,
+    "dff": "rabbitears1",
+    "txd": "accs_east23",
+    "name": "Ушки зайчика «Белые»"
+  },
+  {
+    "model_id": 6637,
+    "dff": "rabbitears2",
+    "txd": "accs_east23",
+    "name": "Ушки зайчика «Голубые»"
+  },
+  {
+    "model_id": 6638,
+    "dff": "rabbitears3",
+    "txd": "accs_east23",
+    "name": "Ушки зайчика «Желтые»"
+  },
+  {
+    "model_id": 6639,
+    "dff": "xbvest",
+    "txd": "accs_east23",
+    "name": "Пасхальный бронежилет (1)"
+  },
+  {
+    "model_id": 6640,
+    "dff": "xbvest1",
+    "txd": "accs_east23",
+    "name": "Пасхальный бронежилет (2)"
+  },
+  {
+    "model_id": 6641,
+    "dff": "xbvest2",
+    "txd": "accs_east23",
+    "name": "Пасхальный бронежилет (3)"
+  },
+  {
+    "model_id": 6642,
+    "dff": "xbvest3",
+    "txd": "accs_east23",
+    "name": "Пасхальный бронежилет (4)"
+  },
+  {
+    "model_id": 18169,
+    "dff": "est23_cap_1",
+    "txd": "accs_est23",
+    "name": "Ушастая кепка"
+  },
+  {
+    "model_id": 18170,
+    "dff": "est23_mask_1",
+    "txd": "accs_est23",
+    "name": "Маска 'Ушастый кролик'"
+  },
+  {
+    "model_id": 14149,
+    "dff": "obj52_balalaika",
+    "txd": "accs_obj52",
+    "name": "Балалайка в руку"
+  },
+  {
+    "model_id": 14150,
+    "dff": "obj52_crow_bird",
+    "txd": "accs_obj52",
+    "name": "Ворона на плечо"
+  },
+  {
+    "model_id": 14153,
+    "dff": "obj52_gusli",
+    "txd": "accs_obj52",
+    "name": "Гусли на спину"
+  },
+  {
+    "model_id": 14155,
+    "dff": "obj52_kokoshnik_01",
+    "txd": "accs_obj52",
+    "name": "Кокошник"
+  },
+  {
+    "model_id": 14157,
+    "dff": "obj52_maxe2",
+    "txd": "accs_obj52",
+    "name": "Бердыш"
+  },
+  {
+    "model_id": 14158,
+    "dff": "obj52_metal_helmet",
+    "txd": "accs_obj52",
+    "name": "Металлический шлем"
+  },
+  {
+    "model_id": 14159,
+    "dff": "obj52_mhelmet1",
+    "txd": "accs_obj52",
+    "name": "Золотой шлем"
+  },
+  {
+    "model_id": 14160,
+    "dff": "obj52_mhelmet2",
+    "txd": "accs_obj52",
+    "name": "Кольчужный шлем"
+  },
+  {
+    "model_id": 14161,
+    "dff": "obj52_mmace",
+    "txd": "accs_obj52",
+    "name": "Булава"
+  },
+  {
+    "model_id": 14162,
+    "dff": "obj52_mshield1",
+    "txd": "accs_obj52",
+    "name": "Щит миндалевидный 'Грифон' на спину"
+  },
+  {
+    "model_id": 14163,
+    "dff": "obj52_mshield2",
+    "txd": "accs_obj52",
+    "name": "Круглый щит на спину"
+  },
+  {
+    "model_id": 14164,
+    "dff": "obj52_msword",
+    "txd": "accs_obj52",
+    "name": "Меч в ножнах на пояс"
+  },
+  {
+    "model_id": 14284,
+    "dff": "obj53_glasses_1",
+    "txd": "obj53",
+    "name": "Очки «Доллар»"
+  },
+  {
+    "model_id": 14285,
+    "dff": "obj53_helmet_2",
+    "txd": "obj53",
+    "name": "Шлем «Франкенштейн»"
+  },
+  {
+    "model_id": 14286,
+    "dff": "obj53_dread_2",
+    "txd": "obj53",
+    "name": "Красные дреды"
+  },
+  {
+    "model_id": 14287,
+    "dff": "obj53_dread_3",
+    "txd": "obj53",
+    "name": "Голубые дреды"
+  },
+  {
+    "model_id": 14288,
+    "dff": "obj53_dread_1",
+    "txd": "obj53",
+    "name": "Салатовые дреды"
+  },
+  {
+    "model_id": 14289,
+    "dff": "obj53_decoration_1",
+    "txd": "obj53",
+    "name": "Цепь «Bitcoin»"
+  },
+  {
+    "model_id": 14290,
+    "dff": "obj53_mask_1",
+    "txd": "obj53",
+    "name": "Кислотная балаклава"
+  },
+  {
+    "model_id": 14291,
+    "dff": "obj53_mask_2",
+    "txd": "obj53",
+    "name": "Маска «Красный череп»"
+  },
+  {
+    "model_id": 14292,
+    "dff": "obj53_mask_4",
+    "txd": "obj53",
+    "name": "Маска «Неоновый череп»"
+  },
+  {
+    "model_id": 14293,
+    "dff": "obj53_mask_5",
+    "txd": "obj53",
+    "name": "Маска с очками"
+  },
+  {
+    "model_id": 14294,
+    "dff": "obj53_helmet_1",
+    "txd": "obj53",
+    "name": "Шлем «Железные крылья»"
+  },
+  {
+    "model_id": 14295,
+    "dff": "obj53_back_2",
+    "txd": "obj53",
+    "name": "Рюкзак «Маски падших»"
+  },
+  {
+    "model_id": 14296,
+    "dff": "obj53_marijuana_1",
+    "txd": "obj53",
+    "name": "Пакетик укропа на спину"
+  },
+  {
+    "model_id": 14297,
+    "dff": "obj53_body_1",
+    "txd": "obj53",
+    "name": "Мумия на спину"
+  },
+  {
+    "model_id": 14298,
+    "dff": "obj53_back_1",
+    "txd": "obj53",
+    "name": "Рюкзак «Меха-щит»"
+  },
+  {
+    "model_id": 14299,
+    "dff": "obj53_armor_2",
+    "txd": "obj53",
+    "name": "Бронежилет «Франкенштейн»"
+  },
+  {
+    "model_id": 14301,
+    "dff": "obj53_armor_1",
+    "txd": "obj53",
+    "name": "Бронежилет «Железные крылья»"
+  },
+  {
+    "model_id": 14302,
+    "dff": "obj53_belt_1",
+    "txd": "obj53",
+    "name": "Пояс «Косилка»"
+  },
+  {
+    "model_id": 14303,
+    "dff": "obj53_belt_2",
+    "txd": "obj53",
+    "name": "Полицейский пояс"
+  },
+  {
+    "model_id": 14304,
+    "dff": "obj53_mask_3",
+    "txd": "obj53",
+    "name": "Кроличья бандана"
+  },
+  {
+    "model_id": 14305,
+    "dff": "obj53_knife_1",
+    "txd": "obj53",
+    "name": "Нож-кастет"
+  },
+  {
+    "model_id": 14306,
+    "dff": "obj53_axe_2",
+    "txd": "obj53",
+    "name": "Топор «Магма»"
+  },
+  {
+    "model_id": 14307,
+    "dff": "obj53_banana_1",
+    "txd": "obj53",
+    "name": "Рюкзак «Фиолетовый банан»"
+  },
+  {
+    "model_id": 14308,
+    "dff": "obj53_bomb_1",
+    "txd": "obj53",
+    "name": "Рюкзак «Неоновая граната»"
+  },
+  {
+    "model_id": 14309,
+    "dff": "obj53_bomb_2",
+    "txd": "obj53",
+    "name": "Рюкзак «Динамит»"
+  },
+  {
+    "model_id": 14310,
+    "dff": "obj53_gun_1",
+    "txd": "obj53",
+    "name": "Рюкзак «Банана-пушка»"
+  },
+  {
+    "model_id": 14311,
+    "dff": "obj53_gun_2",
+    "txd": "obj53",
+    "name": "Радужный UZI на спину"
+  },
+  {
+    "model_id": 14312,
+    "dff": "obj53_ration_1",
+    "txd": "obj53",
+    "name": "Весёлая рация на спину"
+  },
+  {
+    "model_id": 14313,
+    "dff": "obj53_sword_1",
+    "txd": "obj53",
+    "name": "Ледяной меч на спину"
+  },
+  {
+    "model_id": 14314,
+    "dff": "obj53_axe_1",
+    "txd": "obj53",
+    "name": "Булава «Крылья бабочки»"
+  },
+  {
+    "model_id": 14319,
+    "dff": "obj53_back_4",
+    "txd": "obj53",
+    "name": "Сумка с мозгами"
+  },
+  {
+    "model_id": 14320,
+    "dff": "obj53_back_3",
+    "txd": "obj53",
+    "name": "Кислотная сумка"
+  },
+  {
+    "model_id": 14321,
+    "dff": "obj53_hand_L_1",
+    "txd": "obj53",
+    "name": "Бионическая перчатка (левая)"
+  },
+  {
+    "model_id": 14322,
+    "dff": "obj53_hand_R_1",
+    "txd": "obj53",
+    "name": "Бионическая перчатка (правая)"
+  },
+  {
+    "model_id": 14190,
+    "dff": "obj52_vestaot",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Атака Титанов»"
+  },
+  {
+    "model_id": 14191,
+    "dff": "obj52_vestaway",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Унесенные призраками»"
+  },
+  {
+    "model_id": 14196,
+    "dff": "obj52_vestbojack",
+    "txd": "obj52_1",
+    "name": "Бронежилет Конь БоДжек»"
+  },
+  {
+    "model_id": 14197,
+    "dff": "obj52_vestdn",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Лайт»"
+  },
+  {
+    "model_id": 14198,
+    "dff": "obj52_vestgf",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Гравити Фолз»"
+  },
+  {
+    "model_id": 14199,
+    "dff": "obj52_vesthorde",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Орда»"
+  },
+  {
+    "model_id": 14200,
+    "dff": "obj52_vestmarvel",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Щ.И.Т.»"
+  },
+  {
+    "model_id": 14201,
+    "dff": "obj52_vestmk",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Мортал Комбат»"
+  },
+  {
+    "model_id": 14202,
+    "dff": "obj52_vestsg",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Игра в кальмара»"
+  },
+  {
+    "model_id": 14203,
+    "dff": "obj52_vestsimp",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Симпсоны»"
+  },
+  {
+    "model_id": 14204,
+    "dff": "obj52_vestsp",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Южный Парк»"
+  },
+  {
+    "model_id": 14205,
+    "dff": "obj52_vestuchiha",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Учиха»"
+  },
+  {
+    "model_id": 14206,
+    "dff": "obj52_vestwd",
+    "txd": "obj52_1",
+    "name": "Бронежилет «Невермор»"
+  },
+  {
+    "model_id": 14207,
+    "dff": "obj52_cap_stone",
+    "txd": "obj52_1",
+    "name": "Кепка «Stone Island»"
+  },
+  {
+    "model_id": 14208,
+    "dff": "obj52_glasses_8bit",
+    "txd": "obj52_1",
+    "name": "Очки «8Бит»"
+  },
+  {
+    "model_id": 14209,
+    "dff": "obj52_glasses_bal",
+    "txd": "obj52_1",
+    "name": "Очки «Balenciaga»"
+  },
+  {
+    "model_id": 14210,
+    "dff": "obj52_head_panam_6",
+    "txd": "obj52_1",
+    "name": "Панамка с коноплей"
+  },
+  {
+    "model_id": 14211,
+    "dff": "obj52_head_panam_7",
+    "txd": "obj52_1",
+    "name": "Панамка «Balenciaga»"
+  },
+  {
+    "model_id": 14212,
+    "dff": "obj52_heart_glasses",
+    "txd": "obj52_1",
+    "name": "Очки в форме сердца"
+  },
+  {
+    "model_id": 14213,
+    "dff": "obj52_cap_gucci",
+    "txd": "obj52_1",
+    "name": "Кепка «Gucci»"
+  },
+  {
+    "model_id": 14214,
+    "dff": "obj52_anglerfish",
+    "txd": "obj52_1",
+    "name": "Морской черт"
+  },
+  {
+    "model_id": 14215,
+    "dff": "obj52_candlehat",
+    "txd": "obj52_1",
+    "name": "Шляпа со свечой"
+  },
+  {
+    "model_id": 14216,
+    "dff": "obj52_chainsawman",
+    "txd": "obj52_1",
+    "name": "Шлем бензопила"
+  },
+  {
+    "model_id": 14217,
+    "dff": "obj52_haganezuka",
+    "txd": "obj52_1",
+    "name": "Маска Хаганезуки"
+  },
+  {
+    "model_id": 14218,
+    "dff": "obj52_onimask",
+    "txd": "obj52_1",
+    "name": "Маска Oni"
+  },
+  {
+    "model_id": 14219,
+    "dff": "obj52_samhelmet",
+    "txd": "obj52_1",
+    "name": "Самурайский шлем"
+  },
+  {
+    "model_id": 14220,
+    "dff": "obj52_antmanhelmet",
+    "txd": "obj52_1",
+    "name": "Шлем человека-муравья"
+  },
+  {
+    "model_id": 14221,
+    "dff": "obj52_bojack",
+    "txd": "obj52_1",
+    "name": "Голова БоДжек"
+  },
+  {
+    "model_id": 14222,
+    "dff": "obj52_gruncle",
+    "txd": "obj52_1",
+    "name": "Маска «Стэнли Пайнс»"
+  },
+  {
+    "model_id": 14223,
+    "dff": "obj52_kabuka",
+    "txd": "obj52_1",
+    "name": "Пугало-репка"
+  },
+  {
+    "model_id": 14224,
+    "dff": "obj52_kashirahead",
+    "txd": "obj52_1",
+    "name": "Кашира"
+  },
+  {
+    "model_id": 14225,
+    "dff": "obj52_noface",
+    "txd": "obj52_1",
+    "name": "Безликий"
+  },
+  {
+    "model_id": 14226,
+    "dff": "obj52_stcap",
+    "txd": "obj52_1",
+    "name": "Кепка «Очень странные дела»"
+  },
+  {
+    "model_id": 14227,
+    "dff": "obj52_wolfmedal",
+    "txd": "obj52_1",
+    "name": "Медальон Ведьмка"
+  },
+  {
+    "model_id": 14228,
+    "dff": "obj52_ninetails",
+    "txd": "obj52_1",
+    "name": "Хвост Кьюби"
+  },
+  {
+    "model_id": 14229,
+    "dff": "obj52_odm",
+    "txd": "obj52_1",
+    "name": "УПМП"
+  },
+  {
+    "model_id": 14230,
+    "dff": "obj52_bag_prem1",
+    "txd": "obj52_1",
+    "name": "Сумка «Gucci»"
+  },
+  {
+    "model_id": 14231,
+    "dff": "obj52_bag_prem2",
+    "txd": "obj52_1",
+    "name": "Сумка «Tommy Hilfiger»"
+  },
+  {
+    "model_id": 14232,
+    "dff": "obj52_bag_prem3",
+    "txd": "obj52_1",
+    "name": "Сумка «Kenzo»"
+  },
+  {
+    "model_id": 14233,
+    "dff": "obj52_bag_prem4",
+    "txd": "obj52_1",
+    "name": "Белая сумка «Stone Island»"
+  },
+  {
+    "model_id": 14234,
+    "dff": "obj52_bag_prem5",
+    "txd": "obj52_1",
+    "name": "Серая сумка «Stone Island»"
+  },
+  {
+    "model_id": 14235,
+    "dff": "obj52_bag_prem6",
+    "txd": "obj52_1",
+    "name": "Кислотная сумка «Stone Island»"
+  },
+  {
+    "model_id": 14236,
+    "dff": "obj52_fortaxe",
+    "txd": "obj52_1",
+    "name": "Razor Edge"
+  },
+  {
+    "model_id": 14237,
+    "dff": "obj52_hookmodern",
+    "txd": "obj52_1",
+    "name": "Модерновый серп"
+  },
+  {
+    "model_id": 14238,
+    "dff": "obj52_portalgun",
+    "txd": "obj52_1",
+    "name": "Портальная пушка (подделка)"
+  },
+  {
+    "model_id": 14239,
+    "dff": "obj52_shashleek",
+    "txd": "obj52_1",
+    "name": "Шашлык в руку"
+  },
+  {
+    "model_id": 14240,
+    "dff": "obj52_aotblade",
+    "txd": "obj52_1",
+    "name": "Лезвие"
+  },
+  {
+    "model_id": 14241,
+    "dff": "obj52_aotspear",
+    "txd": "obj52_1",
+    "name": "Громовое копье"
+  },
+  {
+    "model_id": 14242,
+    "dff": "obj52_deathnote",
+    "txd": "obj52_1",
+    "name": "Тетрадь смерти"
+  },
+  {
+    "model_id": 14243,
+    "dff": "obj52_duffhummer",
+    "txd": "obj52_1",
+    "name": "Молот «Duff»"
+  },
+  {
+    "model_id": 14244,
+    "dff": "obj52_stormbreaker",
+    "txd": "obj52_1",
+    "name": "Штормбрейкер"
+  },
+  {
+    "model_id": 14245,
+    "dff": "obj52_sulfuras",
+    "txd": "obj52_1",
+    "name": "Сульфурас"
+  },
+  {
+    "model_id": 14246,
+    "dff": "obj52_cartman",
+    "txd": "obj52_1",
+    "name": "Картман на плечо"
+  },
+  {
+    "model_id": 14247,
+    "dff": "obj52_kenny",
+    "txd": "obj52_1",
+    "name": "Кенни на плечо"
+  },
+  {
+    "model_id": 14248,
+    "dff": "obj52_kyle",
+    "txd": "obj52_1",
+    "name": "Кайл на плечо"
+  },
+  {
+    "model_id": 14249,
+    "dff": "obj52_sgchibi1",
+    "txd": "obj52_1",
+    "name": "Розовый рабочий на плечо"
+  },
+  {
+    "model_id": 14250,
+    "dff": "obj52_sgchibi2",
+    "txd": "obj52_1",
+    "name": "Розовый солдат на плечо"
+  },
+  {
+    "model_id": 14251,
+    "dff": "obj52_sgchibi3",
+    "txd": "obj52_1",
+    "name": "Розовый менеджер на плечо"
+  },
+  {
+    "model_id": 14252,
+    "dff": "obj52_stan",
+    "txd": "obj52_1",
+    "name": "Стэн на плечо"
+  },
+  {
+    "model_id": 14253,
+    "dff": "obj52_bars005",
+    "txd": "obj52_1",
+    "name": "Барсетка «Balenciga»"
+  },
+  {
+    "model_id": 14254,
+    "dff": "obj52_bars006",
+    "txd": "obj52_1",
+    "name": "Барсетка «Gucci»"
+  },
+  {
+    "model_id": 14255,
+    "dff": "obj52_bars007",
+    "txd": "obj52_1",
+    "name": "Красная барсетка «Gucci»"
+  },
+  {
+    "model_id": 14256,
+    "dff": "obj52_bigbacksword",
+    "txd": "obj52_1",
+    "name": "Большой меч на спину"
+  },
+  {
+    "model_id": 14257,
+    "dff": "obj52_davinchiwings",
+    "txd": "obj52_1",
+    "name": "Крылья Давинчи"
+  },
+  {
+    "model_id": 14258,
+    "dff": "obj52_energypack",
+    "txd": "obj52_1",
+    "name": "Энергетический рюкзак"
+  },
+  {
+    "model_id": 14259,
+    "dff": "obj52_medbackpack",
+    "txd": "obj52_1",
+    "name": "Медицинский рюкзак"
+  },
+  {
+    "model_id": 14260,
+    "dff": "obj52_regbackpack",
+    "txd": "obj52_1",
+    "name": "Рюкзак с пулями"
+  },
+  {
+    "model_id": 14261,
+    "dff": "obj52_akatsukibp",
+    "txd": "obj52_1",
+    "name": "Рюкзак «Акатсуки»"
+  },
+  {
+    "model_id": 14262,
+    "dff": "obj52_aotbacklogo",
+    "txd": "obj52_1",
+    "name": "Крылья свободы"
+  },
+  {
+    "model_id": 14263,
+    "dff": "obj52_aotbackpack",
+    "txd": "obj52_1",
+    "name": "Рюкзак «Атака Титанов»"
+  },
+  {
+    "model_id": 14264,
+    "dff": "obj52_dnbackpack",
+    "txd": "obj52_1",
+    "name": "Рюкзак «L»"
+  },
+  {
+    "model_id": 14265,
+    "dff": "obj52_dollwd",
+    "txd": "obj52_1",
+    "name": "Кукла Венсдей"
+  },
+  {
+    "model_id": 14266,
+    "dff": "obj52_dpkatanas",
+    "txd": "obj52_1",
+    "name": "Катаны Дедпула"
+  },
+  {
+    "model_id": 14267,
+    "dff": "obj52_gfbackpack",
+    "txd": "obj52_1",
+    "name": "Гравити Фолз"
+  },
+  {
+    "model_id": 14268,
+    "dff": "obj52_hordeshield",
+    "txd": "obj52_1",
+    "name": "Щит Орды"
+  },
+  {
+    "model_id": 14269,
+    "dff": "obj52_marvelbp",
+    "txd": "obj52_1",
+    "name": "Рюкзак «Marvel»"
+  },
+  {
+    "model_id": 14270,
+    "dff": "obj52_narutobp",
+    "txd": "obj52_1",
+    "name": "Рюкзак «Naruto»"
+  },
+  {
+    "model_id": 14271,
+    "dff": "obj52_samehada",
+    "txd": "obj52_1",
+    "name": "Самехада"
+  },
+  {
+    "model_id": 14272,
+    "dff": "obj52_sgbackpack",
+    "txd": "obj52_1",
+    "name": "Рюкзак «Игра в кальмара»"
+  },
+  {
+    "model_id": 14273,
+    "dff": "obj52_spiritedaw",
+    "txd": "obj52_1",
+    "name": "Рюкзак «Унесенные призраками»"
+  },
+  {
+    "model_id": 14274,
+    "dff": "obj52_stbackpack",
+    "txd": "obj52_1",
+    "name": "Рюказк «Очень странные дела»"
+  },
+  {
+    "model_id": 14275,
+    "dff": "obj52_wdbackpack",
+    "txd": "obj52_1",
+    "name": "Рюкзак «Венсдей»"
+  },
+  {
+    "model_id": 14276,
+    "dff": "obj52_misterioback",
+    "txd": "obj52_1",
+    "name": "Плащ Мистерио"
+  },
+  {
+    "model_id": 14277,
+    "dff": "obj52_citrion",
+    "txd": "obj52_1",
+    "name": "Анимированные камни Цетрион"
+  },
+  {
+    "model_id": 14278,
+    "dff": "obj52_calcifer",
+    "txd": "obj52_1",
+    "name": "Анимированный Кальцифер"
+  },
+  {
+    "model_id": 14279,
+    "dff": "obj52_donutsnimbus",
+    "txd": "obj52_1",
+    "name": "Анимированный Пончиковый нимб"
+  },
+  {
+    "model_id": 14280,
+    "dff": "obj52_rasenshuriken",
+    "txd": "obj52_1",
+    "name": "Анимированный Расенсюрикен"
+  },
+  {
+    "model_id": 14281,
+    "dff": "obj52_gfbill",
+    "txd": "obj52_1",
+    "name": "Анимированный Билл Шифр"
+  },
+  {
+    "model_id": 14282,
+    "dff": "obj52_dococ",
+    "txd": "obj52_1",
+    "name": "Анимированые Щупальца"
+  },
+  {
+    "model_id": 14315,
+    "dff": "obj53_signprt_1",
+    "txd": "obj53",
+    "name": "Табличка 'Я ПРОТИВ ОБНОВЛЕНИЯ'"
+  },
+  {
+    "model_id": 14316,
+    "dff": "obj53_signprt_2",
+    "txd": "obj53",
+    "name": "Табличка 'Я ПРОТИВ НОВЫХ ПРАВИЛ'"
+  },
+  {
+    "model_id": 14317,
+    "dff": "obj53_signprt_3",
+    "txd": "obj53",
+    "name": "Табличка 'СНЯТЬ МЭРА!'"
+  },
+  {
+    "model_id": 14318,
+    "dff": "obj53_signprt_4",
+    "txd": "obj53",
+    "name": "Табличка 'ТРЕБУЮ ПЕРЕМЕН!'"
+  },
+  {
+    "model_id": 11842,
+    "dff": "obj54_tentacles",
+    "txd": "obj54",
+    "name": "Мантия из тентаклей"
+  },
+  {
+    "model_id": 11848,
+    "dff": "obj54_raincoat_ds",
+    "txd": "obj54",
+    "name": "Плащ Левитации"
+  },
+  {
+    "model_id": 11854,
+    "dff": "obj54_axebass",
+    "txd": "obj54",
+    "name": "Струнный топор"
+  },
+  {
+    "model_id": 11860,
+    "dff": "obj54_daftpunk",
+    "txd": "obj54",
+    "name": "Шлем 'Daft Punk'"
+  },
+  {
+    "model_id": 11866,
+    "dff": "obj54_devilfork",
+    "txd": "obj54",
+    "name": "Дьявольские вилы"
+  },
+  {
+    "model_id": 11872,
+    "dff": "obj54_headcrab",
+    "txd": "obj54",
+    "name": "Хедкраб"
+  },
+  {
+    "model_id": 11878,
+    "dff": "obj54_predator_mask",
+    "txd": "obj54",
+    "name": "Маски Хищника"
+  },
+  {
+    "model_id": 11884,
+    "dff": "obj54_zabimaru",
+    "txd": "obj54",
+    "name": "Забимару"
+  },
+  {
+    "model_id": 11890,
+    "dff": "obj54_supreme_back",
+    "txd": "obj54",
+    "name": "Рюкзак 'Supreme'"
+  },
+  {
+    "model_id": 11898,
+    "dff": "obj54_suitcas",
+    "txd": "obj54",
+    "name": "Тревожный чемоданчик"
+  },
+  {
+    "model_id": 11905,
+    "dff": "obj54_samurai_hat",
+    "txd": "obj54",
+    "name": "Шляпа самурая"
+  },
+  {
+    "model_id": 11911,
+    "dff": "obj54_samurai_back",
+    "txd": "obj54",
+    "name": "Рюкзак самурая"
+  },
+  {
+    "model_id": 11917,
+    "dff": "obj54_red_heart_gla",
+    "txd": "obj54",
+    "name": "Очки 'Красные сердца'"
+  },
+  {
+    "model_id": 11923,
+    "dff": "obj54_red_backpack",
+    "txd": "obj54",
+    "name": "Клетчатый рюкзак"
+  },
+  {
+    "model_id": 11929,
+    "dff": "obj54_hover_board",
+    "txd": "obj54",
+    "name": "Хаверборд 'Mattel'"
+  },
+  {
+    "model_id": 11935,
+    "dff": "obj54_hatter_hat",
+    "txd": "obj54",
+    "name": "Шляпа Безумия"
+  },
+  {
+    "model_id": 11941,
+    "dff": "obj54_glass_sequin",
+    "txd": "obj54",
+    "name": "Очки с блёстками"
+  },
+  {
+    "model_id": 11947,
+    "dff": "obj54_glasses_kenzo",
+    "txd": "obj54",
+    "name": "Очки 'Kenzo'"
+  },
+  {
+    "model_id": 11953,
+    "dff": "obj54_fox_mask",
+    "txd": "obj54",
+    "name": "Маска лисы"
+  },
+  {
+    "model_id": 11959,
+    "dff": "obj54_fire_glasses",
+    "txd": "obj54",
+    "name": "Огненные очки"
+  },
+  {
+    "model_id": 11964,
+    "dff": "obj54_diad_sun",
+    "txd": "obj54",
+    "name": "Солнечная Диадема"
+  },
+  {
+    "model_id": 11970,
+    "dff": "obj54_diad_butterf",
+    "txd": "obj54",
+    "name": "Диадема с мотивами бабочек"
+  },
+  {
+    "model_id": 11976,
+    "dff": "obj54_cow_backpack",
+    "txd": "obj54",
+    "name": "Рюкзак 'Коровка'"
+  },
+  {
+    "model_id": 6800,
+    "dff": "obj54_bat_glasses",
+    "txd": "obj54",
+    "name": "Бэт-очки"
+  },
+  {
+    "model_id": 6806,
+    "dff": "obj54_backpack_lid1",
+    "txd": "obj54",
+    "name": "Красный рюкзак"
+  },
+  {
+    "model_id": 6812,
+    "dff": "obj54_air_balloon_3",
+    "txd": "obj54",
+    "name": "Праздничный шарик #1"
+  },
+  {
+    "model_id": 6818,
+    "dff": "obj54_air_balloon_4",
+    "txd": "obj54",
+    "name": "Праздничный шарик #2"
+  },
+  {
+    "model_id": 6824,
+    "dff": "obj54_air_balloon_6",
+    "txd": "obj54",
+    "name": "Праздничный шарик #3"
+  },
+  {
+    "model_id": 6830,
+    "dff": "obj54_air_balloon_7",
+    "txd": "obj54",
+    "name": "Праздничный шарик #4"
+  },
+  {
+    "model_id": 6835,
+    "dff": "obj54_air_balloon_8",
+    "txd": "obj54",
+    "name": "Праздничный шарик #5"
+  },
+  {
+    "model_id": 6842,
+    "dff": "obj54_air_balloon10",
+    "txd": "obj54",
+    "name": "Праздничный шарик #6"
+  },
+  {
+    "model_id": 6848,
+    "dff": "obj54_air_balloon11",
+    "txd": "obj54",
+    "name": "Праздничный шарик #7"
+  },
+  {
+    "model_id": 6860,
+    "dff": "obj54_air_balloon13",
+    "txd": "obj54",
+    "name": "Праздничный шарик #8"
+  },
+  {
+    "model_id": 7396,
+    "dff": "obj54_air_balloon14",
+    "txd": "obj54",
+    "name": "Праздничный шарик #9"
+  },
+  {
+    "model_id": 11830,
+    "dff": "obj54_stick_diamond",
+    "txd": "obj54",
+    "name": "Анимированный крылья Diamond"
+  },
+  {
+    "model_id": 7408,
+    "dff": "obj54_haishammer",
+    "txd": "obj54",
+    "name": "Молот Гейзенберга"
+  },
+  {
+    "model_id": 7976,
+    "dff": "obj54_funvest7",
+    "txd": "obj54",
+    "name": "Праздничный бронежилет #1"
+  },
+  {
+    "model_id": 9199,
+    "dff": "obj54_funvest8",
+    "txd": "obj54",
+    "name": "Праздничный бронежилет #2"
+  },
+  {
+    "model_id": 9268,
+    "dff": "obj54_hlvest",
+    "txd": "obj54",
+    "name": "HEV Бронежилет"
+  },
+  {
+    "model_id": 15606,
+    "dff": "obj54_punishervest",
+    "txd": "obj54",
+    "name": "Бронежилет Карателя"
+  },
+  {
+    "model_id": 15609,
+    "dff": "obj54_bdglass",
+    "txd": "obj54",
+    "name": "Очки дня рождения"
+  },
+  {
+    "model_id": 15612,
+    "dff": "obj54_sword_guard",
+    "txd": "obj54",
+    "name": "Меч хранителя"
+  },
+  {
+    "model_id": 15613,
+    "dff": "obj54_pip_boy",
+    "txd": "obj54",
+    "name": "Пип-Бой"
+  },
+  {
+    "model_id": 15615,
+    "dff": "obj54_astronauthelm",
+    "txd": "obj54",
+    "name": "Шлем Астронавта"
+  },
+  {
+    "model_id": 15616,
+    "dff": "obj54_ffhelmet",
+    "txd": "obj54",
+    "name": "Шляпа 'Fire Force'"
+  },
+  {
+    "model_id": 12749,
+    "dff": "obj54_gretsch",
+    "txd": "obj54",
+    "name": "Гитара 'Gretsch'"
+  },
+  {
+    "model_id": 12765,
+    "dff": "obj54_killsword",
+    "txd": "obj54",
+    "name": "Клинок-ножницы"
+  },
+  {
+    "model_id": 12771,
+    "dff": "obj54_robothelmet",
+    "txd": "obj54",
+    "name": "Голова робота"
+  },
+  {
+    "model_id": 12777,
+    "dff": "obj54_unicornballon",
+    "txd": "obj54",
+    "name": "Радужный круг"
+  },
+  {
+    "model_id": 12783,
+    "dff": "obj54_wmhelmet",
+    "txd": "obj54",
+    "name": "Арбузный шлем"
+  },
+  {
+    "model_id": 12789,
+    "dff": "obj54_advancebp1",
+    "txd": "obj54",
+    "name": "Рюкзак 'Advance' #1"
+  },
+  {
+    "model_id": 12795,
+    "dff": "obj54_advancebp2",
+    "txd": "obj54",
+    "name": "Рюкзак 'Advance' #2"
+  },
+  {
+    "model_id": 13565,
+    "dff": "obj54_advest1",
+    "txd": "obj54",
+    "name": "Бронежилет 'Advance' #1"
+  },
+  {
+    "model_id": 13571,
+    "dff": "obj54_advest2",
+    "txd": "obj54",
+    "name": "Бронежилет 'Advance' #2"
+  },
+  {
+    "model_id": 13577,
+    "dff": "obj54_diamondbp1",
+    "txd": "obj54",
+    "name": "Рюкзак 'Diamond' #1"
+  },
+  {
+    "model_id": 13583,
+    "dff": "obj54_diamondbp2",
+    "txd": "obj54",
+    "name": "Рюкзак 'Diamond' #2"
+  },
+  {
+    "model_id": 13589,
+    "dff": "obj54_diamondvest1",
+    "txd": "obj54",
+    "name": "Бронежилет 'Diamond' #1"
+  },
+  {
+    "model_id": 13892,
+    "dff": "obj54_diamondvest2",
+    "txd": "obj54",
+    "name": "Бронежилет 'Diamond' #2"
+  },
+  {
+    "model_id": 13898,
+    "dff": "obj54_bag_advance",
+    "txd": "obj54",
+    "name": "Сумка 'Advance' #1"
+  },
+  {
+    "model_id": 13904,
+    "dff": "obj54_bag_advance_2",
+    "txd": "obj54",
+    "name": "Сумка 'Advance' #2"
+  },
+  {
+    "model_id": 13910,
+    "dff": "obj54_bag_diamond_1",
+    "txd": "obj54",
+    "name": "Сумка 'Diamond' #1"
+  },
+  {
+    "model_id": 13916,
+    "dff": "obj54_bag_diamond_2",
+    "txd": "obj54",
+    "name": "Сумка 'Diamond' #2"
+  },
+  {
+    "model_id": 13922,
+    "dff": "obj54_bag_diamond_3",
+    "txd": "obj54",
+    "name": "Сумка 'Diamond' #3"
+  },
+  {
+    "model_id": 13928,
+    "dff": "obj54_panama_advan",
+    "txd": "obj54",
+    "name": "Панамка 'Advance' #1"
+  },
+  {
+    "model_id": 13934,
+    "dff": "obj54_panama_advan1",
+    "txd": "obj54",
+    "name": "Панамка 'Advance' #2"
+  },
+  {
+    "model_id": 14126,
+    "dff": "obj54_panama_advan2",
+    "txd": "obj54",
+    "name": "Панамка 'Advance' #3"
+  },
+  {
+    "model_id": 14127,
+    "dff": "obj54_panama_diam",
+    "txd": "obj54",
+    "name": "Панамка 'Diamond' #1"
+  },
+  {
+    "model_id": 14128,
+    "dff": "obj54_panama_diam_1",
+    "txd": "obj54",
+    "name": "Панамка 'Diamond' #2"
+  },
+  {
+    "model_id": 14129,
+    "dff": "obj54_adbox",
+    "txd": "obj54",
+    "name": "Перчатка 'Advance'"
+  },
+  {
+    "model_id": 14130,
+    "dff": "obj54_adglass1",
+    "txd": "obj54",
+    "name": "Очки 'Advance' #1"
+  },
+  {
+    "model_id": 14340,
+    "dff": "obj54_adglass2",
+    "txd": "obj54",
+    "name": "Очки 'Advance' #2"
+  },
+  {
+    "model_id": 14356,
+    "dff": "obj54_adgrenade",
+    "txd": "obj54",
+    "name": "Граната 'Advance'"
+  },
+  {
+    "model_id": 14357,
+    "dff": "obj54_adshield",
+    "txd": "obj54",
+    "name": "Щит в руку 'Advance'"
+  },
+  {
+    "model_id": 14359,
+    "dff": "obj54_adsword",
+    "txd": "obj54",
+    "name": "Меч в руку 'Advance'"
+  },
+  {
+    "model_id": 14360,
+    "dff": "obj54_adwings1",
+    "txd": "obj54",
+    "name": "Фиолетовые крылья 'Advance'"
+  },
+  {
+    "model_id": 14361,
+    "dff": "obj54_adwings2",
+    "txd": "obj54",
+    "name": "Бирюзовые крылья 'Advance'"
+  },
+  {
+    "model_id": 14362,
+    "dff": "obj54_diamond_sword",
+    "txd": "obj54",
+    "name": "Диамантовый меч"
+  },
+  {
+    "model_id": 14363,
+    "dff": "obj54_glass_diamond",
+    "txd": "obj54",
+    "name": "Очки 'Diamond'"
+  },
+  {
+    "model_id": 14364,
+    "dff": "obj54_hammer_diam",
+    "txd": "obj54",
+    "name": "Молот 'Diamond'"
+  },
+  {
+    "model_id": 14365,
+    "dff": "obj54_helmet_diam",
+    "txd": "obj54",
+    "name": "Шлем 'Diamond'"
+  },
+  {
+    "model_id": 14366,
+    "dff": "obj54_shield_diam",
+    "txd": "obj54",
+    "name": "Щит 'Diamond'"
+  },
+  {
+    "model_id": 14367,
+    "dff": "obj54_sword_diam_1",
+    "txd": "obj54",
+    "name": "Меч 'Diamond'"
+  },
+  {
+    "model_id": 6657,
+    "dff": "obj54_nimb_1",
+    "txd": "obj54",
+    "name": "Облачный нимб"
+  },
+  {
+    "model_id": 6658,
+    "dff": "obj54_nimb_2",
+    "txd": "obj54",
+    "name": "Звездный нимб"
+  },
+  {
+    "model_id": 6659,
+    "dff": "obj54_nimb_3",
+    "txd": "obj54",
+    "name": "Спиральный нимб"
+  },
+  {
+    "model_id": 10313,
+    "dff": "obj54_wing_wasp",
+    "txd": "obj54",
+    "name": "Анимированные крылья осы"
+  },
+  {
+    "model_id": 10749,
+    "dff": "obj54_wings_of_ca",
+    "txd": "obj54",
+    "name": "Крылья Капитана Америки"
+  },
+  {
+    "model_id": 11758,
+    "dff": "obj54_planetexp",
+    "txd": "obj54",
+    "name": "Planet Express"
+  },
+  {
+    "model_id": 11764,
+    "dff": "obj54_mechwings",
+    "txd": "obj54",
+    "name": "Механические крылья"
+  },
+  {
+    "model_id": 11770,
+    "dff": "obj54_sims",
+    "txd": "obj54",
+    "name": "Пламя души"
+  },
+  {
+    "model_id": 11776,
+    "dff": "obj54_magic_circle",
+    "txd": "obj54",
+    "name": "Аура 9 лет"
+  },
+  {
+    "model_id": 11782,
+    "dff": "obj54_golden_crown",
+    "txd": "obj54",
+    "name": "Золотая корона"
+  },
+  {
+    "model_id": 6572,
+    "dff": "obj54_crown_thorn",
+    "txd": "obj54",
+    "name": "Шипованный обруч"
+  },
+  {
+    "model_id": 11794,
+    "dff": "obj54_deloreantoy",
+    "txd": "obj54",
+    "name": "Игрушечный Delorean"
+  },
+  {
+    "model_id": 11800,
+    "dff": "obj54_novochrono",
+    "txd": "obj54",
+    "name": "Временные сферы"
+  },
+  {
+    "model_id": 6573,
+    "dff": "obj54_timegear",
+    "txd": "obj54",
+    "name": "Анимированные часы на спину"
+  },
+  {
+    "model_id": 11815,
+    "dff": "obj54_crys_diamond",
+    "txd": "obj54",
+    "name": "Кристаллы на спину"
+  },
+  {
+    "model_id": 11822,
+    "dff": "obj54_diamond_nimb1",
+    "txd": "obj54",
+    "name": "Диамантовый нимб"
+  },
+  {
+    "model_id": 11830,
+    "dff": "obj54_stick_diamond",
+    "txd": "obj54",
+    "name": "Диамантовый посох"
+  },
+  {
+    "model_id": 24055,
+    "dff": "obj56_bbbackpack",
+    "txd": "obj56",
+    "name": "Рюкзак Бамблби"
+  },
+  {
+    "model_id": 24056,
+    "dff": "obj56_bbhelmet",
+    "txd": "obj56",
+    "name": "Шлем Бамблби"
+  },
+  {
+    "model_id": 24057,
+    "dff": "obj56_optimushelmet",
+    "txd": "obj56",
+    "name": "Шлем Оптимус Прайм"
+  },
+  {
+    "model_id": 24064,
+    "dff": "obj56_starsaber",
+    "txd": "obj56",
+    "name": "Меч Старсейбера"
+  },
+  {
+    "model_id": 24009,
+    "dff": "obj55_pumpkin_gl",
+    "txd": "obj55",
+    "name": "Хэллоуинские очки"
+  },
+  {
+    "model_id": 24010,
+    "dff": "obj55_pumpkin_head",
+    "txd": "obj55",
+    "name": "Голова Зомбо-Тыква"
+  },
+  {
+    "model_id": 24011,
+    "dff": "obj55_soulscythe",
+    "txd": "obj55",
+    "name": "Коса душ"
+  },
+  {
+    "model_id": 24012,
+    "dff": "obj55_syringe",
+    "txd": "obj55",
+    "name": "Шприц"
+  },
+  {
+    "model_id": 24013,
+    "dff": "obj55_voodootoy",
+    "txd": "obj55",
+    "name": "Кукла вуду"
+  },
+  {
+    "model_id": 24014,
+    "dff": "obj55_wings_bat",
+    "txd": "obj55",
+    "name": "Ушки летучей мыши"
+  },
+  {
+    "model_id": 24000,
+    "dff": "obj55_angel_mask",
+    "txd": "obj55",
+    "name": "Ангельская маска"
+  },
+  {
+    "model_id": 24001,
+    "dff": "obj55_bat_back",
+    "txd": "obj55",
+    "name": "Летучая мышь на спину"
+  },
+  {
+    "model_id": 24003,
+    "dff": "obj55_braid",
+    "txd": "obj55",
+    "name": "Коса"
+  },
+  {
+    "model_id": 24004,
+    "dff": "obj55_greengoblin",
+    "txd": "obj55",
+    "name": "Голова Зеленого Гоблина"
+  },
+  {
+    "model_id": 24005,
+    "dff": "obj55_headaxe",
+    "txd": "obj55",
+    "name": "Топорик в руку"
+  },
+  {
+    "model_id": 24007,
+    "dff": "obj55_pumpkinmask",
+    "txd": "obj55",
+    "name": "Магическая голова тыквы"
+  },
+  {
+    "model_id": 24008,
+    "dff": "obj55_pumpkin_girl",
+    "txd": "obj55",
+    "name": "Тыквенная девочка"
+  },
+  {
+    "model_id": 24015,
+    "dff": "obj55_bloody_hands",
+    "txd": "obj55",
+    "name": "Анимированные кровавые руки"
+  },
+  {
+    "model_id": 24016,
+    "dff": "obj55_cuteghost",
+    "txd": "obj55",
+    "name": "Анимированный милый призрак"
+  },
+  {
+    "model_id": 24017,
+    "dff": "obj55_cute_bat",
+    "txd": "obj55",
+    "name": "Анимированные милые мышки"
+  },
+  {
+    "model_id": 6812,
+    "dff": "obj55_eye_with_f",
+    "txd": "obj55",
+    "name": "Анимированный огненный глаз"
+  },
+  {
+    "model_id": 24019,
+    "dff": "obj55_grimchield",
+    "txd": "obj55",
+    "name": "Анимированный Grimchild"
+  },
+  {
+    "model_id": 24002,
+    "dff": "obj55_bonewings",
+    "txd": "obj55",
+    "name": "Анимированные костянные крылья"
+  },
+  {
+    "model_id": 24058,
+    "dff": "obj56_optimustoy",
+    "txd": "obj56",
+    "name": "Оптимус Прайм на плечо"
+  },
+  {
+    "model_id": 24059,
+    "dff": "obj56_scooby_bag",
+    "txd": "obj56",
+    "name": "Сумка Скуби-Ду"
+  },
+  {
+    "model_id": 24060,
+    "dff": "obj56_scooby_bp",
+    "txd": "obj56",
+    "name": "Рюкзак Скуби-Ду 1"
+  },
+  {
+    "model_id": 24061,
+    "dff": "obj56_scooby_bp_1",
+    "txd": "obj56",
+    "name": "Рюкзак Скуби-Ду 2"
+  },
+  {
+    "model_id": 24062,
+    "dff": "obj56_scooby_cap",
+    "txd": "obj56",
+    "name": "Кепка Скуби-Ду"
+  },
+  {
+    "model_id": 24063,
+    "dff": "obj56_scooby_collar",
+    "txd": "obj56",
+    "name": "Ошейник Скуби-Ду"
+  },
+  {
+    "model_id": 24065,
+    "dff": "obj56_windblade",
+    "txd": "obj56",
+    "name": "Windblade на спину"
+  },
+  {
+    "model_id": 24066,
+    "dff": "obj56_beer_cap",
+    "txd": "obj56",
+    "name": "Пивная кепка"
+  },
+  {
+    "model_id": 24067,
+    "dff": "obj56_bomjgangneck",
+    "txd": "obj56",
+    "name": "Цепь 'Bomj Gang'"
+  },
+  {
+    "model_id": 24068,
+    "dff": "obj56_camera_graff",
+    "txd": "obj56",
+    "name": "Граффити-Камера"
+  },
+  {
+    "model_id": 24069,
+    "dff": "obj56_cbbackpack",
+    "txd": "obj56",
+    "name": "Картонный рюкзак"
+  },
+  {
+    "model_id": 24070,
+    "dff": "obj56_cbcamera",
+    "txd": "obj56",
+    "name": "Картонная Камера"
+  },
+  {
+    "model_id": 24071,
+    "dff": "obj56_cbgun",
+    "txd": "obj56",
+    "name": "Картонна Пушка"
+  },
+  {
+    "model_id": 24072,
+    "dff": "obj56_cbhelmet",
+    "txd": "obj56",
+    "name": "Картонный Шлем"
+  },
+  {
+    "model_id": 24074,
+    "dff": "obj56_cbsign1",
+    "txd": "obj56",
+    "name": "Картонная вывеска 1"
+  },
+  {
+    "model_id": 24075,
+    "dff": "obj56_cbsign2",
+    "txd": "obj56",
+    "name": "Картонная вывеска 2"
+  },
+  {
+    "model_id": 24076,
+    "dff": "obj56_cbsword",
+    "txd": "obj56",
+    "name": "Картонный меч"
+  },
+  {
+    "model_id": 24077,
+    "dff": "obj56_cbukulele",
+    "txd": "obj56",
+    "name": "Картонная гитара"
+  },
+  {
+    "model_id": 24078,
+    "dff": "obj56_cbwings",
+    "txd": "obj56",
+    "name": "Картонные крылья"
+  },
+  {
+    "model_id": 24079,
+    "dff": "obj56_graffiti_bac",
+    "txd": "obj56",
+    "name": "Граффити-Рюкзак"
+  },
+  {
+    "model_id": 24080,
+    "dff": "obj56_graffiti_bag",
+    "txd": "obj56",
+    "name": "Граффити-Сумка"
+  },
+  {
+    "model_id": 24081,
+    "dff": "obj56_graffiti_bit.dff",
+    "txd": "obj56",
+    "name": "Граффити-Бита"
+  },
+  {
+    "model_id": 24053,
+    "dff": "obj57_glasses_2",
+    "txd": "obj57",
+    "name": "Новогодние очки"
+  },
+  {
+    "model_id": 24055,
+    "dff": "obj57_chinese_1",
+    "txd": "obj57",
+    "name": "Китайская шапочка"
+  },
+  {
+    "model_id": 24057,
+    "dff": "obj57_moneyface_1",
+    "txd": "obj57",
+    "name": "Moneyface"
+  },
+  {
+    "model_id": 24058,
+    "dff": "obj57_pringles_1",
+    "txd": "obj57",
+    "name": "Pringlesface"
+  },
+  {
+    "model_id": 24059,
+    "dff": "obj57_toilet_1",
+    "txd": "obj57",
+    "name": "Новогодний туалет"
+  },
+  {
+    "model_id": 24060,
+    "dff": "obj57_toilet_2",
+    "txd": "obj57",
+    "name": "Skibidi toilet"
+  },
+  {
+    "model_id": 24065,
+    "dff": "obj57_festive_1",
+    "txd": "obj57",
+    "name": "Праздничный почтовый ящик"
+  },
+  {
+    "model_id": 24067,
+    "dff": "obj57_lego_1",
+    "txd": "obj57",
+    "name": "Фигурка лего"
+  },
+  {
+    "model_id": 24068,
+    "dff": "obj57_tonk_1",
+    "txd": "obj57",
+    "name": "Пряничный танк"
+  },
+  {
+    "model_id": 24071,
+    "dff": "obj57_heart_1",
+    "txd": "obj57",
+    "name": "Новогоднее сердечко"
+  },
+  {
+    "model_id": 23983,
+    "dff": "obj58_backpackcat",
+    "txd": "obj58",
+    "name": "Зимняя сумка котик"
+  },
+  {
+    "model_id": 23984,
+    "dff": "obj58_bigforkshrek",
+    "txd": "obj58",
+    "name": "Вилы из Шрека"
+  },
+  {
+    "model_id": 23985,
+    "dff": "obj58_blindmice",
+    "txd": "obj58",
+    "name": "Слепая мышь"
+  },
+  {
+    "model_id": 23986,
+    "dff": "obj58_boxhammer",
+    "txd": "obj58",
+    "name": "Молот с подарками"
+  },
+  {
+    "model_id": 23987,
+    "dff": "obj58_chainshrek",
+    "txd": "obj58",
+    "name": "Цепь 'Shrek'"
+  },
+  {
+    "model_id": 23988,
+    "dff": "obj58_charminghorse",
+    "txd": "obj58",
+    "name": "Конь принца Чарминга"
+  },
+  {
+    "model_id": 23989,
+    "dff": "obj58_chrisbells",
+    "txd": "obj58",
+    "name": "Рождественские колокольчики"
+  },
+  {
+    "model_id": 23990,
+    "dff": "obj58_chrislantern",
+    "txd": "obj58",
+    "name": "Рождественский фонарь"
+  },
+  {
+    "model_id": 23993,
+    "dff": "obj58_cucumberric",
+    "txd": "obj58",
+    "name": "Огурчик Рик"
+  },
+  {
+    "model_id": 23994,
+    "dff": "obj58_deerhat",
+    "txd": "obj58",
+    "name": "Шапка оленя"
+  },
+  {
+    "model_id": 23995,
+    "dff": "obj58_donkeyhead",
+    "txd": "obj58",
+    "name": "Голова осла"
+  },
+  {
+    "model_id": 23996,
+    "dff": "obj58_frogballoon",
+    "txd": "obj58",
+    "name": "Лягушечный шарик"
+  },
+  {
+    "model_id": 23997,
+    "dff": "obj58_guitarrick",
+    "txd": "obj58",
+    "name": "Гитара Рика"
+  },
+  {
+    "model_id": 23998,
+    "dff": "obj58_icefroge",
+    "txd": "obj58",
+    "name": "Новогодняя лягушка"
+  },
+  {
+    "model_id": 24003,
+    "dff": "obj58_mindhelmet",
+    "txd": "obj58",
+    "name": "Шлем Морти"
+  },
+  {
+    "model_id": 24005,
+    "dff": "obj58_ogresign",
+    "txd": "obj58",
+    "name": "Табличка с болота"
+  },
+  {
+    "model_id": 24006,
+    "dff": "obj58_penguinbp",
+    "txd": "obj58",
+    "name": "Рюкзак с пингвином"
+  },
+  {
+    "model_id": 24008,
+    "dff": "obj58_pusshat",
+    "txd": "obj58",
+    "name": "Шляпа кота в сапогах"
+  },
+  {
+    "model_id": 24009,
+    "dff": "obj58_rickbackpack",
+    "txd": "obj58",
+    "name": "Рюкзак 'Рик и Морти'"
+  },
+  {
+    "model_id": 24010,
+    "dff": "obj58_rickhead1",
+    "txd": "obj58",
+    "name": "Голова Рика"
+  },
+  {
+    "model_id": 24028,
+    "dff": "obj58_rnmvest",
+    "txd": "obj58",
+    "name": "Бронежилет 'Рик и Морти'"
+  },
+  {
+    "model_id": 24050,
+    "dff": "obj58_santarobot",
+    "txd": "obj58",
+    "name": "Голова Робосанты"
+  },
+  {
+    "model_id": 24064,
+    "dff": "obj58_shrekbackpack",
+    "txd": "obj58",
+    "name": "Рюкзак со Шреком"
+  },
+  {
+    "model_id": 24016,
+    "dff": "obj58_shrekhelm",
+    "txd": "obj58",
+    "name": "Шлем Шрека"
+  },
+  {
+    "model_id": 24017,
+    "dff": "obj58_shrekvest",
+    "txd": "obj58",
+    "name": "Бронежилет 'Шрек'"
+  },
+  {
+    "model_id": 24018,
+    "dff": "obj58_snowglasses",
+    "txd": "obj58",
+    "name": "Очки снежинки"
+  },
+  {
+    "model_id": 24019,
+    "dff": "obj58_snowmanmini",
+    "txd": "obj58",
+    "name": "Снеговик на плечо"
+  },
+  {
+    "model_id": 24020,
+    "dff": "obj58_snowstaff",
+    "txd": "obj58",
+    "name": "Зимний посох"
+  },
+  {
+    "model_id": 24023,
+    "dff": "obj58_swordcat",
+    "txd": "obj58",
+    "name": "Шпага кота в сапогах"
+  },
+  {
+    "model_id": 24024,
+    "dff": "obj58_toyrick",
+    "txd": "obj58",
+    "name": "Игрушечный Рик"
+  },
+  {
+    "model_id": 24025,
+    "dff": "obj58_vest2024",
+    "txd": "obj58",
+    "name": "Бронежилет 2024"
+  },
+  {
+    "model_id": 23981,
+    "dff": "obj58_alphatree",
+    "txd": "obj58",
+    "name": "Нимб новогодний"
+  },
+  {
+    "model_id": 23982,
+    "dff": "obj58_backhands",
+    "txd": "obj58",
+    "name": "Роборуки с факами"
+  },
+  {
+    "model_id": 23991,
+    "dff": "obj58_citofricks",
+    "txd": "obj58",
+    "name": "Цитадель Риков"
+  },
+  {
+    "model_id": 23992,
+    "dff": "obj58_cromurlones",
+    "txd": "obj58",
+    "name": "Головы планеты"
+  },
+  {
+    "model_id": 24013,
+    "dff": "obj58_shieldsnowfl",
+    "txd": "obj58",
+    "name": "Щит-Снежинка"
+  },
+  {
+    "model_id": 24021,
+    "dff": "obj58_starwand",
+    "txd": "obj58",
+    "name": "Волшебная палочка боли"
+  },
+  {
+    "model_id": 24022,
+    "dff": "obj58_alphashield",
+    "txd": "obj58",
+    "name": "Энергетический щит"
+  },
+  {
+    "model_id": 24034,
+    "dff": "obj58_inspiremod",
+    "txd": "obj58",
+    "name": "Дрон-убийца"
+  },
+  {
+    "model_id": 6600,
+    "dff": "obj60_bigbutton",
+    "txd": "obj60",
+    "name": "Большая кнопка на спину"
+  },
+  {
+    "model_id": 6601,
+    "dff": "obj60_freddy",
+    "txd": "obj60",
+    "name": "Голова Фредди"
+  },
+  {
+    "model_id": 6603,
+    "dff": "obj60_frognaruto",
+    "txd": "obj60",
+    "name": "Жабья голова"
+  },
+  {
+    "model_id": 6626,
+    "dff": "obj60_hammer3310",
+    "txd": "obj60",
+    "name": "Молот 3310 в руку"
+  },
+  {
+    "model_id": 6628,
+    "dff": "obj60_hatsumiku",
+    "txd": "obj60",
+    "name": "Хатсуне Мику на плечо"
+  },
+  {
+    "model_id": 6630,
+    "dff": "obj60_hokagehat",
+    "txd": "obj60",
+    "name": "Шляпа Хокаге"
+  },
+  {
+    "model_id": 6631,
+    "dff": "obj60_jinpuritta",
+    "txd": "obj60",
+    "name": "Божественный топор Ритта"
+  },
+  {
+    "model_id": 6632,
+    "dff": "obj60_karlbag",
+    "txd": "obj60",
+    "name": "Сумка 'Карл Лагерфельд'"
+  },
+  {
+    "model_id": 6633,
+    "dff": "obj60_karlbp1",
+    "txd": "obj60",
+    "name": "Черный рюкзак 'Карл Лагерфельд'"
+  },
+  {
+    "model_id": 6634,
+    "dff": "obj60_karlbp2",
+    "txd": "obj60",
+    "name": "Белый рюкзак 'Карл Лагерфельд'"
+  },
+  {
+    "model_id": 6636,
+    "dff": "obj60_littleanimal",
+    "txd": "obj60",
+    "name": "Существо на плечо"
+  },
+  {
+    "model_id": 6637,
+    "dff": "obj60_lvbox",
+    "txd": "obj60",
+    "name": "Рюкзак 'Louis Vuitton'"
+  },
+  {
+    "model_id": 6638,
+    "dff": "obj60_magichat",
+    "txd": "obj60",
+    "name": "Шляпа Моны"
+  },
+  {
+    "model_id": 6639,
+    "dff": "obj60_mariohat",
+    "txd": "obj60",
+    "name": "Кепка Марио"
+  },
+  {
+    "model_id": 6640,
+    "dff": "obj60_moneybag",
+    "txd": "obj60",
+    "name": "Сумка с деньгами"
+  },
+  {
+    "model_id": 6641,
+    "dff": "obj60_mtoolmk2",
+    "txd": "obj60",
+    "name": "Огненная кирка"
+  },
+  {
+    "model_id": 6643,
+    "dff": "obj60_skullgold",
+    "txd": "obj60",
+    "name": "Череп с короной"
+  },
+  {
+    "model_id": 6698,
+    "dff": "obj60_voodoo",
+    "txd": "obj60",
+    "name": "Кукла вуду на плечо"
+  },
+  {
+    "model_id": 6724,
+    "dff": "obj60_standdotaacc",
+    "txd": "obj60",
+    "name": "Элитная переносная лавка"
+  },
+  {
+    "model_id": 6725,
+    "dff": "obj60_rifflecase",
+    "txd": "obj60",
+    "name": "Энергетический чемодан"
+  },
+  {
+    "model_id": 6702,
+    "dff": "obj60a_amber",
+    "txd": "obj60",
+    "name": "Анимированные янтарные камни"
+  },
+  {
+    "model_id": 6709,
+    "dff": "obj60a_dragon",
+    "txd": "obj60",
+    "name": "Анимированный дракон"
+  },
+  {
+    "model_id": 6720,
+    "dff": "obj60a_dronguard",
+    "txd": "obj60",
+    "name": "Дрон-защитник"
+  },
+  {
+    "model_id": 6723,
+    "dff": "obj60a_eballon",
+    "txd": "obj60",
+    "name": "Энергетический воздушный шар"
+  },
+  {
+    "model_id": 14210,
+    "dff": "obj62_astrohelm",
+    "txd": "obj62",
+    "name": "Шлем космоновта"
+  },
+  {
+    "model_id": 14212,
+    "dff": "obj62_alien_toy",
+    "txd": "obj62",
+    "name": "Игрушка пришельца"
+  },
+  {
+    "model_id": 14213,
+    "dff": "obj62_bacastronaut",
+    "txd": "obj62",
+    "name": "Рюкзак 'Космические приключения'"
+  },
+  {
+    "model_id": 14214,
+    "dff": "obj62_vostok",
+    "txd": "obj62",
+    "name": "Мини-ракета 'Восток'"
+  },
+  {
+    "model_id": 14216,
+    "dff": "obj62_telescope",
+    "txd": "obj62",
+    "name": "Телескоп на спину"
+  },
+  {
+    "model_id": 14217,
+    "dff": "obj62_space",
+    "txd": "obj62",
+    "name": "Инвейдер на спину"
+  },
+  {
+    "model_id": 14218,
+    "dff": "obj62_buran",
+    "txd": "obj62",
+    "name": "Мини-ракета 'Буран'"
+  },
+  {
+    "model_id": 14219,
+    "dff": "obj62_bag_rosko",
+    "txd": "obj62",
+    "name": "Сумка 'Роскосмос'"
+  },
+  {
+    "model_id": 14220,
+    "dff": "obj62_lagann",
+    "txd": "obj62",
+    "name": "Голова Гуррен-Лаганн"
+  },
+  {
+    "model_id": 14221,
+    "dff": "obj62_gagvest",
+    "txd": "obj62",
+    "name": "Космический бронежилет"
+  },
+  {
+    "model_id": 14222,
+    "dff": "obj62_nlobp",
+    "txd": "obj62",
+    "name": "Пришелец в рюкзаке"
+  },
+  {
+    "model_id": 14232,
+    "dff": "obj64_bunnyhead",
+    "txd": "obj64",
+    "name": "Шлем космо-кролика"
+  },
+  {
+    "model_id": 14233,
+    "dff": "obj64_chchps",
+    "txd": "obj64",
+    "name": "Чупа-Чупс на спину"
+  },
+  {
+    "model_id": 14235,
+    "dff": "obj64_egghelm",
+    "txd": "obj64",
+    "name": "Пасхальный шлем регби"
+  },
+  {
+    "model_id": 14236,
+    "dff": "obj64_bunny_ball",
+    "txd": "obj64",
+    "name": "Пасхальный шарик"
+  },
+  {
+    "model_id": 14237,
+    "dff": "obj64_bh",
+    "txd": "obj64",
+    "name": "Пасхальный молот"
+  },
+  {
+    "model_id": 14239,
+    "dff": "obj64_hat_bows",
+    "txd": "obj64",
+    "name": "Пасхальная шляпа"
+  },
+  {
+    "model_id": 14241,
+    "dff": "obj64_basket_eggs",
+    "txd": "obj64",
+    "name": "Корзина яиц на спину"
+  },
+  {
+    "model_id": 14242,
+    "dff": "obj64_bunnyhp",
+    "txd": "obj64",
+    "name": "Пасхальные наушники"
+  },
+  {
+    "model_id": 14245,
+    "dff": "obj64_kirk",
+    "txd": "obj64",
+    "name": "Пасхально-морковная кирка"
+  },
+  {
+    "model_id": 14246,
+    "dff": "obj64_eggs_chest",
+    "txd": "obj64",
+    "name": "Пасхальный пантронташ"
+  },
+  {
+    "model_id": 14247,
+    "dff": "obj64_bunnymask",
+    "txd": "obj64",
+    "name": "Маска анонимного кролика"
+  },
+  {
+    "model_id": 14249,
+    "dff": "obj64_carrotbp",
+    "txd": "obj64",
+    "name": "Рюкзак 'Морковка 8-Bit'"
+  },
+  {
+    "model_id": 14250,
+    "dff": "obj64_rabbit_ears",
+    "txd": "obj64",
+    "name": "Кроличьи ушки"
+  },
+  {
+    "model_id": 14252,
+    "dff": "obj66_fastfood",
+    "txd": "obj66",
+    "name": "Рюкзак 'Фастфуд'"
+  },
+  {
+    "model_id": 14256,
+    "dff": "obj66_shark",
+    "txd": "obj66",
+    "name": "Рюкзак 'Крутая акула'"
+  },
+  {
+    "model_id": 14257,
+    "dff": "obj66_chicken",
+    "txd": "obj66",
+    "name": "Шлем 'Кулинарный цыплёнок'"
+  },
+  {
+    "model_id": 14258,
+    "dff": "obj66_grass",
+    "txd": "obj66",
+    "name": "Шлем 'Древнии реликвии'"
+  },
+  {
+    "model_id": 14259,
+    "dff": "obj66_monster",
+    "txd": "obj66",
+    "name": "Шлем 'Дино'"
+  },
+  {
+    "model_id": 14260,
+    "dff": "obj66_mustache",
+    "txd": "obj66",
+    "name": "Шлем 'Роботик'"
+  },
+  {
+    "model_id": 14262,
+    "dff": "obj66_snail",
+    "txd": "obj66",
+    "name": "Шлем 'Улитка'"
+  },
+  {
+    "model_id": 14264,
+    "dff": "obj66_birdhat",
+    "txd": "obj66",
+    "name": "Птичья голова"
+  },
+  {
+    "model_id": 14265,
+    "dff": "obj66_chickhead",
+    "txd": "obj66",
+    "name": "Серьёзный цыплёнок на голову"
+  },
+  {
+    "model_id": 14267,
+    "dff": "obj66_fishhat",
+    "txd": "obj66",
+    "name": "Рыбная шапка"
+  },
+  {
+    "model_id": 14270,
+    "dff": "obj66_pandahead",
+    "txd": "obj66",
+    "name": "Голова Панды"
+  },
+  {
+    "model_id": 14272,
+    "dff": "obj66_sharkhelm",
+    "txd": "obj66",
+    "name": "Шлем 'Грозная акула'"
+  },
+  {
+    "model_id": 14273,
+    "dff": "obj66_tengum",
+    "txd": "obj66",
+    "name": "Маска Тэнгу"
+  },
+  {
+    "model_id": 14274,
+    "dff": "obj66_unclem",
+    "txd": "obj66",
+    "name": "Маска 'Очки с усами'"
+  },
+  {
+    "model_id": 14275,
+    "dff": "obj66_yellowm",
+    "txd": "obj66",
+    "name": "Маска 'Жёлтый'"
+  },
+  {
+    "model_id": 14277,
+    "dff": "obj66_pangraph",
+    "txd": "obj66",
+    "name": "Сковородка 'Автограф' на спину"
+  },
+  {
+    "model_id": 14278,
+    "dff": "obj66_panmark",
+    "txd": "obj66",
+    "name": "Сковородка 'Мишень' на спину"
+  },
+  {
+    "model_id": 14279,
+    "dff": "obj66_pack",
+    "txd": "obj66",
+    "name": "Рюкзак 'Лего-ниндзя'"
+  },
+  {
+    "model_id": 14281,
+    "dff": "obj66_silencer",
+    "txd": "obj66",
+    "name": "Рюкзак 'Тихоня'"
+  },
+  {
+    "model_id": 14282,
+    "dff": "obj66_scribble",
+    "txd": "obj66",
+    "name": "Рюкзак 'Микки'"
+  },
+  {
+    "model_id": 14284,
+    "dff": "obj66_roseform",
+    "txd": "obj66",
+    "name": "Сумка рабочего"
+  },
+  {
+    "model_id": 14285,
+    "dff": "obj66_feline",
+    "txd": "obj66",
+    "name": "Рюкзак 'Тихоня 2'"
+  },
+  {
+    "model_id": 14287,
+    "dff": "obj66_pickaxe",
+    "txd": "obj66",
+    "name": "Красочная кирка на спину"
+  },
+  {
+    "model_id": 14289,
+    "dff": "obj66_carrot",
+    "txd": "obj66",
+    "name": "Пасхальная кирка"
+  },
+  {
+    "model_id": 14291,
+    "dff": "obj66_skull",
+    "txd": "obj66",
+    "name": "Праздничный топорик"
+  },
+  {
+    "model_id": 14292,
+    "dff": "obj66_squatter",
+    "txd": "obj66",
+    "name": "Рюкзак 'Cosmic Squatter'"
+  },
+  {
+    "model_id": 14296,
+    "dff": "obj66_banana",
+    "txd": "obj66",
+    "name": "Банановая кирка"
+  },
+  {
+    "model_id": 14298,
+    "dff": "obj66_loofah",
+    "txd": "obj66",
+    "name": "Рюкзак 'Игрушечные друзья'"
+  },
+  {
+    "model_id": 14300,
+    "dff": "obj66_bluerab",
+    "txd": "obj66",
+    "name": "Рюкзак 'Голубой кролик'"
+  },
+  {
+    "model_id": 14303,
+    "dff": "obj66_katanaback",
+    "txd": "obj66",
+    "name": "Рюкзак 'Чёрное и Белое'"
+  },
+  {
+    "model_id": 14304,
+    "dff": "obj66_safe",
+    "txd": "obj66",
+    "name": "Рюкзак 'Сейф'"
+  },
+  {
+    "model_id": 14309,
+    "dff": "obj66_axepink",
+    "txd": "obj66",
+    "name": "Розовая кирка"
+  },
+  {
+    "model_id": 14310,
+    "dff": "obj66_claw",
+    "txd": "obj66",
+    "name": "Кирка-клешня"
+  },
+  {
+    "model_id": 14312,
+    "dff": "obj66_guitar",
+    "txd": "obj66",
+    "name": "Гитара с наклейками"
+  },
+  {
+    "model_id": 14313,
+    "dff": "obj66_hammer",
+    "txd": "obj66",
+    "name": "Моторный молот"
+  },
+  {
+    "model_id": 14314,
+    "dff": "obj66_stolb",
+    "txd": "obj66",
+    "name": "Столб-кирка"
+  },
+  {
+    "model_id": 14319,
+    "dff": "obj66_sword",
+    "txd": "obj66",
+    "name": "Бирюзовый меч"
+  },
+  {
+    "model_id": 14223,
+    "dff": "obj62a_solar_system",
+    "txd": "obj62",
+    "name": "Анимированная солнечная система"
+  },
+  {
+    "model_id": 14225,
+    "dff": "obj62a_voyager1",
+    "txd": "obj62",
+    "name": "Анимированный Вояджер-1"
+  },
+  {
+    "model_id": 14226,
+    "dff": "obj62a_astroback",
+    "txd": "obj62",
+    "name": "Рюкзак космонавта"
+  },
+  {
+    "model_id": 14228,
+    "dff": "obj62a_plasma",
+    "txd": "obj62",
+    "name": "Плазма-пушка"
+  },
+  {
+    "model_id": 14229,
+    "dff": "obj62a_cosmokot",
+    "txd": "obj62",
+    "name": "Космический кот"
+  },
+  {
+    "model_id": 14230,
+    "dff": "obj62a_bhole",
+    "txd": "obj62",
+    "name": "Анимированная чёрная дыра"
+  },
+  {
+    "model_id": 15602,
+    "dff": "obj68_bbgun",
+    "txd": "obj68",
+    "name": "Оружие Бамбли Би"
+  },
+  {
+    "model_id": 15603,
+    "dff": "obj68_stonemask",
+    "txd": "obj68",
+    "name": "Каменная маска"
+  },
+  {
+    "model_id": 15580,
+    "dff": "obj68_axesummer",
+    "txd": "obj68",
+    "name": "Каменные крылья"
+  },
+  {
+    "model_id": 15601,
+    "dff": "obj68_robot",
+    "txd": "obj67",
+    "name": "Роботизированная сфера"
+  },
+  {
+    "model_id": 15580,
+    "dff": "obj68_axesummer",
+    "txd": "obj68",
+    "name": "Морской топор"
+  },
+  {
+    "model_id": 15581,
+    "dff": "obj68_catmelon",
+    "txd": "obj68",
+    "name": "Фруктовый лёд"
+  },
+  {
+    "model_id": 15582,
+    "dff": "obj68_figoctopus",
+    "txd": "obj68",
+    "name": "Осьминог камикадзе"
+  },
+  {
+    "model_id": 15583,
+    "dff": "obj68_icecreame",
+    "txd": "obj68",
+    "name": "Мороженное"
+  },
+  {
+    "model_id": 15585,
+    "dff": "obj68_octopus",
+    "txd": "obj68",
+    "name": "Шляпа осьминог"
+  },
+  {
+    "model_id": 15586,
+    "dff": "obj68_redmask",
+    "txd": "obj68",
+    "name": "Красная маска"
+  },
+  {
+    "model_id": 15587,
+    "dff": "obj68_turtle",
+    "txd": "obj68",
+    "name": "Надувная черепашка"
+  },
+  {
+    "model_id": 15588,
+    "dff": "obj68_umbrella",
+    "txd": "obj68",
+    "name": "Японский зонтик"
+  },
+  {
+    "model_id": 15589,
+    "dff": "obj68a_bee",
+    "txd": "obj68",
+    "name": "Анимированная пчела"
+  },
+  {
+    "model_id": 15406,
+    "dff": "obj68a_ironspider",
+    "txd": "obj68",
+    "name": "Паучьи лапы"
+  },
+  {
+    "model_id": 14210,
+    "dff": "obj68_bulletbelt",
+    "txd": "obj68",
+    "name": "Пояс боеприпасов"
+  },
+  {
+    "model_id": 14211,
+    "dff": "obj68_exoback",
+    "txd": "obj68",
+    "name": "Экзоскелет"
+  },
+  {
+    "model_id": 14212,
+    "dff": "obj68_jayce",
+    "txd": "obj68",
+    "name": "Молот Джейса"
+  },
+  {
+    "model_id": 14213,
+    "dff": "obj68_lava",
+    "txd": "obj68",
+    "name": "Магмовый топор"
+  },
+  {
+    "model_id": 14214,
+    "dff": "obj68_stoneisl",
+    "txd": "obj68",
+    "name": "Цепь Stone Island"
+  },
+  {
+    "model_id": 14215,
+    "dff": "obj68_vi",
+    "txd": "obj68",
+    "name": "Перчатка Вай"
+  },
+  {
+    "model_id": 14216,
+    "dff": "obj68_visionpro",
+    "txd": "obj68",
+    "name": "Очки Apple Vision Pro"
+  },
+  {
+    "model_id": 14217,
+    "dff": "obj68a_ankh",
+    "txd": "obj68",
+    "name": "Амулеты анкх"
+  },
+  {
+    "model_id": 14218,
+    "dff": "obj68a_di",
+    "txd": "obj68",
+    "name": "Маркер dead inside"
+  },
+  {
+    "model_id": 14219,
+    "dff": "obj68a_rtx4090",
+    "txd": "obj68",
+    "name": "Видеокарта RTX 4090"
+  },
+  {
+    "model_id": 14220,
+    "dff": "obj68a_zelda",
+    "txd": "obj68",
+    "name": "Топор Зельды"
+  },
+  {
+    "model_id": 12680,
+    "dff": "obj68a_jejtsb",
+    "txd": "obj68",
+    "name": "Реактивный скейтборд"
+  },
+  {
+    "model_id": 12681,
+    "dff": "obj68a_helib",
+    "txd": "obj68",
+    "name": "Парящий скейтборд"
+  },
+  {
+    "model_id": 12682,
+    "dff": "obj68a_hover",
+    "txd": "obj68",
+    "name": "Энергетический скейтборд"
+  },
+  {
+    "model_id": 14231,
+    "dff": "obj68_board",
+    "txd": "obj68",
+    "name": "Молот Лас Вегас"
+  },
+  {
+    "model_id": 14232,
+    "dff": "obj68_chipglass",
+    "txd": "obj68",
+    "name": "Очки в виде фишек"
+  },
+  {
+    "model_id": 14233,
+    "dff": "obj68_dice",
+    "txd": "obj68",
+    "name": "Игральные кости (на шею)"
+  },
+  {
+    "model_id": 14234,
+    "dff": "obj68a_slots",
+    "txd": "obj68",
+    "name": "Слот машина"
+  },
+  {
+    "model_id": 14235,
+    "dff": "obj68a_roulette",
+    "txd": "obj68",
+    "name": "Рулетка"
+  },
+  {
+    "model_id": 14236,
+    "dff": "obj68a_hammer",
+    "txd": "obj68",
+    "name": "Молот спин"
+  },
+  {
+    "model_id": 14237,
+    "dff": "obj68a_sflash",
+    "txd": "obj68",
+    "name": "Нимб стрит-флеш"
+  },
+  {
+    "model_id": 14238,
+    "dff": "obj68a_circle1",
+    "txd": "obj68",
+    "name": "Свечение-аура 1"
+  },
+  {
+    "model_id": 14239,
+    "dff": "obj68a_circle2",
+    "txd": "obj68",
+    "name": "Свечение-аура 2"
+  },
+  {
+    "model_id": 14240,
+    "dff": "obj68a_circle3",
+    "txd": "obj68",
+    "name": "Свечение-аура 3"
+  },
+  {
+    "model_id": 14241,
+    "dff": "obj68a_bird",
+    "txd": "obj68",
+    "name": "Магическая птица"
+  },
+  {
+    "model_id": 15610,
+    "dff": "obj70_mask3",
+    "txd": "obj70",
+    "name": "Маска бомжа 3"
+  },
+  {
+    "model_id": 15611,
+    "dff": "obj70_mask2",
+    "txd": "obj70",
+    "name": "Маска бомжа 2"
+  },
+  {
+    "model_id": 15612,
+    "dff": "obj70_mask1",
+    "txd": "obj70",
+    "name": "Маска бомжа 1"
+  },
+  {
+    "model_id": 15613,
+    "dff": "obj70_bomj3",
+    "txd": "obj70",
+    "name": "Связанный бомж 3"
+  },
+  {
+    "model_id": 15614,
+    "dff": "obj70_bomj2",
+    "txd": "obj70",
+    "name": "Связанный бомж 2"
+  },
+  {
+    "model_id": 15615,
+    "dff": "obj70_bomj1",
+    "txd": "obj70",
+    "name": "Связанный бомж 1"
+  },
+  {
+    "model_id": 14218,
+    "dff": "obj70_watergun",
+    "txd": "obj70",
+    "name": "Яркая водная пушка"
+  },
+  {
+    "model_id": 14219,
+    "dff": "obj70_surf",
+    "txd": "obj70",
+    "name": "Серфборд"
+  },
+  {
+    "model_id": 14220,
+    "dff": "obj70_starme",
+    "txd": "obj70",
+    "name": "Морская звезда"
+  },
+  {
+    "model_id": 14222,
+    "dff": "obj70_googles",
+    "txd": "obj70",
+    "name": "Подводная маска с трубкой"
+  },
+  {
+    "model_id": 14223,
+    "dff": "obj70_icehead",
+    "txd": "obj70",
+    "name": "Ледяная головая"
+  },
+  {
+    "model_id": 14224,
+    "dff": "obj70_crab",
+    "txd": "obj70",
+    "name": "Арбузный краб"
+  },
+  {
+    "model_id": 14226,
+    "dff": "obj70_duck",
+    "txd": "obj70",
+    "name": "Голова утки"
+  },
+  {
+    "model_id": 14227,
+    "dff": "obj70_ghost_mask",
+    "txd": "obj70",
+    "name": "Маска череп"
+  },
+  {
+    "model_id": 14228,
+    "dff": "obj70_bag",
+    "txd": "obj70",
+    "name": "Авоська с бутылками"
+  },
+  {
+    "model_id": 14229,
+    "dff": "obj70_dirt_bp",
+    "txd": "obj70",
+    "name": "Грязный и потертый рюкзак"
+  },
+  {
+    "model_id": 14231,
+    "dff": "obj70_box",
+    "txd": "obj70",
+    "name": "Молот картонный"
+  },
+  {
+    "model_id": 14232,
+    "dff": "obj70_cap",
+    "txd": "obj70",
+    "name": "Кепка Bomj Gang"
+  },
+  {
+    "model_id": 14233,
+    "dff": "obj70_cup",
+    "txd": "obj70",
+    "name": "Мусорный щит"
+  },
+  {
+    "model_id": 14234,
+    "dff": "obj70_toyback",
+    "txd": "obj70",
+    "name": "Рюкзак мягкая игрушка"
+  },
+  {
+    "model_id": 14235,
+    "dff": "obj70_canister",
+    "txd": "obj70",
+    "name": "Горящая канистра"
+  },
+  {
+    "model_id": 14236,
+    "dff": "obj70_cans",
+    "txd": "obj70",
+    "name": "Подвеска из жестяных банок"
+  },
+  {
+    "model_id": 14237,
+    "dff": "obj70_cbman",
+    "txd": "obj70",
+    "name": "Картонный человечек"
+  },
+  {
+    "model_id": 15352,
+    "dff": "obj70_blavkacs",
+    "txd": "obj71",
+    "name": "Складная мусорная лавка"
+  },
+  {
+    "model_id": 15354,
+    "dff": "obj70_anvestgun",
+    "txd": "obj70",
+    "name": "Генеральский бронежилет"
+  },
+  {
+    "model_id": 15355,
+    "dff": "obj70_mwh",
+    "txd": "obj70",
+    "name": "Тактический шлем"
+  },
+  {
+    "model_id": 15356,
+    "dff": "obj70_mwvest",
+    "txd": "obj70",
+    "name": "Тактический бронежилет"
+  },
+  {
+    "model_id": 14284,
+    "dff": "obj70a_yacht",
+    "txd": "obj70",
+    "name": "Яхта Сэма Мейсона"
+  },
+  {
+    "model_id": 14286,
+    "dff": "obj70a_windmill",
+    "txd": "obj70",
+    "name": "Воздушная мельница"
+  },
+  {
+    "model_id": 14287,
+    "dff": "obj70a_garbages",
+    "txd": "obj70",
+    "name": "Мусорный нимб"
+  },
+  {
+    "model_id": 14288,
+    "dff": "obj70a_mahenergy",
+    "txd": "obj70",
+    "name": "Энергетический махинатор"
+  },
+  {
+    "model_id": 15950,
+    "dff": "obj70_cake",
+    "txd": "obj70",
+    "name": "Рюкзак тортик"
+  },
+  {
+    "model_id": 15951,
+    "dff": "obj70_cakehand",
+    "txd": "obj70",
+    "name": "Меч торт"
+  },
+  {
+    "model_id": 15952,
+    "dff": "obj70a_arizball",
+    "txd": "obj70",
+    "name": "Праздничные шары"
+  },
+  {
+    "model_id": 15953,
+    "dff": "obj70a_cakes",
+    "txd": "obj70",
+    "name": "Нимб из тортиков"
+  },
+  {
+    "model_id": 15954,
+    "dff": "obj70a_neoncake",
+    "txd": "obj70",
+    "name": "Неоновый торт"
+  },
+  {
+    "model_id": 15616,
+    "dff": "obj70a_bonjcase",
+    "txd": "obj70",
+    "name": "Чемодан Bomj Gang"
+  },
+  {
+    "model_id": 15952,
+    "dff": "obj72a_hotfork",
+    "txd": "obj72",
+    "name": "Вилка Горячая Штучка"
+  },
+  {
+    "model_id": 15953,
+    "dff": "obj72a_hothelm",
+    "txd": "obj72",
+    "name": "Шлем Горячая Штучка"
+  },
+  {
+    "model_id": 15950,
+    "dff": "obj72_hotcap",
+    "txd": "obj72",
+    "name": "Кепка Горячая Штучка"
+  },
+  {
+    "model_id": 15951,
+    "dff": "obj72_hotlav",
+    "txd": "obj73",
+    "name": "Рюкзак Горячая Штучка"
+  },
+  {
+    "model_id": 16825,
+    "dff": "obj74_broom",
+    "txd": "obj74",
+    "name": "Магическая метла"
+  },
+  {
+    "model_id": 24271,
+    "dff": "obj74_cloak",
+    "txd": "obj74",
+    "name": "Плащ невидимка"
+  },
+  {
+    "model_id": 24273,
+    "dff": "obj74_deadcat",
+    "txd": "obj74",
+    "name": "Котик скелет"
+  },
+  {
+    "model_id": 24274,
+    "dff": "obj74_doll",
+    "txd": "obj74",
+    "name": "Хэллоуинская игрушка"
+  },
+  {
+    "model_id": 24275,
+    "dff": "obj74_glass",
+    "txd": "obj74",
+    "name": "Киберпанковские VR-очки"
+  },
+  {
+    "model_id": 24276,
+    "dff": "obj74_hat",
+    "txd": "obj74",
+    "name": "Магическая шляпа"
+  },
+  {
+    "model_id": 24278,
+    "dff": "obj74_mask_wing",
+    "txd": "obj74",
+    "name": "Маска в виде крыльев"
+  },
+  {
+    "model_id": 24279,
+    "dff": "obj74_maskblack",
+    "txd": "obj74",
+    "name": "Черная маска"
+  },
+  {
+    "model_id": 24281,
+    "dff": "obj74_maskinv",
+    "txd": "obj74",
+    "name": "Маска нетранера"
+  },
+  {
+    "model_id": 24282,
+    "dff": "obj74_masksilver",
+    "txd": "obj74",
+    "name": "Адский намордник"
+  },
+  {
+    "model_id": 24283,
+    "dff": "obj74_phead",
+    "txd": "obj74",
+    "name": "Пирамидаголовая шляпа"
+  },
+  {
+    "model_id": 24285,
+    "dff": "obj74_rabbit",
+    "txd": "obj74",
+    "name": "Маниакальный зайчик"
+  },
+  {
+    "model_id": 24288,
+    "dff": "obj74_staffp",
+    "txd": "obj74",
+    "name": "Тыквенный посох"
+  },
+  {
+    "model_id": 24290,
+    "dff": "obj74_toythief",
+    "txd": "obj74",
+    "name": "Плюшевый вуду"
+  },
+  {
+    "model_id": 24292,
+    "dff": "obj74_wings",
+    "txd": "obj74",
+    "name": "Языческое божество"
+  },
+  {
+    "model_id": 24294,
+    "dff": "obj74_fan",
+    "txd": "obj74",
+    "name": "Веер Темари"
+  },
+  {
+    "model_id": 24298,
+    "dff": "obj74_flashlight",
+    "txd": "obj74",
+    "name": "Бумажный фонарь"
+  },
+  {
+    "model_id": 24299,
+    "dff": "obj74_jap_mask",
+    "txd": "obj74",
+    "name": "Маска Они"
+  },
+  {
+    "model_id": 16792,
+    "dff": "obj74_japback",
+    "txd": "obj74",
+    "name": "Японский рюкзак"
+  },
+  {
+    "model_id": 16809,
+    "dff": "obj74_switch",
+    "txd": "obj74",
+    "name": "Нинтендо свитч"
+  },
+  {
+    "model_id": 16811,
+    "dff": "obj74_tako",
+    "txd": "obj74",
+    "name": "Лавка такояки"
+  },
+  {
+    "model_id": 16812,
+    "dff": "obj74_toycat",
+    "txd": "obj74",
+    "name": "Шаловливый охотник"
+  },
+  {
+    "model_id": 15940,
+    "dff": "obj74a_cat",
+    "txd": "obj74",
+    "name": "Демонический кот"
+  },
+  {
+    "model_id": 15941,
+    "dff": "obj74a_club",
+    "txd": "obj74",
+    "name": "Бойцовский клуб"
+  },
+  {
+    "model_id": 15944,
+    "dff": "obj74a_darkhalo",
+    "txd": "obj74",
+    "name": "Сатаниский нимб"
+  },
+  {
+    "model_id": 15946,
+    "dff": "obj74a_ender",
+    "txd": "obj74",
+    "name": "Эндер куб"
+  },
+  {
+    "model_id": 15955,
+    "dff": "obj74a_tentacles",
+    "txd": "obj74",
+    "name": "Щупальца слендера"
+  },
+  {
+    "model_id": 15956,
+    "dff": "obj74a_tnimb",
+    "txd": "obj74",
+    "name": "Нимб из тыкв"
+  },
+  {
+    "model_id": 15957,
+    "dff": "obj74a_watch",
+    "txd": "obj74",
+    "name": "Энергетические часы"
+  },
+  {
+    "model_id": 16814,
+    "dff": "obj74a_maneki",
+    "txd": "obj74",
+    "name": "Денежный кот"
+  },
+  {
+    "model_id": 16823,
+    "dff": "obj74a_noodles",
+    "txd": "obj74",
+    "name": "Нимб из Раменов"
+  },
+  {
+    "model_id": 16824,
+    "dff": "obj74a_shur",
+    "txd": "obj74",
+    "name": "Лезвия ниндзи"
+  },
+  {
+    "model_id": 16825,
+    "dff": "obj74a_stick",
+    "txd": "obj74",
+    "name": "Посох мудреца"
+  },
+  {
+    "model_id": 24270,
+    "dff": "obj74_back",
+    "txd": "obj74",
+    "name": "Грибы на спину"
+  },
+  {
+    "model_id": 24277,
+    "dff": "obj74_head",
+    "txd": "obj74",
+    "name": "Грибная шляпа"
+  },
+  {
+    "model_id": 24286,
+    "dff": "obj74_sholder",
+    "txd": "obj74",
+    "name": "Грибы на плечи"
+  },
+  {
+    "model_id": 24291,
+    "dff": "obj74_weapon",
+    "txd": "obj74",
+    "name": "Грибной посох"
+  },
+  {
+    "model_id": 24280,
+    "dff": "obj74_maskhello",
+    "txd": "obj74",
+    "name": "Маска для пугания"
+  },
+  {
+    "model_id": 16824,
+    "dff": "obj74_pump",
+    "txd": "obj74",
+    "name": "Тыква с фейерверками"
+  },
+  {
+    "model_id": 24289,
+    "dff": "obj74_taverna1",
+    "txd": "obj74",
+    "name": "Складная магическая лавка"
+  },
+  {
+    "model_id": 24293,
+    "dff": "obj74_sandstone",
+    "txd": "obj74",
+    "name": "Переносной верстак миража"
+  },
+  {
+    "model_id": 24272,
+    "dff": "obj74_coffin",
+    "txd": "obj74",
+    "name": "Складная хэллоуинская лавка"
+  },
+  {
+    "model_id": 16813,
+    "dff": "obj76a_red_wings",
+    "txd": "obj76",
+    "name": "Кровавые крылья"
+  },
+  {
+    "model_id": 6815,
+    "dff": "obj76_scarf",
+    "txd": "obj76",
+    "name": "Новогодний шарф 2025"
+  },
+  {
+    "model_id": 6811,
+    "dff": "obj76_flashlight",
+    "txd": "obj76",
+    "name": "Новогодний светильник в руку"
+  },
+  {
+    "model_id": 6789,
+    "dff": "obj76a_snake",
+    "txd": "obj76",
+    "name": "Нимб Новогодняя змея"
+  },
+  {
+    "model_id": 6791,
+    "dff": "obj76_aegis1",
+    "txd": "obj76",
+    "name": "Щит Аегис"
+  },
+  {
+    "model_id": 6792,
+    "dff": "obj76_shb",
+    "txd": "obj76",
+    "name": "Шадоу Блейд"
+  },
+  {
+    "model_id": 6794,
+    "dff": "obj76_rapier",
+    "txd": "obj76",
+    "name": "Рапира"
+  },
+  {
+    "model_id": 6795,
+    "dff": "obj76_desol",
+    "txd": "obj76",
+    "name": "Дезолятор"
+  },
+  {
+    "model_id": 6796,
+    "dff": "obj76_aghanim",
+    "txd": "obj76",
+    "name": "Аганим"
+  },
+  {
+    "model_id": 6797,
+    "dff": "obj76_aegis1",
+    "txd": "obj76",
+    "name": "Аегис"
+  },
+  {
+    "model_id": 6798,
+    "dff": "obj76_bfury",
+    "txd": "obj76",
+    "name": "Батлфьюри"
+  },
+  {
+    "model_id": 6799,
+    "dff": "obj76_blinkdag",
+    "txd": "obj76",
+    "name": "Блинкдаггер"
+  },
+  {
+    "model_id": 6801,
+    "dff": "obj76_radiance",
+    "txd": "obj76",
+    "name": "Радианс"
+  },
+  {
+    "model_id": 6802,
+    "dff": "obj76_shiva",
+    "txd": "obj76",
+    "name": "Шива"
+  },
+  {
+    "model_id": 6803,
+    "dff": "obj76_hook",
+    "txd": "obj76",
+    "name": "ДК Хук"
+  },
+  {
+    "model_id": 6804,
+    "dff": "obj76_weapon_am",
+    "txd": "obj76",
+    "name": "Лезвие Анти-мага"
+  },
+  {
+    "model_id": 6805,
+    "dff": "obj76_headdress_am",
+    "txd": "obj76",
+    "name": "Шляпа Анти-мага"
+  },
+  {
+    "model_id": 6807,
+    "dff": "obj76_shoulpad_am",
+    "txd": "obj76",
+    "name": "Наплечники Анти-мага"
+  },
+  {
+    "model_id": 6808,
+    "dff": "obj76_basher",
+    "txd": "obj76",
+    "name": "Башер Анти-мага"
+  },
+  {
+    "model_id": 6809,
+    "dff": "obj76_cowl_cm",
+    "txd": "obj76",
+    "name": "Корона ЦМ"
+  },
+  {
+    "model_id": 6810,
+    "dff": "obj76_sword_wk",
+    "txd": "obj76",
+    "name": "Меч ВК"
+  },
+  {
+    "model_id": 6813,
+    "dff": "obj76a_wings",
+    "txd": "obj76",
+    "name": "Крылья Инвокера"
+  },
+  {
+    "model_id": 6814,
+    "dff": "obj76_marci",
+    "txd": "obj76",
+    "name": "Артефакт Марси"
+  },
+  {
+    "model_id": 6816,
+    "dff": "obj76_midas",
+    "txd": "obj76",
+    "name": "Мидас"
+  },
+  {
+    "model_id": 6817,
+    "dff": "obj76_hammer",
+    "txd": "obj76",
+    "name": "Хаммер Войда"
+  },
+  {
+    "model_id": 6819,
+    "dff": "obj76_shoulpads",
+    "txd": "obj76",
+    "name": "Наплечники Войда"
+  },
+  {
+    "model_id": 6820,
+    "dff": "obj76a_trax",
+    "txd": "obj76",
+    "name": "Арбалет Траксы"
+  },
+  {
+    "model_id": 6821,
+    "dff": "obj76_ringbox",
+    "txd": "obj76",
+    "name": "Коробка Ринг Мастера"
+  },
+  {
+    "model_id": 6822,
+    "dff": "obj76_void",
+    "txd": "obj76",
+    "name": "Маска Войда"
+  },
+  {
+    "model_id": 6823,
+    "dff": "obj76_button_left",
+    "txd": "obj76",
+    "name": "Коньки"
+  },
+  {
+    "model_id": 6826,
+    "dff": "obj76_dbag",
+    "txd": "obj76",
+    "name": "Рюкзак ЯДОСТАВКА"
+  },
+  {
+    "model_id": 11760,
+    "dff": "obj76_bag",
+    "txd": "obj76",
+    "name": "Мешок с подарками"
+  },
+  {
+    "model_id": 11761,
+    "dff": "obj76a_barrel",
+    "txd": "obj76",
+    "name": "Тетчис в бочке"
+  },
+  {
+    "model_id": 11762,
+    "dff": "obj76_chill",
+    "txd": "obj76",
+    "name": "Чиловый парень"
+  },
+  {
+    "model_id": 11763,
+    "dff": "obj76_goblinp",
+    "txd": "obj76",
+    "name": "Гоблинская кирка"
+  },
+  {
+    "model_id": 11765,
+    "dff": "obj76_mpanda",
+    "txd": "obj76",
+    "name": "Панда Марси"
+  },
+  {
+    "model_id": 11766,
+    "dff": "obj76_swords",
+    "txd": "obj76",
+    "name": "Мечи Алхимика"
+  },
+  {
+    "model_id": 6785,
+    "dff": "obj76a_courier",
+    "txd": "obj76",
+    "name": "Энергетический КУРА шар"
+  },
+  {
+    "model_id": 6786,
+    "dff": "obj76a_skadi",
+    "txd": "obj76",
+    "name": "Скади"
+  },
+  {
+    "model_id": 6787,
+    "dff": "obj76a_inv_sphere",
+    "txd": "obj76",
+    "name": "Сферы инвокера"
+  },
+  {
+    "model_id": 6788,
+    "dff": "obj76a_stick_cm",
+    "txd": "obj76",
+    "name": "Посох ЦМ"
+  },
+  {
+    "model_id": 6790,
+    "dff": "obj76a_dog",
+    "txd": "obj76",
+    "name": "Собачка Джека"
+  },
+  {
+    "model_id": 11771,
+    "dff": "obj76a_io",
+    "txd": "obj76",
+    "name": "Аркана ИО"
+  },
+  {
+    "model_id": 11772,
+    "dff": "obj76a_oracle",
+    "txd": "obj76",
+    "name": "Зеркала Оракла"
+  },
+  {
+    "model_id": 11773,
+    "dff": "obj76a_roll",
+    "txd": "obj76",
+    "name": "Золотой ролик"
+  },
+  {
+    "model_id": 11774,
+    "dff": "obj76a_tango",
+    "txd": "obj76",
+    "name": "Танго"
+  },
+  {
+    "model_id": 12077,
+    "dff": "obj76_axe",
+    "txd": "obj76",
+    "name": "Ледяной топор"
+  },
+  {
+    "model_id": 12078,
+    "dff": "obj76_backpack",
+    "txd": "obj76",
+    "name": "Новогодний рюкзак"
+  },
+  {
+    "model_id": 12079,
+    "dff": "obj76_cap",
+    "txd": "obj76",
+    "name": "Новогодняя шапка с рожками"
+  },
+  {
+    "model_id": 12080,
+    "dff": "obj76_snowball",
+    "txd": "obj76",
+    "name": "Снежок"
+  },
+  {
+    "model_id": 12081,
+    "dff": "obj76_wreath",
+    "txd": "obj76",
+    "name": "Новогодний венок"
+  },
+  {
+    "model_id": 12172,
+    "dff": "obj78a_eye",
+    "txd": "obj78",
+    "name": "Аксессуар Глаз циклопа"
+  },
+  {
+    "model_id": 12275,
+    "dff": "obj78_ccat",
+    "txd": "obj78",
+    "name": "Мультяшный кот"
+  },
+  {
+    "model_id": 12277,
+    "dff": "obj78_ebow",
+    "txd": "obj78",
+    "name": "Мультяшный лук"
+  },
+  {
+    "model_id": 12278,
+    "dff": "obj78_ehammer",
+    "txd": "obj78",
+    "name": "Мультяшный молот"
+  },
+  {
+    "model_id": 12285,
+    "dff": "obj78_shovel",
+    "txd": "obj78",
+    "name": "Меч морковка 2"
+  },
+  {
+    "model_id": 12286,
+    "dff": "obj78_hat",
+    "txd": "obj78",
+    "name": "Шляпа с ушками"
+  },
+  {
+    "model_id": 12289,
+    "dff": "obj78_roadhogmask",
+    "txd": "obj78",
+    "name": "Маска турбосвина"
+  },
+  {
+    "model_id": 12290,
+    "dff": "obj78_spgrenades",
+    "txd": "obj78",
+    "name": "Наплечники из гранат"
+  },
+  {
+    "model_id": 12291,
+    "dff": "obj78_sproadhog",
+    "txd": "obj78",
+    "name": "Наплечники турбосвина"
+  },
+  {
+    "model_id": 12292,
+    "dff": "obj78_glassest",
+    "txd": "obj78",
+    "name": "Очки Триггерит"
+  },
+  {
+    "model_id": 12293,
+    "dff": "obj78_backpackg",
+    "txd": "obj78",
+    "name": "Рюкзак Geometry Dash"
+  },
+  {
+    "model_id": 12294,
+    "dff": "obj78_bulletproof",
+    "txd": "obj78",
+    "name": "Бронежилет Горящий пес"
+  },
+  {
+    "model_id": 12295,
+    "dff": "obj78_bodyarmor",
+    "txd": "obj78",
+    "name": "Бронежилет Versus"
+  },
+  {
+    "model_id": 12296,
+    "dff": "obj78_minion",
+    "txd": "obj78",
+    "name": "Миньон"
+  },
+  {
+    "model_id": 12297,
+    "dff": "obj78_megaphone",
+    "txd": "obj78",
+    "name": "Рупор"
+  },
+  {
+    "model_id": 12298,
+    "dff": "obj78_selfiestick",
+    "txd": "obj78",
+    "name": "Палка для селфи"
+  },
+  {
+    "model_id": 12299,
+    "dff": "obj78_sickle",
+    "txd": "obj78",
+    "name": "Коса Марси"
+  },
+  {
+    "model_id": 12300,
+    "dff": "obj78_chif",
+    "txd": "obj78",
+    "name": "Шлем Хало"
+  },
+  {
+    "model_id": 12301,
+    "dff": "obj78_glassest",
+    "txd": "obj78",
+    "name": "Очки на лоб"
+  },
+  {
+    "model_id": 12302,
+    "dff": "obj78_kermit",
+    "txd": "obj78",
+    "name": "Кермит"
+  },
+  {
+    "model_id": 12303,
+    "dff": "obj78_sonic",
+    "txd": "obj78",
+    "name": "Соник"
+  },
+  {
+    "model_id": 12304,
+    "dff": "obj78_b_molli1",
+    "txd": "obj78",
+    "name": "Рюкзак Пошлой Молли 1"
+  },
+  {
+    "model_id": 12305,
+    "dff": "obj78_b_molli2",
+    "txd": "obj78",
+    "name": "Рюкзак Пошлой Молли 2"
+  },
+  {
+    "model_id": 12306,
+    "dff": "obj78_b_dora1",
+    "txd": "obj78",
+    "name": "Рюкзак Доры 1"
+  },
+  {
+    "model_id": 12307,
+    "dff": "obj78_b_dora2",
+    "txd": "obj78",
+    "name": "Рюкзак Доры 2"
+  },
+  {
+    "model_id": 12308,
+    "dff": "obj78_b_dratuti",
+    "txd": "obj78",
+    "name": "Рюкзак Дратути"
+  },
+  {
+    "model_id": 12309,
+    "dff": "obj78_shield",
+    "txd": "obj78",
+    "name": "Щит Clash Royale"
+  },
+  {
+    "model_id": 12310,
+    "dff": "obj78_helmet",
+    "txd": "obj78",
+    "name": "Шлем Clash Royale"
+  },
+  {
+    "model_id": 12311,
+    "dff": "obj78_crown",
+    "txd": "obj78",
+    "name": "Корона Clash Royale"
+  },
+  {
+    "model_id": 12312,
+    "dff": "obj78_cat",
+    "txd": "obj78",
+    "name": "Рюкзак сильный кот"
+  },
+  {
+    "model_id": 12313,
+    "dff": "obj78_thrasher",
+    "txd": "obj78",
+    "name": "Цепь Трешер"
+  },
+  {
+    "model_id": 12314,
+    "dff": "obj78_glove",
+    "txd": "obj78",
+    "name": "Перчатка Наклза"
+  },
+  {
+    "model_id": 12315,
+    "dff": "obj78_jetpack",
+    "txd": "obj78",
+    "name": "Реактивный ранец с крыльями"
+  },
+  {
+    "model_id": 12321,
+    "dff": "obj78a_wings",
+    "txd": "obj78",
+    "name": "Крылья Марси"
+  },
+  {
+    "model_id": 12322,
+    "dff": "obj78a_sun",
+    "txd": "obj78",
+    "name": "Анимированное солнце"
+  },
+  {
+    "model_id": 12323,
+    "dff": "obj78a_duck",
+    "txd": "obj78",
+    "name": "Надувной круг"
+  },
+  {
+    "model_id": 12324,
+    "dff": "obj78a_nimb",
+    "txd": "obj78",
+    "name": "Нимб Марси"
+  },
+  {
+    "model_id": 12325,
+    "dff": "obj78a_lotr",
+    "txd": "obj78",
+    "name": "Нимб кольца всевластия"
+  },
+  {
+    "model_id": 12326,
+    "dff": "obj78a_dudec",
+    "txd": "obj78",
+    "name": "Дудец"
+  },
+  {
+    "model_id": 12327,
+    "dff": "obj78a_dora_n",
+    "txd": "obj78",
+    "name": "Нимб Доры"
+  },
+  {
+    "model_id": 12328,
+    "dff": "obj78a_pmolli_n",
+    "txd": "obj78",
+    "name": "Нимб Пошлой Молли"
+  },
+  {
+    "model_id": 12329,
+    "dff": "obj78a_geom",
+    "txd": "obj78",
+    "name": "Нимб Geometry Dash"
+  },
+  {
+    "model_id": 12330,
+    "dff": "obj78a_sonring",
+    "txd": "obj78",
+    "name": "Нимб из колец Соника"
+  },
+  {
+    "model_id": 12331,
+    "dff": "obj78a_tail",
+    "txd": "obj78",
+    "name": "Хвосты Тейлза"
+  },
+  {
+    "model_id": 12332,
+    "dff": "obj78a_pokeball",
+    "txd": "obj78",
+    "name": "Нимб из Покеболлов"
+  },
+  {
+    "model_id": 12333,
+    "dff": "obj78a_rpokeball",
+    "txd": "obj78",
+    "name": "Покеболл с покемоном 1"
+  },
+  {
+    "model_id": 12334,
+    "dff": "obj78a_spokeball",
+    "txd": "obj78",
+    "name": "Покеболл с покемоном 2"
+  },
+  {
+    "model_id": 12335,
+    "dff": "obj78a_bpokeball",
+    "txd": "obj78",
+    "name": "Покеболл с покемоном 3"
+  },
+  {
+    "model_id": 12336,
+    "dff": "obj78a_cpokebal",
+    "txd": "obj78",
+    "name": "Покеболл с покемоном 4"
+  },
+  {
+    "model_id": 12396,
+    "dff": "obj80_monster",
+    "txd": "obj80",
+    "name": "Легендарная мусорка на спину"
+  },
+  {
+    "model_id": 12394,
+    "dff": "obj80a_elym",
+    "txd": "obj80",
+    "name": "Цепь Иллюмината"
+  },
+  {
+    "model_id": 13977,
+    "dff": "obj80_axolotl",
+    "txd": "obj80",
+    "name": "Аксалотль"
+  },
+  {
+    "model_id": 13978,
+    "dff": "obj80_backpack",
+    "txd": "obj80",
+    "name": "Магический рюкзак"
+  },
+  {
+    "model_id": 13979,
+    "dff": "obj80_braid",
+    "txd": "obj80",
+    "name": "Коса КубоСтраба"
+  },
+  {
+    "model_id": 13980,
+    "dff": "obj80_dragon",
+    "txd": "obj80",
+    "name": "Маска летучей мыши"
+  },
+  {
+    "model_id": 13981,
+    "dff": "obj80_hammer",
+    "txd": "obj80",
+    "name": "Молот"
+  },
+  {
+    "model_id": 13982,
+    "dff": "obj80_hatcan",
+    "txd": "obj80",
+    "name": "Шляпа Вин-Пикселя"
+  },
+  {
+    "model_id": 13983,
+    "dff": "obj80_hatoran",
+    "txd": "obj80",
+    "name": "Оранжевая магическая шляпа"
+  },
+  {
+    "model_id": 13984,
+    "dff": "obj80_magichat",
+    "txd": "obj80",
+    "name": "Магическая шляпа Мегумин"
+  },
+  {
+    "model_id": 13985,
+    "dff": "obj80_mono",
+    "txd": "obj80",
+    "name": "Моноколесо"
+  },
+  {
+    "model_id": 13990,
+    "dff": "obj80_bluemask",
+    "txd": "obj80",
+    "name": "Маска морского ежа"
+  },
+  {
+    "model_id": 13991,
+    "dff": "obj80_darkmask",
+    "txd": "obj80",
+    "name": "Маска дракона"
+  },
+  {
+    "model_id": 13992,
+    "dff": "obj80_eevee",
+    "txd": "obj80",
+    "name": "Зверушка"
+  },
+  {
+    "model_id": 13993,
+    "dff": "obj80_emoji",
+    "txd": "obj80",
+    "name": "Маска эмодзи влюбленный"
+  },
+  {
+    "model_id": 13994,
+    "dff": "obj80_frog",
+    "txd": "obj80",
+    "name": "Жабка рыбак"
+  },
+  {
+    "model_id": 13995,
+    "dff": "obj80_ofrog",
+    "txd": "obj80",
+    "name": "Маска жабы"
+  },
+  {
+    "model_id": 13996,
+    "dff": "obj80_pgirl",
+    "txd": "obj80",
+    "name": "Пиксельная девочка"
+  },
+  {
+    "model_id": 14042,
+    "dff": "obj80_chain",
+    "txd": "obj80",
+    "name": "Цепь доллар"
+  },
+  {
+    "model_id": 13986,
+    "dff": "obj80a_staff",
+    "txd": "obj80",
+    "name": "Магический посох"
+  },
+  {
+    "model_id": 13997,
+    "dff": "obj80a_appa",
+    "txd": "obj80",
+    "name": "Аппа"
+  },
+  {
+    "model_id": 13998,
+    "dff": "obj80a_nemoji",
+    "txd": "obj80",
+    "name": "КубоМоции"
+  },
+  {
+    "model_id": 13999,
+    "dff": "obj80a_pbook",
+    "txd": "obj80",
+    "name": "Зачарованная книга"
+  },
+  {
+    "model_id": 14000,
+    "dff": "obj80a_pwings",
+    "txd": "obj80",
+    "name": "FireCube крылья"
+  },
+  {
+    "model_id": 14001,
+    "dff": "obj80a_redrobot",
+    "txd": "obj80",
+    "name": "ТВ Робот"
+  },
+  {
+    "model_id": 14002,
+    "dff": "obj80a_stwings",
+    "txd": "obj80",
+    "name": "Руки сэта"
+  },
+  {
+    "model_id": 14043,
+    "dff": "obj80a_flyhand",
+    "txd": "obj80",
+    "name": "МайнСкелет"
+  },
+  {
+    "model_id": 14045,
+    "dff": "obj80a_fishbp",
+    "txd": "obj81",
+    "name": "Рыбацкий рюкзак"
+  },
+  {
+    "model_id": 13993,
+    "dff": "obj82_msearch1",
+    "txd": "obj82",
+    "name": "Обычный металлоискатель"
+  },
+  {
+    "model_id": 13994,
+    "dff": "obj82_msearch2",
+    "txd": "obj82",
+    "name": "Персональный металлоискатель"
+  },
+  {
+    "model_id": 13995,
+    "dff": "obj82_msearch3",
+    "txd": "obj82",
+    "name": "Улучшенный металлоискатель"
+  },
+  {
+    "model_id": 13996,
+    "dff": "obj82_msearch4",
+    "txd": "obj82",
+    "name": "Профессиональный металлоискатель"
+  },
+  {
+    "model_id": 14042,
+    "dff": "obj82_msearch5",
+    "txd": "obj82",
+    "name": "Демонический металлоискатель"
+  },
+  {
+    "model_id": 14002,
+    "dff": "obj82_msearch6",
+    "txd": "obj82",
+    "name": "Космический металлоискатель"
+  },
+  {
+    "model_id": 15156,
+    "dff": "obj82_backpack",
+    "txd": "obj82",
+    "name": "Военный рюкзак"
+  },
+  {
+    "model_id": 15157,
+    "dff": "obj82_earflaps",
+    "txd": "obj82",
+    "name": "Шапка ушанка"
+  },
+  {
+    "model_id": 15158,
+    "dff": "obj82_grenade",
+    "txd": "obj82",
+    "name": "Связка гранат"
+  },
+  {
+    "model_id": 15159,
+    "dff": "obj82_pigeon",
+    "txd": "obj82",
+    "name": "Почтовый голубь"
+  },
+  {
+    "model_id": 15160,
+    "dff": "obj82_shovel",
+    "txd": "obj82",
+    "name": "Траншейная лопата"
+  },
+  {
+    "model_id": 15161,
+    "dff": "obj82a_redstar",
+    "txd": "obj82",
+    "name": "Нимб Ветвь мира"
+  },
+  {
+    "model_id": 15163,
+    "dff": "obj82_gasmask",
+    "txd": "obj82",
+    "name": "Респиратор"
+  },
+  {
+    "model_id": 15167,
+    "dff": "obj82_mot",
+    "txd": "obj82",
+    "name": "Моноколесо SHMEL"
+  },
+  {
+    "model_id": 11960,
+    "dff": "obj84_himikotoga",
+    "txd": "obj84",
+    "name": "Наплечники призывателя"
+  },
+  {
+    "model_id": 11961,
+    "dff": "obj84_braid",
+    "txd": "obj84",
+    "name": "Коса Красной Розы"
+  },
+  {
+    "model_id": 11962,
+    "dff": "obj84_mask",
+    "txd": "obj84",
+    "name": "Маска средневекового Они"
+  },
+  {
+    "model_id": 11963,
+    "dff": "obj84_sword",
+    "txd": "obj84",
+    "name": "Меч обсидианового лорда"
+  },
+  {
+    "model_id": 11964,
+    "dff": "obj84_lamp",
+    "txd": "obj84",
+    "name": "Пиратский фонарь"
+  },
+  {
+    "model_id": 11965,
+    "dff": "obj84_hat2",
+    "txd": "obj84",
+    "name": "Пиратская шляпа №2"
+  },
+  {
+    "model_id": 11966,
+    "dff": "obj84_hat3",
+    "txd": "obj84",
+    "name": "Пиратская шляпа №3"
+  },
+  {
+    "model_id": 11967,
+    "dff": "obj84_goldencap",
+    "txd": "obj84",
+    "name": "Золотая гангстерская кепка"
+  },
+  {
+    "model_id": 11968,
+    "dff": "obj84_chain",
+    "txd": "obj84",
+    "name": "Золотая гангстерская цепь"
+  },
+  {
+    "model_id": 11969,
+    "dff": "obj84_glassesg",
+    "txd": "obj84",
+    "name": "Золотые гангстерские очки"
+  },
+  {
+    "model_id": 11970,
+    "dff": "obj84_sneakers",
+    "txd": "obj84",
+    "name": "Пара синих найков"
+  },
+  {
+    "model_id": 11971,
+    "dff": "obj84_eboombox",
+    "txd": "obj84",
+    "name": "Бумбокс Slim Shady"
+  },
+  {
+    "model_id": 11972,
+    "dff": "obj84_roadsign",
+    "txd": "obj84",
+    "name": "Дорожный знак из Комптона"
+  },
+  {
+    "model_id": 11973,
+    "dff": "obj84_allred",
+    "txd": "obj84",
+    "name": "Кепка Playboi Carti"
+  },
+  {
+    "model_id": 11974,
+    "dff": "obj84_rsneakers",
+    "txd": "obj84",
+    "name": "Пара красных найков"
+  },
+  {
+    "model_id": 11975,
+    "dff": "obj84_wsneakers",
+    "txd": "obj84",
+    "name": "Пара фиолетовых найков"
+  },
+  {
+    "model_id": 11977,
+    "dff": "obj84_psneakers",
+    "txd": "obj84",
+    "name": "Пара черных найков"
+  },
+  {
+    "model_id": 11978,
+    "dff": "obj84_cucumber",
+    "txd": "obj84",
+    "name": "Крутой огурчик"
+  },
+  {
+    "model_id": 11980,
+    "dff": "obj84_back_ball",
+    "txd": "obj84",
+    "name": "Рюкзак Баллончик с краской"
+  },
+  {
+    "model_id": 11981,
+    "dff": "obj84_tablet",
+    "txd": "obj84",
+    "name": "Табличка No parking"
+  },
+  {
+    "model_id": 11982,
+    "dff": "obj84_swag",
+    "txd": "obj84",
+    "name": "Цепь SWAG"
+  },
+  {
+    "model_id": 11983,
+    "dff": "obj84_swaga",
+    "txd": "obj84",
+    "name": "Цепь СВАГА"
+  },
+  {
+    "model_id": 11984,
+    "dff": "obj84_crossbow",
+    "txd": "obj84",
+    "name": "Бандитский арбалет"
+  },
+  {
+    "model_id": 11986,
+    "dff": "obj84_getup",
+    "txd": "obj84",
+    "name": "Пояс с баллончиками"
+  },
+  {
+    "model_id": 11987,
+    "dff": "obj84_fboombox",
+    "txd": "obj84",
+    "name": "Золотой бумбокс"
+  },
+  {
+    "model_id": 11988,
+    "dff": "obj84_gloskate1",
+    "txd": "obj84",
+    "name": "Скейтборд F(ck you"
+  },
+  {
+    "model_id": 11989,
+    "dff": "obj84_gloskate2",
+    "txd": "obj84",
+    "name": "Скейтборд Glory"
+  },
+  {
+    "model_id": 11990,
+    "dff": "obj84_funkopop",
+    "txd": "obj84",
+    "name": "Фанко-поп Eazy-E"
+  },
+  {
+    "model_id": 11992,
+    "dff": "obj84_knuckles",
+    "txd": "obj84",
+    "name": "Императорский кастет"
+  },
+  {
+    "model_id": 11993,
+    "dff": "obj84_moneybag",
+    "txd": "obj84",
+    "name": "Гангстерская сумка"
+  },
+  {
+    "model_id": 11995,
+    "dff": "obj84a_rubmbleball",
+    "txd": "obj84",
+    "name": "Шары Рамбл"
+  },
+  {
+    "model_id": 11996,
+    "dff": "obj84a_akatsuki",
+    "txd": "obj84",
+    "name": "Нимб Акацуки"
+  },
+  {
+    "model_id": 11997,
+    "dff": "obj84a_girl",
+    "txd": "obj84",
+    "name": "Мегумин у плеча"
+  },
+  {
+    "model_id": 11998,
+    "dff": "obj84a_sushi",
+    "txd": "obj84",
+    "name": "Нимб Суши"
+  },
+  {
+    "model_id": 11999,
+    "dff": "obj84a_compass",
+    "txd": "obj84",
+    "name": "Пиратский компас"
+  },
+  {
+    "model_id": 12018,
+    "dff": "obj84a_sabers",
+    "txd": "obj84",
+    "name": "Пиратские сабли"
+  },
+  {
+    "model_id": 12019,
+    "dff": "obj84a_hat1",
+    "txd": "obj84",
+    "name": "Пиратская шляпа №1"
+  },
+  {
+    "model_id": 12020,
+    "dff": "obj84a_chest",
+    "txd": "obj84",
+    "name": "Пиратский сундук"
+  },
+  {
+    "model_id": 12021,
+    "dff": "obj84a_scull",
+    "txd": "obj84",
+    "name": "Череп и кости"
+  },
+  {
+    "model_id": 12022,
+    "dff": "obj84a_anchor",
+    "txd": "obj84",
+    "name": "Морской якорь"
+  },
+  {
+    "model_id": 12023,
+    "dff": "obj84a_ghost",
+    "txd": "obj84",
+    "name": "Летучий Голландец"
+  },
+  {
+    "model_id": 12024,
+    "dff": "obj84a_rudder",
+    "txd": "obj84",
+    "name": "Голландский штурвал"
+  },
+  {
+    "model_id": 12025,
+    "dff": "obj84a_energo_g",
+    "txd": "obj84",
+    "name": "Энерго маска Госта"
+  },
+  {
+    "model_id": 12026,
+    "dff": "obj84a_nimb_star",
+    "txd": "obj84",
+    "name": "Нимб 5 звезд"
+  },
+  {
+    "model_id": 12051,
+    "dff": "obj84_chainsaw",
+    "txd": "obj84",
+    "name": "Гангстерская бензопила"
+  },
+  {
+    "model_id": 12052,
+    "dff": "obj84_ch_gold",
+    "txd": "obj84",
+    "name": "Чемодан криминала"
+  },
+  {
+    "model_id": 15180,
+    "dff": "obj82_axe",
+    "txd": "obj82",
+    "name": "Американский пожарный топор"
+  },
+  {
+    "model_id": 12054,
+    "dff": "obj84_bulletproof",
+    "txd": "obj84",
+    "name": "Бронежилет с граффити"
+  },
+  {
+    "model_id": 12055,
+    "dff": "obj84_crown",
+    "txd": "obj84",
+    "name": "Корона из патрон"
+  },
+  {
+    "model_id": 12057,
+    "dff": "obj84_ghettobx",
+    "txd": "obj84",
+    "name": "Рюкзак с колонками"
+  },
+  {
+    "model_id": 12766,
+    "dff": "obj86_helmet_r",
+    "txd": "obj86",
+    "name": "Красный шлем десантника"
+  },
+  {
+    "model_id": 12767,
+    "dff": "obj86_shoulder_r",
+    "txd": "obj86",
+    "name": "Красные наплечники десантника"
+  },
+  {
+    "model_id": 12768,
+    "dff": "obj86_armor_r",
+    "txd": "obj86",
+    "name": "Красный бронежилет десантника"
+  },
+  {
+    "model_id": 12769,
+    "dff": "obj86_robothat",
+    "txd": "obj86",
+    "name": "Робо-маска со шляпой"
+  },
+  {
+    "model_id": 12770,
+    "dff": "obj86_flowerbp",
+    "txd": "obj86",
+    "name": "Рюкзак с цветочком"
+  },
+  {
+    "model_id": 12771,
+    "dff": "obj86_evamask",
+    "txd": "obj86",
+    "name": "Маска Евы"
+  },
+  {
+    "model_id": 12772,
+    "dff": "obj86_cpmask",
+    "txd": "obj86",
+    "name": "Маска Киберпанк самурая"
+  },
+  {
+    "model_id": 12773,
+    "dff": "obj86_dskid",
+    "txd": "obj86",
+    "name": "Капсула из Death Stranding"
+  },
+  {
+    "model_id": 12774,
+    "dff": "obj86_helmet_w",
+    "txd": "obj86",
+    "name": "Белый шлем пришельца"
+  },
+  {
+    "model_id": 12776,
+    "dff": "obj86_thanos_1",
+    "txd": "obj86",
+    "name": "Правый ботинок Таноса [Инопланетная коллекция]"
+  },
+  {
+    "model_id": 12777,
+    "dff": "obj86_cyberboot_1",
+    "txd": "obj86",
+    "name": "Правый космический кроссовок"
+  },
+  {
+    "model_id": 12790,
+    "dff": "obj86a_g_nimb",
+    "txd": "obj86",
+    "name": "Нимб Гуррен Лагган"
+  },
+  {
+    "model_id": 12791,
+    "dff": "obj86a_wings",
+    "txd": "obj86",
+    "name": "Красные меха-крылья"
+  },
+  {
+    "model_id": 12792,
+    "dff": "obj86a_drilllagann",
+    "txd": "obj86",
+    "name": "Бур Гуррен Лагган"
+  },
+  {
+    "model_id": 12794,
+    "dff": "obj86a_backpackds",
+    "txd": "obj86",
+    "name": "Рюкзак Death Stranding"
+  },
+  {
+    "model_id": 15636,
+    "dff": "obj86_boots",
+    "txd": "obj86",
+    "name": "Правая космическая обувь"
+  },
+  {
+    "model_id": 15638,
+    "dff": "obj86_dmblade",
+    "txd": "obj86",
+    "name": "Меч Думгая"
+  },
+  {
+    "model_id": 15639,
+    "dff": "obj86_hand",
+    "txd": "obj86",
+    "name": "Космическая рука"
+  },
+  {
+    "model_id": 15640,
+    "dff": "obj86_headphones",
+    "txd": "obj86",
+    "name": "Космические наушники"
+  },
+  {
+    "model_id": 15641,
+    "dff": "obj86_scythe",
+    "txd": "obj86",
+    "name": "Космическая коса"
+  },
+  {
+    "model_id": 15642,
+    "dff": "obj86_shield",
+    "txd": "obj86",
+    "name": "Космический щит внушения"
+  },
+  {
+    "model_id": 15643,
+    "dff": "obj86a_dmshield",
+    "txd": "obj86",
+    "name": "Щит Думгая"
+  },
+  {
+    "model_id": 15644,
+    "dff": "obj86a_heart",
+    "txd": "obj86",
+    "name": "Космическое сердце"
+  },
+  {
+    "model_id": 15645,
+    "dff": "obj86a_labubu",
+    "txd": "obj86",
+    "name": "Рюкзак Лабубу"
+  },
+  {
+    "model_id": 15646,
+    "dff": "obj86a_lacola",
+    "txd": "obj86",
+    "name": "Рюкзак Лабубу Аризоны академии"
+  },
+  {
+    "model_id": 12763,
+    "dff": "obj86_hov",
+    "txd": "obj86",
+    "name": "Космический ховер (открыт)"
+  },
+  {
+    "model_id": 12764,
+    "dff": "obj86_hov1",
+    "txd": "obj86",
+    "name": "Космический ховер"
+  },
+  {
+    "model_id": 12775,
+    "dff": "obj86_spacejet",
+    "txd": "obj86",
+    "name": "Космический джетпак"
+  },
+  {
+    "model_id": 12797,
+    "dff": "obj86_ship",
+    "txd": "obj86",
+    "name": "Космический воздушный шар корабль"
+  },
+  {
+    "model_id": 15637,
+    "dff": "obj86_bp",
+    "txd": "obj86",
+    "name": "Космический рюкзак"
+  },
+  {
+    "model_id": 12796,
+    "dff": "obj86a_knoier",
+    "txd": "obj86",
+    "name": "Катана Нир"
+  },
+  {
+    "model_id": 15195,
+    "dff": "obj88a_ping",
+    "txd": "obj88",
+    "name": "Катализатор акула"
+  },
+  {
+    "model_id": 12400,
+    "dff": "obj88_dagger1",
+    "txd": "obj88",
+    "name": "Кинжал Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12401,
+    "dff": "obj88_dagger2",
+    "txd": "obj88",
+    "name": "Кинжал Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12402,
+    "dff": "obj88_dagger3",
+    "txd": "obj88",
+    "name": "Кинжал Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12403,
+    "dff": "obj88_sguts1",
+    "txd": "obj88",
+    "name": "Меч Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12404,
+    "dff": "obj88_sguts2",
+    "txd": "obj88",
+    "name": "Меч Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12405,
+    "dff": "obj88_sguts3",
+    "txd": "obj88",
+    "name": "Меч Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12406,
+    "dff": "obj88_garmor1",
+    "txd": "obj88",
+    "name": "Наплечник Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12407,
+    "dff": "obj88_garmor2",
+    "txd": "obj88",
+    "name": "Наплечник Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12408,
+    "dff": "obj88_garmor3",
+    "txd": "obj88",
+    "name": "Наплечник Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12409,
+    "dff": "obj88_gboot1",
+    "txd": "obj88",
+    "name": "Обувь Черного мечника L (Хлам)"
+  },
+  {
+    "model_id": 12410,
+    "dff": "obj88_gboot2",
+    "txd": "obj88",
+    "name": "Обувь Черного мечника L (Редкий)"
+  },
+  {
+    "model_id": 12411,
+    "dff": "obj88_gboot3",
+    "txd": "obj88",
+    "name": "Обувь Черного мечника L (Легендарный)"
+  },
+  {
+    "model_id": 12412,
+    "dff": "obj88_behelit1",
+    "txd": "obj88",
+    "name": "Бехелит Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12413,
+    "dff": "obj88_behelit2",
+    "txd": "obj88",
+    "name": "Бехелит Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12414,
+    "dff": "obj88_behelit3",
+    "txd": "obj88",
+    "name": "Бехелит Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12415,
+    "dff": "obj88_ghand1",
+    "txd": "obj88",
+    "name": "Рука Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12416,
+    "dff": "obj88_ghand2",
+    "txd": "obj88",
+    "name": "Рука Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12417,
+    "dff": "obj88_ghand3",
+    "txd": "obj88",
+    "name": "Рука Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12418,
+    "dff": "obj88_ghelmet1",
+    "txd": "obj88",
+    "name": "Шлем Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12419,
+    "dff": "obj88_ghelmet2",
+    "txd": "obj88",
+    "name": "Шлем Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12420,
+    "dff": "obj88_ghelmet3",
+    "txd": "obj88",
+    "name": "Шлем Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12421,
+    "dff": "obj88_nimb_g1",
+    "txd": "obj88",
+    "name": "Нимб Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12422,
+    "dff": "obj88a_nimb_g2",
+    "txd": "obj88",
+    "name": "Нимб Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12423,
+    "dff": "obj88a_nimb_g3",
+    "txd": "obj88",
+    "name": "Нимб Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12565,
+    "dff": "obj88_gbag1",
+    "txd": "obj88",
+    "name": "Кошель Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12566,
+    "dff": "obj88_gbag2",
+    "txd": "obj88",
+    "name": "Кошель Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12567,
+    "dff": "obj88_gbag3",
+    "txd": "obj88",
+    "name": "Кошель Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12568,
+    "dff": "obj88_dgsguts1",
+    "txd": "obj88",
+    "name": "Пояс Черного мечника (Хлам)"
+  },
+  {
+    "model_id": 12569,
+    "dff": "obj88_dgsguts2",
+    "txd": "obj88",
+    "name": "Пояс Черного мечника (Редкий)"
+  },
+  {
+    "model_id": 12570,
+    "dff": "obj88_dgsguts3",
+    "txd": "obj88",
+    "name": "Пояс Черного мечника (Легендарный)"
+  },
+  {
+    "model_id": 12587,
+    "dff": "obj88a_nbfurion1",
+    "txd": "obj88",
+    "name": "Нимб Друида (Хлам)"
+  },
+  {
+    "model_id": 12588,
+    "dff": "obj88a_nbfurion2",
+    "txd": "obj88",
+    "name": "Нимб Друида (Редкий)"
+  },
+  {
+    "model_id": 12589,
+    "dff": "obj88a_nbfurion3",
+    "txd": "obj88",
+    "name": "Нимб Друида (Легендарный)"
+  },
+  {
+    "model_id": 12591,
+    "dff": "obj88_farmor1",
+    "txd": "obj88",
+    "name": "Наплечник Друида (Хлам)"
+  },
+  {
+    "model_id": 12592,
+    "dff": "obj88_farmor2",
+    "txd": "obj88",
+    "name": "Наплечник Друида (Редкий)"
+  },
+  {
+    "model_id": 12593,
+    "dff": "obj88_farmor3",
+    "txd": "obj88",
+    "name": "Наплечник Друида (Легендарный"
+  },
+  {
+    "model_id": 12590,
+    "dff": "obj88_bracer1",
+    "txd": "obj88",
+    "name": "Наруч Друида (Хлам)"
+  },
+  {
+    "model_id": 12594,
+    "dff": "obj88_bracer2",
+    "txd": "obj88",
+    "name": "Наруч Друида (Редкий)"
+  },
+  {
+    "model_id": 12595,
+    "dff": "obj88_bracer3",
+    "txd": "obj88",
+    "name": "Наруч Друида (Легендарный)"
+  },
+  {
+    "model_id": 12596,
+    "dff": "obj88_boot1",
+    "txd": "obj88",
+    "name": "Обувь Друида L (Хлам)"
+  },
+  {
+    "model_id": 12597,
+    "dff": "obj88_boot2",
+    "txd": "obj88",
+    "name": "Обувь Друида L (Редкий)"
+  },
+  {
+    "model_id": 12608,
+    "dff": "obj88_boot3",
+    "txd": "obj88",
+    "name": "Обувь Друида L (Легендарный)"
+  },
+  {
+    "model_id": 12609,
+    "dff": "obj88_furionstf1",
+    "txd": "obj88",
+    "name": "Посох Друида (Хлам)"
+  },
+  {
+    "model_id": 12612,
+    "dff": "obj88_furionstf2",
+    "txd": "obj88",
+    "name": "Посох Друида (Редкий)"
+  },
+  {
+    "model_id": 12617,
+    "dff": "obj88_furionstf3",
+    "txd": "obj88",
+    "name": "Посох Друида (Легендарный)"
+  },
+  {
+    "model_id": 12619,
+    "dff": "obj88_bpfurion1",
+    "txd": "obj88",
+    "name": "Рюкзак Друида (Хлам)"
+  },
+  {
+    "model_id": 12620,
+    "dff": "obj88_bpfurion2",
+    "txd": "obj88",
+    "name": "Рюкзак Друида (Редкий)"
+  },
+  {
+    "model_id": 12637,
+    "dff": "obj88_bpfurion3",
+    "txd": "obj88",
+    "name": "Рюкзак Друида (Легендарный)"
+  },
+  {
+    "model_id": 12638,
+    "dff": "obj88_cauldron1",
+    "txd": "obj88",
+    "name": "Котелок Друида (Хлам)"
+  },
+  {
+    "model_id": 12639,
+    "dff": "obj88_cauldron2",
+    "txd": "obj88",
+    "name": "Котелок Друида (Редкий)"
+  },
+  {
+    "model_id": 12640,
+    "dff": "obj88_cauldron3",
+    "txd": "obj88",
+    "name": "Котелок Друида (Легендарный)"
+  },
+  {
+    "model_id": 12651,
+    "dff": "obj88_fhat1",
+    "txd": "obj88",
+    "name": "Шляпа Друида (Хлам)"
+  },
+  {
+    "model_id": 12659,
+    "dff": "obj88_fhat2",
+    "txd": "obj88",
+    "name": "Шляпа Друида (Редкий)"
+  },
+  {
+    "model_id": 12668,
+    "dff": "obj88_fhat3",
+    "txd": "obj88",
+    "name": "Шляпа Друида (Легендарный)"
+  },
+  {
+    "model_id": 12669,
+    "dff": "obj88_fbag1",
+    "txd": "obj88",
+    "name": "Сумки Друида (Хлам)"
+  },
+  {
+    "model_id": 12679,
+    "dff": "obj88_fbag2",
+    "txd": "obj88",
+    "name": "Сумки Друида (Редкий)"
+  },
+  {
+    "model_id": 12684,
+    "dff": "obj88_fbag3",
+    "txd": "obj88",
+    "name": "Сумки Друида (Легендарный)"
+  },
+  {
+    "model_id": 12685,
+    "dff": "obj88_potion1",
+    "txd": "obj88",
+    "name": "Колбы Друида (Хлам)"
+  },
+  {
+    "model_id": 12686,
+    "dff": "obj88_potion2",
+    "txd": "obj88",
+    "name": "Колбы Друида (Редкий)"
+  },
+  {
+    "model_id": 12687,
+    "dff": "obj88_potion3",
+    "txd": "obj88",
+    "name": "Колбы Друида (Легендарный)"
+  },
+  {
+    "model_id": 12582,
+    "dff": "obj88_bpfurionsp",
+    "txd": "obj88",
+    "name": "Лавка Друида"
+  },
+  {
+    "model_id": 12583,
+    "dff": "obj88_bpgutshop",
+    "txd": "obj88",
+    "name": "Лавка Черного мечника"
+  },
+  {
+    "model_id": 13566,
+    "dff": "obj88a_tdisk",
+    "txd": "obj88",
+    "name": "Кольцо Tron на спину"
+  },
+  {
+    "model_id": 12796,
+    "dff": "obj88_firebarmor",
+    "txd": "obj88",
+    "name": "Огненный бронежилет"
+  },
+  {
+    "model_id": 13579,
+    "dff": "obj88_zxcursed",
+    "txd": "obj88",
+    "name": "Безумный бронежилет"
+  },
+  {
+    "model_id": 14103,
+    "dff": "obj88_capa1",
+    "txd": "obj88",
+    "name": "Накопитель энергии (Хлам)"
+  },
+  {
+    "model_id": 14104,
+    "dff": "obj88_capa2",
+    "txd": "obj88",
+    "name": "Накопитель энергии (Обычный)"
+  },
+  {
+    "model_id": 14105,
+    "dff": "obj88_capa3",
+    "txd": "obj88",
+    "name": "Накопитель энергии (Легендарный)"
+  },
+  {
+    "model_id": 12501,
+    "dff": "obj88_heart1",
+    "txd": "obj88",
+    "name": "Сердце Лича (Хлам)"
+  },
+  {
+    "model_id": 12502,
+    "dff": "obj88_heart2",
+    "txd": "obj88",
+    "name": "Сердце Лича (Обычный)"
+  },
+  {
+    "model_id": 12503,
+    "dff": "obj88_heart3",
+    "txd": "obj88",
+    "name": "Сердце Лича (Легендарный)"
+  },
+  {
+    "model_id": 12504,
+    "dff": "obj88_ldagger1",
+    "txd": "obj88",
+    "name": "Кинжал Лича (Хлам)"
+  },
+  {
+    "model_id": 12507,
+    "dff": "obj88_ldagger2",
+    "txd": "obj88",
+    "name": "Кинжал Лича (Обычный)"
+  },
+  {
+    "model_id": 12508,
+    "dff": "obj88_ldagger3",
+    "txd": "obj88",
+    "name": "Кинжал Лича (Легендарный)"
+  },
+  {
+    "model_id": 12509,
+    "dff": "obj88_vkglove1",
+    "txd": "obj88",
+    "name": "Перчатка Лича (Хлам)"
+  },
+  {
+    "model_id": 12510,
+    "dff": "obj88_vkglove2",
+    "txd": "obj88",
+    "name": "Перчатка Лича (Обычный)"
+  },
+  {
+    "model_id": 12511,
+    "dff": "obj88_vkglove3",
+    "txd": "obj88",
+    "name": "Перчатка Лича (Легендарный)"
+  },
+  {
+    "model_id": 12517,
+    "dff": "obj88_vkboot1",
+    "txd": "obj88",
+    "name": "Сапоги лича L (Хлам)"
+  },
+  {
+    "model_id": 12518,
+    "dff": "obj88_vkboot2",
+    "txd": "obj88",
+    "name": "Сапоги лича L (Обычный)"
+  },
+  {
+    "model_id": 12519,
+    "dff": "obj88_vkboot3",
+    "txd": "obj88",
+    "name": "Сапоги лича L (Легендарный)"
+  },
+  {
+    "model_id": 12520,
+    "dff": "oj88_lichsword1",
+    "txd": "obj88",
+    "name": "Меч Лича (Хлам)"
+  },
+  {
+    "model_id": 12521,
+    "dff": "oj88_lichsword2",
+    "txd": "obj88",
+    "name": "Меч Лича (Обычный)"
+  },
+  {
+    "model_id": 12522,
+    "dff": "oj88_lichsword3",
+    "txd": "obj88",
+    "name": "Меч Лича (Легендарный)"
+  },
+  {
+    "model_id": 12528,
+    "dff": "obj88_vkchest1",
+    "txd": "obj88",
+    "name": "Чемодан Лича (Хлам)"
+  },
+  {
+    "model_id": 12529,
+    "dff": "obj88_vkchest2",
+    "txd": "obj88",
+    "name": "Чемодан Лича (Обычный)"
+  },
+  {
+    "model_id": 12530,
+    "dff": "obj88_vkchest3",
+    "txd": "obj88",
+    "name": "Чемодан Лича (Легендарный)"
+  },
+  {
+    "model_id": 12538,
+    "dff": "obj88_lichn1",
+    "txd": "obj88",
+    "name": "Нимб Лича (Хлам)"
+  },
+  {
+    "model_id": 12587,
+    "dff": "obj88a_lichn2",
+    "txd": "obj88",
+    "name": "Нимб Лича (Обычный)"
+  },
+  {
+    "model_id": 12588,
+    "dff": "obj88a_lichn3",
+    "txd": "obj88",
+    "name": "Нимб Лича (Легендарный)"
+  },
+  {
+    "model_id": 12542,
+    "dff": "obj88_shldlich1",
+    "txd": "obj88",
+    "name": "Наплечник Лича (Хлам)"
+  },
+  {
+    "model_id": 12545,
+    "dff": "obj88_shldlich2",
+    "txd": "obj88",
+    "name": "Наплечник Лича (Обычный)"
+  },
+  {
+    "model_id": 12546,
+    "dff": "obj88_shldlich3",
+    "txd": "obj88",
+    "name": "Наплечник Лича (Легендарный)"
+  },
+  {
+    "model_id": 12547,
+    "dff": "obj88_edgelich1",
+    "txd": "obj88",
+    "name": "Бронежилет Лича (Хлам)"
+  },
+  {
+    "model_id": 12548,
+    "dff": "obj88_edgelich2",
+    "txd": "obj88",
+    "name": "Бронежилет Лича (Обычный)"
+  },
+  {
+    "model_id": 12549,
+    "dff": "obj88_edgelich3",
+    "txd": "obj88",
+    "name": "Бронежилет Лича (Легендарный)"
+  },
+  {
+    "model_id": 12565,
+    "dff": "obj88_helmetl1",
+    "txd": "obj88",
+    "name": "Шлем Лича (Хлам)"
+  },
+  {
+    "model_id": 12566,
+    "dff": "obj88_helmetl2",
+    "txd": "obj88",
+    "name": "Шлем Лича (Обычный)"
+  },
+  {
+    "model_id": 12567,
+    "dff": "obj88_helmetl3",
+    "txd": "obj88",
+    "name": "Шлем Лича (Легендарный)"
+  },
+  {
+    "model_id": 12568,
+    "dff": "obj88_bstar1",
+    "txd": "obj88",
+    "name": "Бронежилет Ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12569,
+    "dff": "obj88_bstar2",
+    "txd": "obj88",
+    "name": "Бронежилет Ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12570,
+    "dff": "obj88_bstar3",
+    "txd": "obj88",
+    "name": "Бронежилет Ведьмы (Легендарный)"
+  },
+  {
+    "model_id": 12571,
+    "dff": "obj88_broom1",
+    "txd": "obj88",
+    "name": "Метла ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12572,
+    "dff": "obj88_broom2",
+    "txd": "obj88",
+    "name": "Метла ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12573,
+    "dff": "obj88_broom3",
+    "txd": "obj88",
+    "name": "Метла ведьмы (Легендарный)"
+  },
+  {
+    "model_id": 12574,
+    "dff": "obj88_bag1",
+    "txd": "obj88",
+    "name": "Чемодан Ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12575,
+    "dff": "obj88_bag2",
+    "txd": "obj88",
+    "name": "Чемодан Ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12576,
+    "dff": "obj88_bag3",
+    "txd": "obj88",
+    "name": "Чемодан Ведьмы (Легендарный)"
+  },
+  {
+    "model_id": 12577,
+    "dff": "obj88_pumpkin1",
+    "txd": "obj88",
+    "name": "Котелок Ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12578,
+    "dff": "obj88_pumpkin2",
+    "txd": "obj88",
+    "name": "Котелок Ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12582,
+    "dff": "obj88_pumpkin3",
+    "txd": "obj88",
+    "name": "Котелок Ведьмы (Легендарный)"
+  },
+  {
+    "model_id": 12498,
+    "dff": "obj88_cat1",
+    "txd": "obj88",
+    "name": "Летающий кот Ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12499,
+    "dff": "obj88_cat2",
+    "txd": "obj88",
+    "name": "Летающий кот Ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12500,
+    "dff": "obj88_cat3",
+    "txd": "obj88",
+    "name": "Летающий кот Ведьмы (Легендарный)"
+  },
+  {
+    "model_id": 12512,
+    "dff": "obj88_wand1",
+    "txd": "obj88",
+    "name": "Палка Сейлор Мун (Хлам)"
+  },
+  {
+    "model_id": 12513,
+    "dff": "obj88_wand2",
+    "txd": "obj88",
+    "name": "Палка Сейлор Мун (Обычный)"
+  },
+  {
+    "model_id": 12516,
+    "dff": "obj88_wand3",
+    "txd": "obj88",
+    "name": "Палка Сейлор Мун (Легендарный)"
+  },
+  {
+    "model_id": 12525,
+    "dff": "obj88_wboots1",
+    "txd": "obj88",
+    "name": "Ботинки ведьмы L (Хлам)"
+  },
+  {
+    "model_id": 12526,
+    "dff": "obj88_wboots2",
+    "txd": "obj88",
+    "name": "Ботинки ведьмы L (Обычный)"
+  },
+  {
+    "model_id": 12527,
+    "dff": "obj88_wboots3",
+    "txd": "obj88",
+    "name": "Ботинки ведьмы L (Легендарный)"
+  },
+  {
+    "model_id": 12531,
+    "dff": "obj88_hatw1",
+    "txd": "obj88",
+    "name": "Шляпа ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12532,
+    "dff": "obj88_hatw2",
+    "txd": "obj88",
+    "name": "Шляпа ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12536,
+    "dff": "obj88_hatw3",
+    "txd": "obj88",
+    "name": "Шляпа ведьмы (Легендарный)"
+  },
+  {
+    "model_id": 12537,
+    "dff": "obj88_znimb1",
+    "txd": "obj88",
+    "name": "Нимб ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12583,
+    "dff": "obj88a_znimb2",
+    "txd": "obj88",
+    "name": "Нимб ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12585,
+    "dff": "obj88a_znimb3",
+    "txd": "obj88",
+    "name": "Нимб ведьмы (Легендарный)"
+  },
+  {
+    "model_id": 12539,
+    "dff": "obj88_neckw1",
+    "txd": "obj88",
+    "name": "Ожерелье ведьмы (Хлам)"
+  },
+  {
+    "model_id": 12540,
+    "dff": "obj88_neckw2",
+    "txd": "obj88",
+    "name": "Ожерелье ведьмы (Обычный)"
+  },
+  {
+    "model_id": 12541,
+    "dff": "obj88_neckw3",
+    "txd": "obj88",
+    "name": "Ожерелье ведьмы (Легендарный)"
+  }
+]
