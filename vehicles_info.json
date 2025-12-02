@@ -4410,13 +4410,48 @@
     "server_id": 1281
   },
   {
-    "model_id": 15822,
-    "name": "Трон-байк",
-    "server_id": 1282
-  },
-  {
     "model_id": 15829,
     "name": "Warlords Deathwheel",
     "server_id": 1283
+  },
+  {
+    "model_id": 12684,
+    "name": "Безумная Газель",
+    "server_id": 1284
+  },
+  {
+    "model_id": 12685,
+    "name": "Death Limozeen",
+    "server_id": 1285
+  },
+  {
+    "model_id": 12686,
+    "name": "Deadline Express",
+    "server_id": 1286
+  },
+  {
+    "model_id": 12687,
+    "name": "Gigahorse Mad Max",
+    "server_id": 1287
+  },
+  {
+    "model_id": 12767,
+    "name": "Такси Франкенштейна",
+    "server_id": 1288
+  },
+  {
+    "model_id": 12768,
+    "name": "Такси Оборотня",
+    "server_id": 1289
+  },
+  {
+    "model_id": 12769,
+    "name": "NecroVan Turbo",
+    "server_id": 1290
+  },
+  {
+    "model_id": 15822,
+    "name": "Трон-байк",
+    "server_id": 1282
   }
 ]
