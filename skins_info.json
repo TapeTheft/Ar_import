@@ -5274,4 +5274,29 @@
     "name": "Play Boi Carti",
     "server_id": 1052
   }
+  {
+    "model_id": 12491,
+    "name": "Зомби 1(без головы)",
+    "server_id": 1053
+  }
+  {
+    "model_id": 12492,
+    "name": "Зомби 2(без головы)",
+    "server_id": 1054
+  }
+  {
+    "model_id": 12493,
+    "name": "Зомби 3(без головы)",
+    "server_id": 1055
+  }
+  {
+    "model_id": 12494,
+    "name": "Скелет с тыквенной головой",
+    "server_id": 1056
+  }
+  {
+    "model_id": 12592,
+    "name": "Монтгомери",
+    "server_id": 1057
+  }
 ]
