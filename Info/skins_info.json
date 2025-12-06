@@ -5856,7 +5856,7 @@
     "dff": "brian",
     "txd": "brian",
     "name": "Брайн",
-    "server_id": 837
+    "server_id": null
   },
   {
     "model_id": 14270,
@@ -5926,7 +5926,7 @@
     "dff": "roger",
     "txd": "roger",
     "name": "Роджер",
-    "server_id": 847
+    "server_id": null
   },
   {
     "model_id": 14280,
