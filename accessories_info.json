@@ -3042,14 +3042,14 @@
     "dff": "est23_shldr_l_1",
     "txd": "accs_est23",
     "name": "Розовый глазастый шар' - Левый",
-    "server_id": null
+    "server_id": 6250
   },
   {
     "model_id": 18186,
     "dff": "est23_shldr_r_1",
     "txd": "accs_est23",
     "name": "Розовый глазастый шар' - Правый",
-    "server_id": null
+    "server_id": 6251
   },
   {
     "model_id": 18187,
@@ -9229,8 +9229,8 @@
     "model_id": 12593,
     "dff": "obj88_farmor3",
     "txd": "obj88",
-    "name": "Наплечник Друида (Легендарный",
-    "server_id": null
+    "name": "Наплечник Друида (Легендарный)",
+    "server_id": 9235
   },
   {
     "model_id": 12590,
@@ -9440,21 +9440,21 @@
     "dff": "obj88_capa1",
     "txd": "obj88",
     "name": "Накопитель энергии (Хлам)",
-    "server_id": null
+    "server_id": 9376
   },
   {
     "model_id": 14104,
     "dff": "obj88_capa2",
     "txd": "obj88",
     "name": "Накопитель энергии (Обычный)",
-    "server_id": null
+    "server_id": 9376
   },
   {
     "model_id": 14105,
     "dff": "obj88_capa3",
     "txd": "obj88",
     "name": "Накопитель энергии (Легендарный)",
-    "server_id": null
+    "server_id": 9376
   },
   {
     "model_id": 12501,
