@@ -1,0 +1,548 @@
+[
+  {
+    "model_id": 331,
+    "dff": "brassknuckle",
+    "txd": "brassknuckle",
+    "name": "Кастет",
+    "server_id": 7317
+  },
+  {
+    "model_id": 333,
+    "dff": "golfclub",
+    "txd": "golfclub",
+    "name": "Клюшка для гольфа",
+    "server_id": 7318
+  },
+  {
+    "model_id": 334,
+    "dff": "nitestick",
+    "txd": "nitestick",
+    "name": "Полицейская дубинка",
+    "server_id": 7319
+  },
+  {
+    "model_id": 335,
+    "dff": "knifecur",
+    "txd": "knifecur",
+    "name": "Нож",
+    "server_id": 7320
+  },
+  {
+    "model_id": 336,
+    "dff": "bat",
+    "txd": "bat",
+    "name": "Бита",
+    "server_id": 7321
+  },
+  {
+    "model_id": 337,
+    "dff": "shovel",
+    "txd": "shovel",
+    "name": "Лопата",
+    "server_id": 184
+  },
+  {
+    "model_id": 338,
+    "dff": "poolcue",
+    "txd": "poolcue",
+    "name": "Кий",
+    "server_id": 185
+  },
+  {
+    "model_id": 339,
+    "dff": "katana",
+    "txd": "katana",
+    "name": "Катана",
+    "server_id": 186
+  },
+  {
+    "model_id": 341,
+    "dff": "chnsaw",
+    "txd": "chnsaw",
+    "name": "Бензопила",
+    "server_id": 1078
+  },
+  {
+    "model_id": 321,
+    "dff": "gun_dildo1",
+    "txd": "gun_dildo1",
+    "name": "Фиолетовый дилдо",
+    "server_id": 2280
+  },
+  {
+    "model_id": 322,
+    "dff": "gun_dildo2",
+    "txd": "gun_dildo2",
+    "name": "Короткое дилдо",
+    "server_id": 7325
+  },
+  {
+    "model_id": 323,
+    "dff": "gun_vibe1",
+    "txd": "gun_vibe1",
+    "name": "Вибратор",
+    "server_id": 7326
+  },
+  {
+    "model_id": 324,
+    "dff": "gun_vibe2",
+    "txd": "gun_vibe2",
+    "name": "Серебристое дилдо",
+    "server_id": 7327
+  },
+  {
+    "model_id": 325,
+    "dff": "flowera",
+    "txd": "flowera",
+    "name": "Цветы",
+    "server_id": 1074
+  },
+  {
+    "model_id": 326,
+    "dff": "gun_cane",
+    "txd": "gun_cane",
+    "name": "Трость",
+    "server_id": 187
+  },
+  {
+    "model_id": 342,
+    "dff": "grenade",
+    "txd": "grenade",
+    "name": "Граната",
+    "server_id": 2236
+  },
+  {
+    "model_id": 343,
+    "dff": "teargas",
+    "txd": "teargas",
+    "name": "Слезоточивый газ",
+    "server_id": null
+  },
+  {
+    "model_id": 344,
+    "dff": "molotov",
+    "txd": "molotov",
+    "name": "Коктейль Молотова",
+    "server_id": 2237
+  },
+  {
+    "model_id": 346,
+    "dff": "colt45",
+    "txd": "colt45",
+    "name": "Colt 45",
+    "server_id": 6760
+  },
+  {
+    "model_id": 347,
+    "dff": "silenced",
+    "txd": "silenced",
+    "name": "Пистолет с глушителем\t",
+    "server_id": 7316
+  },
+  {
+    "model_id": 348,
+    "dff": "desert_eagle",
+    "txd": "desert_eagle",
+    "name": "Desert Eagle",
+    "server_id": 770
+  },
+  {
+    "model_id": 349,
+    "dff": "chromegun",
+    "txd": "chromegun",
+    "name": "Дробовик",
+    "server_id": 6763
+  },
+  {
+    "model_id": 350,
+    "dff": "sawnoff",
+    "txd": "sawnoff",
+    "name": "Обрезы",
+    "server_id": 5822
+  },
+  {
+    "model_id": 351,
+    "dff": "shotgspa",
+    "txd": "shotgspa",
+    "name": "Боевой дробовик",
+    "server_id": 6765
+  },
+  {
+    "model_id": 352,
+    "dff": "micro_uzi",
+    "txd": "micro_uzi",
+    "name": "Micro UZI",
+    "server_id": 1210
+  },
+  {
+    "model_id": 353,
+    "dff": "mp5lng",
+    "txd": "mp5lng",
+    "name": "MP5",
+    "server_id": 773
+  },
+  {
+    "model_id": 355,
+    "dff": "ak47",
+    "txd": "ak47",
+    "name": "AK47",
+    "server_id": 774
+  },
+  {
+    "model_id": 356,
+    "dff": "m4",
+    "txd": "m4",
+    "name": "M4",
+    "server_id": 775
+  },
+  {
+    "model_id": 354,
+    "dff": "tec9",
+    "txd": "tec9",
+    "name": "TEC9",
+    "server_id": 6770
+  },
+  {
+    "model_id": 357,
+    "dff": "cuntgun",
+    "txd": "cuntgun",
+    "name": "Винтовка",
+    "server_id": 776
+  },
+  {
+    "model_id": 358,
+    "dff": "sniper",
+    "txd": "sniper",
+    "name": "Снайперская винтовка",
+    "server_id": 5480
+  },
+  {
+    "model_id": 359,
+    "dff": "rocketla",
+    "txd": "rocketla",
+    "name": "RPG",
+    "server_id": 1994
+  },
+  {
+    "model_id": 360,
+    "dff": "heatseek",
+    "txd": "heatseek",
+    "name": "HS Rocket",
+    "server_id": 1993
+  },
+  {
+    "model_id": 361,
+    "dff": "flame",
+    "txd": "flame",
+    "name": "Огнемёт",
+    "server_id": 1131
+  },
+  {
+    "model_id": 362,
+    "dff": "minigun",
+    "txd": "minigun",
+    "name": "Миниган",
+    "server_id": 1130
+  },
+  {
+    "model_id": 363,
+    "dff": "satchel",
+    "txd": "satchel",
+    "name": "Ранцевый заряд",
+    "server_id": 768
+  },
+  {
+    "model_id": 364,
+    "dff": "bomb",
+    "txd": "bomb",
+    "name": "Пульт с кнопкой",
+    "server_id": null
+  },
+  {
+    "model_id": 365,
+    "dff": "spraycan",
+    "txd": "spraycan",
+    "name": "Баллончик с краской",
+    "server_id": 565
+  },
+  {
+    "model_id": 366,
+    "dff": "fire_ex",
+    "txd": "fire_ex",
+    "name": "Огнетушитель",
+    "server_id": 579
+  },
+  {
+    "model_id": 367,
+    "dff": "camera",
+    "txd": "camera",
+    "name": "Камера",
+    "server_id": 1072
+  },
+  {
+    "model_id": 368,
+    "dff": "nvgoggles",
+    "txd": "nvgoggles",
+    "name": "Очки ночного видения",
+    "server_id": 766
+  },
+  {
+    "model_id": 369,
+    "dff": "irgoggles",
+    "txd": "irgoggles",
+    "name": "Тепловизор",
+    "server_id": null
+  },
+  {
+    "model_id": 14283,
+    "dff": "deagle_steel",
+    "txd": "arizona_accpack",
+    "name": "Длинный Desert Eagle",
+    "server_id": 7955
+  },
+  {
+    "model_id": 14323,
+    "dff": "deagle_gold",
+    "txd": "arizona_accpack",
+    "name": "Золотой длинный Desert Eagle",
+    "server_id": 7956
+  },
+  {
+    "model_id": 15357,
+    "dff": "obj79_shocker",
+    "txd": "arizona_accpack",
+    "name": "Тайзер",
+    "server_id": null
+  },
+  {
+    "model_id": 14324,
+    "dff": "glock_gradient",
+    "txd": "rodina_weapons",
+    "name": "Glock Gradient",
+    "server_id": 6824
+  },
+  {
+    "model_id": 14325,
+    "dff": "deagle_flame",
+    "txd": "rodina_weapons",
+    "name": "Deagle Flame",
+    "server_id": 6825
+  },
+  {
+    "model_id": 14326,
+    "dff": "python_royal",
+    "txd": "rodina_weapons",
+    "name": "Colt Python Royal",
+    "server_id": 6826
+  },
+  {
+    "model_id": 14327,
+    "dff": "python_silver",
+    "txd": "rodina_weapons",
+    "name": "Colt Python Silver",
+    "server_id": 6827
+  },
+  {
+    "model_id": 14332,
+    "dff": "ak47_roses",
+    "txd": "rodina_weapons",
+    "name": "AK47 Roses",
+    "server_id": 6828
+  },
+  {
+    "model_id": 14333,
+    "dff": "ak47_gold",
+    "txd": "rodina_weapons",
+    "name": "AK47 Gold",
+    "server_id": 6829
+  },
+  {
+    "model_id": 14334,
+    "dff": "m249_graffiti",
+    "txd": "rodina_weapons",
+    "name": "M249 Graffiti",
+    "server_id": 6830
+  },
+  {
+    "model_id": 14336,
+    "dff": "saiga_gold",
+    "txd": "rodina_weapons",
+    "name": "Сайга Gold",
+    "server_id": 6831
+  },
+  {
+    "model_id": 14328,
+    "dff": "ppsh_standart",
+    "txd": "rodina_weapons",
+    "name": "ППШ Стандарт",
+    "server_id": 6832
+  },
+  {
+    "model_id": 14329,
+    "dff": "m249_standart",
+    "txd": "rodina_weapons",
+    "name": "M249 Standart",
+    "server_id": 6833
+  },
+  {
+    "model_id": 14330,
+    "dff": "skorp_standart",
+    "txd": "rodina_weapons",
+    "name": "Скорпион Standart",
+    "server_id": 6834
+  },
+  {
+    "model_id": 14331,
+    "dff": "aks74_camouflage1",
+    "txd": "rodina_weapons",
+    "name": "AKS74 Камуфляжный 1",
+    "server_id": 6835
+  },
+  {
+    "model_id": 14335,
+    "dff": "ak47_camouflage1",
+    "txd": "rodina_weapons",
+    "name": "AK47 Камуфляжный 1",
+    "server_id": 6836
+  },
+  {
+    "model_id": 16871,
+    "dff": "rebecca_shotgun",
+    "txd": "rodina_weapons",
+    "name": "Дробовик Rebecca",
+    "server_id": 6837
+  },
+  {
+    "model_id": 7402,
+    "dff": "obj54_doomgun",
+    "txd": "obj54",
+    "name": "Doomgun",
+    "server_id": null
+  },
+  {
+    "model_id": 6543,
+    "dff": "obj58_icesword",
+    "txd": "arizona_accpack",
+    "name": "Ледяной меч",
+    "server_id": 7228
+  },
+  {
+    "model_id": 6544,
+    "dff": "obj58_portalgun",
+    "txd": "arizona_accpack",
+    "name": "Портальная пушка",
+    "server_id": 7232
+  },
+  {
+    "model_id": 6629,
+    "dff": "obj60_mmtac50",
+    "txd": "arizona_accpack",
+    "name": "McMillan TAC-50",
+    "server_id": 7954
+  },
+  {
+    "model_id": 7398,
+    "dff": "obj76_mh_gun",
+    "txd": "rodina_weapons",
+    "name": "<unknow>",
+    "server_id": null
+  },
+  {
+    "model_id": 14046,
+    "dff": "obj80_blaster",
+    "txd": "arizona_accpack",
+    "name": "<unknow>",
+    "server_id": null
+  },
+  {
+    "model_id": 11979,
+    "dff": "obj84_gold_m4",
+    "txd": "arizona_accpack",
+    "name": "Золотой M4",
+    "server_id": 8796
+  },
+  {
+    "model_id": 11985,
+    "dff": "obj84_launcher",
+    "txd": "arizona_accpack",
+    "name": "Бандитский дробовик",
+    "server_id": 8797
+  },
+  {
+    "model_id": 11994,
+    "dff": "obj84_uzi_graf",
+    "txd": "arizona_accpack",
+    "name": "UZI Graffiti",
+    "server_id": 8798
+  },
+  {
+    "model_id": 12056,
+    "dff": "obj84_eerowbar",
+    "txd": "arizona_accpack",
+    "name": "Золотая монтировка",
+    "server_id": 8801
+  },
+  {
+    "model_id": 11991,
+    "dff": "obj84_bat",
+    "txd": "arizona_accpack",
+    "name": "Бейсбольная бита Compton",
+    "server_id": 8747
+  },
+  {
+    "model_id": 12750,
+    "dff": "obj86_deagle",
+    "txd": "arizona_accpack",
+    "name": "Sci-Fi Deagle",
+    "server_id": 9010
+  },
+  {
+    "model_id": 12751,
+    "dff": "obj86_ak47",
+    "txd": "arizona_accpack",
+    "name": "Sci-Fi AK-47",
+    "server_id": 9011
+  },
+  {
+    "model_id": 12752,
+    "dff": "obj86_cybersg",
+    "txd": "arizona_accpack",
+    "name": "Sci-Fi Дробовик",
+    "server_id": 9012
+  },
+  {
+    "model_id": 12753,
+    "dff": "obj86_cyberkn",
+    "txd": "arizona_accpack",
+    "name": "Sci-Fi Нож",
+    "server_id": 9030
+  },
+  {
+    "model_id": 15647,
+    "dff": "obj86_knoierr",
+    "txd": "arizona_accpack",
+    "name": "Катана Нир",
+    "server_id": 9062
+  },
+  {
+    "model_id": 15648,
+    "dff": "obj86_scanner",
+    "txd": "arizona_accpack",
+    "name": "Сканнер",
+    "server_id": 9063
+  },
+  {
+    "model_id": 15649,
+    "dff": "obj86_gcyberkn",
+    "txd": "arizona_accpack",
+    "name": "Золотой нож",
+    "server_id": 9064
+  },
+  {
+    "model_id": 15518,
+    "dff": "obj88_knifeinvis",
+    "txd": "arizona_accpack",
+    "name": "<unknow>",
+    "server_id": null
+  }
+]
