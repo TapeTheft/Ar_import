@@ -10,14 +10,14 @@
     "model_id": 0,
     "dff": "CJ_fat",
     "txd": "CJ_fat",
-    "name": "CJ толстый",
+    "name": "CJ (толстый)",
     "server_id": null
   },
   {
     "model_id": 0,
     "dff": "CJ_ripped",
     "txd": "CJ_ripped",
-    "name": "CJ накачанный",
+    "name": "CJ (накачанный)",
     "server_id": null
   },
   {
