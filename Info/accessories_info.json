@@ -862,7 +862,7 @@
   },
   {
     "model_id": 6544,
-    "dff": "Рюкзак Магический глаз",
+    "dff": "obj28_backp_1",
     "txd": "acs1",
     "name": "Рюкзак Магический глаз",
     "server_id": 4783
@@ -2147,6 +2147,55 @@
     "txd": "obj39",
     "name": "Фантастический джетпак",
     "server_id": 5676
+  },
+  {
+    "model_id": 19332,
+    "dff": "Hot_Air_Balloon01",
+    "txd": "balloon_texts",
+    "name": "Воздушный шар #1",
+    "server_id": 1134
+  },
+  {
+    "model_id": 19333,
+    "dff": "Hot_Air_Balloon02",
+    "txd": "balloon_texts",
+    "name": "Воздушный шар #2",
+    "server_id": 1135
+  },
+  {
+    "model_id": 19334,
+    "dff": "Hot_Air_Balloon03",
+    "txd": "balloon_texts",
+    "name": "Воздушный шар #3",
+    "server_id": 1136
+  },
+  {
+    "model_id": 19335,
+    "dff": "Hot_Air_Balloon04",
+    "txd": "balloon_texts",
+    "name": "Воздушный шар #4",
+    "server_id": 1137
+  },
+  {
+    "model_id": 19336,
+    "dff": "Hot_Air_Balloon05",
+    "txd": "balloon_texts",
+    "name": "Воздушный шар #5",
+    "server_id": 1138
+  },
+  {
+    "model_id": 19337,
+    "dff": "Hot_Air_Balloon06",
+    "txd": "balloon_texts",
+    "name": "Воздушный шар #6",
+    "server_id": 1139
+  },
+  {
+    "model_id": 19338,
+    "dff": "Hot_Air_Balloon07",
+    "txd": "balloon_texts",
+    "name": "Воздушный шар #7",
+    "server_id": 1140
   },
   {
     "model_id": 16807,
