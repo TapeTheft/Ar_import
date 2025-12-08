@@ -4,21 +4,21 @@
     "dff": "CJ_normal",
     "txd": "CJ_normal",
     "name": "CJ",
-    "server_id": -1
+    "server_id": 1000001
   },
   {
     "model_id": 0,
     "dff": "CJ_fat",
     "txd": "CJ_fat",
     "name": "CJ толстый",
-    "server_id": -2
+    "server_id": 1000002
   },
   {
     "model_id": 0,
     "dff": "CJ_ripped",
     "txd": "CJ_ripped",
     "name": "CJ накачанный",
-    "server_id": -3
+    "server_id": 1000003
   },
   {
     "model_id": 1,
