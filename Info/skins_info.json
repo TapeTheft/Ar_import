@@ -2198,6 +2198,13 @@
     "server_id": 502
   },
   {
+    "model_id": 312,
+    "dff": "albert",
+    "txd": "albert",
+    "name": "Альберт",
+    "server_id": null
+  },
+  {
     "model_id": 16851,
     "dff": "albert_mironov",
     "txd": "albert_mironov",
@@ -4527,13 +4534,6 @@
     "txd": "ciri_witcher",
     "name": "Цири",
     "server_id": 5954
-  },
-  {
-    "model_id": 16851,
-    "dff": "albert_mironov",
-    "txd": "albert_mironov",
-    "name": "Альберт",
-    "server_id": 645
   },
   {
     "model_id": 16852,
