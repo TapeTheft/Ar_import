@@ -1,0 +1,3474 @@
+[
+  {
+    "model_id": 15912,
+    "dff": "obj39_h_rip",
+    "txd": "obj39",
+    "name": "Надгробный крест",
+    "server_id": 5678
+  },
+  {
+    "model_id": 15913,
+    "dff": "obj39_h_skelet",
+    "txd": "obj39",
+    "name": "Анимированный скелет",
+    "server_id": 5679
+  },
+  {
+    "model_id": 15914,
+    "dff": "obj39_h_arch",
+    "txd": "obj39",
+    "name": "Хеллоуинские ворота",
+    "server_id": 5680
+  },
+  {
+    "model_id": 15915,
+    "dff": "obj39_h_sign_1",
+    "txd": "obj39",
+    "name": "Ведьмены ножки",
+    "server_id": 5681
+  },
+  {
+    "model_id": 15916,
+    "dff": "obj39_h_harvest",
+    "txd": "obj39",
+    "name": "Венок из подсолнуха",
+    "server_id": 5682
+  },
+  {
+    "model_id": 15917,
+    "dff": "obj39_h_pumpkin_2",
+    "txd": "obj39",
+    "name": "Злая тыква",
+    "server_id": 5683
+  },
+  {
+    "model_id": 15918,
+    "dff": "obj39_h_pumpkin_1",
+    "txd": "obj39",
+    "name": "Столб из тыкв",
+    "server_id": 5684
+  },
+  {
+    "model_id": 15919,
+    "dff": "obj39_h_death",
+    "txd": "obj39",
+    "name": "Статуя призрака",
+    "server_id": 5685
+  },
+  {
+    "model_id": 15920,
+    "dff": "obj39_h_web_3",
+    "txd": "obj39",
+    "name": "Паутина 1",
+    "server_id": 5686
+  },
+  {
+    "model_id": 15921,
+    "dff": "obj39_h_web_4",
+    "txd": "obj39",
+    "name": "Паутина 2",
+    "server_id": 5687
+  },
+  {
+    "model_id": 15922,
+    "dff": "obj39_h_web_2",
+    "txd": "obj39",
+    "name": "Паутина 3",
+    "server_id": 5688
+  },
+  {
+    "model_id": 15923,
+    "dff": "obj39_h_charlie",
+    "txd": "obj39",
+    "name": "Призрак Ку-клукс-клан",
+    "server_id": 5689
+  },
+  {
+    "model_id": 15924,
+    "dff": "obj39_h_web_1",
+    "txd": "obj39",
+    "name": "Паутина 4",
+    "server_id": 5690
+  },
+  {
+    "model_id": 15925,
+    "dff": "obj39_h_garl_s_1",
+    "txd": "obj39",
+    "name": "Короткий дождик (фиолетовый)",
+    "server_id": 5691
+  },
+  {
+    "model_id": 15926,
+    "dff": "obj39_h_garl_s_2",
+    "txd": "obj39",
+    "name": "Короткий дождик (еловый)",
+    "server_id": 5692
+  },
+  {
+    "model_id": 15927,
+    "dff": "obj39_h_garl_s_3",
+    "txd": "obj39",
+    "name": "Короткий дождик (оранжевый)",
+    "server_id": 5693
+  },
+  {
+    "model_id": 15928,
+    "dff": "obj39_h_garl_b_3",
+    "txd": "obj39",
+    "name": "Длинный дождик (оранжевый)",
+    "server_id": 5694
+  },
+  {
+    "model_id": 15929,
+    "dff": "obj39_h_garl_b_2",
+    "txd": "obj39",
+    "name": "Длинный дождик (еловый)        ",
+    "server_id": 5695
+  },
+  {
+    "model_id": 15930,
+    "dff": "obj39_h_garl_b_1",
+    "txd": "obj39",
+    "name": "Длинный дождик (фиолетовый)",
+    "server_id": 5696
+  },
+  {
+    "model_id": 16880,
+    "dff": "christmas_tree1",
+    "txd": "new_year2023",
+    "name": "Новогодняя елка",
+    "server_id": 5889
+  },
+  {
+    "model_id": 16881,
+    "dff": "christmas_tree2",
+    "txd": "new_year2023",
+    "name": "Новогодняя елка с подарками",
+    "server_id": 5890
+  },
+  {
+    "model_id": 16882,
+    "dff": "deer_new_years",
+    "txd": "new_year2023",
+    "name": "Олененок",
+    "server_id": 5891
+  },
+  {
+    "model_id": 16883,
+    "dff": "gingerbreadbig",
+    "txd": "new_year2023",
+    "name": "Мистер Пряня",
+    "server_id": 5892
+  },
+  {
+    "model_id": 16884,
+    "dff": "iglubig",
+    "txd": "new_year2023",
+    "name": "Иглу",
+    "server_id": 5893
+  },
+  {
+    "model_id": 16885,
+    "dff": "lightboxsnowbig",
+    "txd": "new_year2023",
+    "name": "Большая снежинка",
+    "server_id": 5894
+  },
+  {
+    "model_id": 16886,
+    "dff": "new_years_lollipop3",
+    "txd": "new_year2023",
+    "name": "Леденцы с бантом",
+    "server_id": 5895
+  },
+  {
+    "model_id": 16887,
+    "dff": "new_years_sock",
+    "txd": "new_year2023",
+    "name": "Новогодний носок",
+    "server_id": 5896
+  },
+  {
+    "model_id": 16888,
+    "dff": "sanki23",
+    "txd": "new_year2023",
+    "name": "Новогодние сани",
+    "server_id": 5897
+  },
+  {
+    "model_id": 16889,
+    "dff": "snow_man",
+    "txd": "new_year2023",
+    "name": "Снеговик",
+    "server_id": 5898
+  },
+  {
+    "model_id": 16890,
+    "dff": "whitebearbig",
+    "txd": "new_year2023",
+    "name": "Новогодний медведь",
+    "server_id": 5899
+  },
+  {
+    "model_id": 16949,
+    "dff": "obj41_globe_base",
+    "txd": "obj40_42",
+    "name": "Шар с Дедом Морозом",
+    "server_id": 5973
+  },
+  {
+    "model_id": 16948,
+    "dff": "obj41_carousel_1",
+    "txd": "obj40_42",
+    "name": "Новогодняя карусель",
+    "server_id": 7199
+  },
+  {
+    "model_id": 16942,
+    "dff": "obj41_chariot_1",
+    "txd": "obj40_42",
+    "name": "Новогодняя карета",
+    "server_id": 5975
+  },
+  {
+    "model_id": 16950,
+    "dff": "obj41_chest_base_1",
+    "txd": "obj40_42",
+    "name": "Волшебный сундук",
+    "server_id": 5976
+  },
+  {
+    "model_id": 16947,
+    "dff": "obj41_nutcrack_1",
+    "txd": "obj40_42",
+    "name": "Щелкунчик",
+    "server_id": 7185
+  },
+  {
+    "model_id": 16943,
+    "dff": "obj41_snow_scene_1",
+    "txd": "obj40_42",
+    "name": "Снежная полянка",
+    "server_id": 5978
+  },
+  {
+    "model_id": 16944,
+    "dff": "obj41_house_1",
+    "txd": "obj40_42",
+    "name": "Пряничный домик",
+    "server_id": 7181
+  },
+  {
+    "model_id": 16945,
+    "dff": "obj42_tree_1",
+    "txd": "obj40_42",
+    "name": "Большая ёлка",
+    "server_id": 6071
+  },
+  {
+    "model_id": 16946,
+    "dff": "obj42_tree_2",
+    "txd": "obj40_42",
+    "name": "Маленькая ёлка",
+    "server_id": 6072
+  },
+  {
+    "model_id": 18113,
+    "dff": "obj44_baloon_1",
+    "txd": "obj44",
+    "name": "Объект: Воздушный шар 'Большое сердце'",
+    "server_id": 6141
+  },
+  {
+    "model_id": 18114,
+    "dff": "obj44_bearsit_1",
+    "txd": "obj44",
+    "name": "Объект: Мишка с валентинкой",
+    "server_id": 6142
+  },
+  {
+    "model_id": 18115,
+    "dff": "obj44_box_1",
+    "txd": "obj44",
+    "name": "Объект: Клумба с шариками в виде сердца",
+    "server_id": 6143
+  },
+  {
+    "model_id": 18116,
+    "dff": "obj44_boxg_1",
+    "txd": "obj44",
+    "name": "Объект: Ящик 'Airdrop из PUBG'",
+    "server_id": 6144
+  },
+  {
+    "model_id": 18117,
+    "dff": "obj44_candy_1",
+    "txd": "obj44",
+    "name": "Объект: Леденец 'Сердечко на палочке'",
+    "server_id": 6145
+  },
+  {
+    "model_id": 18118,
+    "dff": "obj44_flg_1",
+    "txd": "obj44",
+    "name": "Объект: Шлем PUBG на палке",
+    "server_id": 6146
+  },
+  {
+    "model_id": 18119,
+    "dff": "obj44_flg_2",
+    "txd": "obj44",
+    "name": "Объект: Сковородка PUBG на палке",
+    "server_id": 6147
+  },
+  {
+    "model_id": 18120,
+    "dff": "obj44_gnome_1",
+    "txd": "obj44",
+    "name": "Объект: Садовый гном с валентинкой",
+    "server_id": 6148
+  },
+  {
+    "model_id": 18121,
+    "dff": "obj44_hearts_1",
+    "txd": "obj44",
+    "name": "Объект: Инсталляция 'Два сердца'",
+    "server_id": 6149
+  },
+  {
+    "model_id": 18122,
+    "dff": "obj44_lama_1",
+    "txd": "obj44",
+    "name": "Объект: Пиньята 'Лама из Фортнайт'",
+    "server_id": 6150
+  },
+  {
+    "model_id": 18123,
+    "dff": "obj44_lama_2",
+    "txd": "obj44",
+    "name": "Объект: Лошадка на палке 'Фортнайт'",
+    "server_id": 6151
+  },
+  {
+    "model_id": 18124,
+    "dff": "obj44_lg_1",
+    "txd": "obj44",
+    "name": "Объект: Вывеска 'PUBG'        ",
+    "server_id": 6152
+  },
+  {
+    "model_id": 18125,
+    "dff": "obj44_lg_2",
+    "txd": "obj44",
+    "name": "Объект: Вывеска 'Фортнайт'",
+    "server_id": 6153
+  },
+  {
+    "model_id": 18126,
+    "dff": "obj44_lght_1",
+    "txd": "obj44",
+    "name": "Объект: Три сердца на палке",
+    "server_id": 6154
+  },
+  {
+    "model_id": 18127,
+    "dff": "obj44_lsign_1",
+    "txd": "obj44",
+    "name": "Объект: Вывеска 'Признание в любви'",
+    "server_id": 6155
+  },
+  {
+    "model_id": 18128,
+    "dff": "obj44_lsign_2",
+    "txd": "obj44",
+    "name": "Объект: Вывеска 'Два сердца - Два икс'",
+    "server_id": 6156
+  },
+  {
+    "model_id": 18129,
+    "dff": "obj44_lsign_3",
+    "txd": "obj44",
+    "name": "Объект: Вывеска 'LOVE'",
+    "server_id": 6157
+  },
+  {
+    "model_id": 18130,
+    "dff": "obj44_valentine_1",
+    "txd": "obj44",
+    "name": "Объект: Вывеска 'Купидон'",
+    "server_id": 6158
+  },
+  {
+    "model_id": 6602,
+    "dff": "est23_cap_11",
+    "txd": "accs_est23",
+    "name": "Объект: Горшок с морковкой",
+    "server_id": 6273
+  },
+  {
+    "model_id": 6719,
+    "dff": "est23_cap_2",
+    "txd": "accs_est23",
+    "name": "Объект: Пасхальная лавка",
+    "server_id": 6274
+  },
+  {
+    "model_id": 6721,
+    "dff": "est23_cap_3",
+    "txd": "accs_est23",
+    "name": "Объект: Пасхальная корзина",
+    "server_id": 6275
+  },
+  {
+    "model_id": 6722,
+    "dff": "est23_cap_4",
+    "txd": "accs_est23",
+    "name": "Объект: Кулич",
+    "server_id": 6276
+  },
+  {
+    "model_id": 14557,
+    "dff": "est23_cap_5",
+    "txd": "accs_est23",
+    "name": "Объект: Пасхальная свеча",
+    "server_id": 6277
+  },
+  {
+    "model_id": 14644,
+    "dff": "est23_cookie_1",
+    "txd": "accs_est23",
+    "name": "Объект: Коврик «Зайчик»        ",
+    "server_id": 6278
+  },
+  {
+    "model_id": 14645,
+    "dff": "est23_cookie_2",
+    "txd": "accs_est23",
+    "name": "Объект: Коврик «Пасхальное яйцо»",
+    "server_id": 6279
+  },
+  {
+    "model_id": 15336,
+    "dff": "est23_cookie_3",
+    "txd": "accs_est23",
+    "name": "Объект: Коврик «Уточка»",
+    "server_id": 6280
+  },
+  {
+    "model_id": 15337,
+    "dff": "est23_cookie_4",
+    "txd": "accs_est23",
+    "name": "Объект: Коврик «Лапка»",
+    "server_id": 6281
+  },
+  {
+    "model_id": 15339,
+    "dff": "est23_cookie_5",
+    "txd": "accs_est23",
+    "name": "Объект: Коврик «Цыпленок»",
+    "server_id": 6282
+  },
+  {
+    "model_id": 15340,
+    "dff": "est23_rabchoc_1",
+    "txd": "accs_est23",
+    "name": "Объект: Шоколадный заяц",
+    "server_id": 6283
+  },
+  {
+    "model_id": 15341,
+    "dff": "est23_stick_1",
+    "txd": "accs_est23",
+    "name": "Объект: Почтовый ящик «Заяц»",
+    "server_id": 6284
+  },
+  {
+    "model_id": 15342,
+    "dff": "est23_stick_2",
+    "txd": "accs_est23",
+    "name": "Объект: Почтовый ящик «Морковка»",
+    "server_id": 6285
+  },
+  {
+    "model_id": 15344,
+    "dff": "est23_tree_2",
+    "txd": "accs_est23",
+    "name": "Объект: Фиалковое дерево",
+    "server_id": 6286
+  },
+  {
+    "model_id": 15374,
+    "dff": "est23_tree_3",
+    "txd": "accs_est23",
+    "name": "Объект: Розовый Гуаякан",
+    "server_id": 6287
+  },
+  {
+    "model_id": 15375,
+    "dff": "est23_tree_4",
+    "txd": "accs_est23",
+    "name": "Объект: Белая сакура",
+    "server_id": 6288
+  },
+  {
+    "model_id": 15376,
+    "dff": "est23_tree_5",
+    "txd": "accs_est23",
+    "name": "Объект: Розовая сакура",
+    "server_id": 6289
+  },
+  {
+    "model_id": 15377,
+    "dff": "obj50_bikbottom_1",
+    "txd": "obj50",
+    "name": "Объект: Дорожный указатель «Bikini Bottom»",
+    "server_id": 6290
+  },
+  {
+    "model_id": 15378,
+    "dff": "obj50_deccolumn_1",
+    "txd": "obj50",
+    "name": "Объект: Памятник «Шахтёр»",
+    "server_id": 6291
+  },
+  {
+    "model_id": 15379,
+    "dff": "obj50_deccolumn_2",
+    "txd": "obj50",
+    "name": "Объект: Лампа Джина",
+    "server_id": 6292
+  },
+  {
+    "model_id": 15380,
+    "dff": "obj50_deccolumn_3",
+    "txd": "obj50",
+    "name": "Объект: Самурайский Шлем",
+    "server_id": 6293
+  },
+  {
+    "model_id": 15381,
+    "dff": "obj50_deccolumn_4",
+    "txd": "obj50",
+    "name": "Объект: Памятник «Золотодобытчик»        ",
+    "server_id": 6294
+  },
+  {
+    "model_id": 15382,
+    "dff": "obj50_fish_1",
+    "txd": "obj50",
+    "name": "Объект: Фонтан с кувшинками",
+    "server_id": 6295
+  },
+  {
+    "model_id": 15383,
+    "dff": "obj50_fishduck_1",
+    "txd": "obj50",
+    "name": "Объект: Симметриччный рисунок",
+    "server_id": 6296
+  },
+  {
+    "model_id": 15384,
+    "dff": "obj50_krabtab_1",
+    "txd": "obj50",
+    "name": "Объект: Стол «Красти Крабс»",
+    "server_id": 6297
+  },
+  {
+    "model_id": 15385,
+    "dff": "obj50_leagunder_1",
+    "txd": "obj50",
+    "name": "Объект: Памятник «Наутилус»",
+    "server_id": 6298
+  },
+  {
+    "model_id": 15386,
+    "dff": "obj50_magicconch_1",
+    "txd": "obj50",
+    "name": "Объект: Памятник «Волшебная ракушка»",
+    "server_id": 6299
+  },
+  {
+    "model_id": 15387,
+    "dff": "obj50_nautildior_1",
+    "txd": "obj50",
+    "name": "Объект: Кораловый Наутилус",
+    "server_id": 6300
+  },
+  {
+    "model_id": 15390,
+    "dff": "obj50_fantasyaet_1",
+    "txd": "obj50",
+    "name": "Объект: Супер Копатель",
+    "server_id": 6301
+  },
+  {
+    "model_id": 6645,
+    "dff": "easterbench",
+    "txd": "east23_obj",
+    "name": "Объект: Пасхальная лавочка (2)",
+    "server_id": 6355
+  },
+  {
+    "model_id": 6646,
+    "dff": "eggplant",
+    "txd": "east23_obj",
+    "name": "Объект: Пасхальная полянка",
+    "server_id": 6356
+  },
+  {
+    "model_id": 6647,
+    "dff": "houserabbit",
+    "txd": "east23_obj",
+    "name": "Объект: Железный кролик",
+    "server_id": 6357
+  },
+  {
+    "model_id": 6648,
+    "dff": "treester",
+    "txd": "east23_obj",
+    "name": "Объект: Пасхальное дерево",
+    "server_id": 6358
+  },
+  {
+    "model_id": 6649,
+    "dff": "xbeggs",
+    "txd": "east23_obj",
+    "name": "Объект: Пасхальная стойка",
+    "server_id": 6359
+  },
+  {
+    "model_id": 14170,
+    "dff": "obj52_bathhouse",
+    "txd": "obj52",
+    "name": "Объект: Баня",
+    "server_id": 6464
+  },
+  {
+    "model_id": 14171,
+    "dff": "obj52_blacksmith",
+    "txd": "obj52",
+    "name": "Объект: Наковальня",
+    "server_id": 6465
+  },
+  {
+    "model_id": 14172,
+    "dff": "obj52_cart_with_bag",
+    "txd": "obj52",
+    "name": "Объект: Тележка с мешками",
+    "server_id": 6466
+  },
+  {
+    "model_id": 14173,
+    "dff": "obj52_carved_chair",
+    "txd": "obj52",
+    "name": "Объект: Деревянное кресло",
+    "server_id": 6467
+  },
+  {
+    "model_id": 14174,
+    "dff": "obj52_drawwell",
+    "txd": "obj52",
+    "name": "Объект: Колодец",
+    "server_id": 8596
+  },
+  {
+    "model_id": 14175,
+    "dff": "obj52_hutonlegs",
+    "txd": "obj52",
+    "name": "Объект: Хижина на ножках        ",
+    "server_id": 6469
+  },
+  {
+    "model_id": 14176,
+    "dff": "obj52_idoltotem",
+    "txd": "obj52",
+    "name": "Объект: Тотем идола",
+    "server_id": 6470
+  },
+  {
+    "model_id": 14177,
+    "dff": "obj52_matrdoll",
+    "txd": "obj52",
+    "name": "Объект: Матрешка",
+    "server_id": 6471
+  },
+  {
+    "model_id": 14178,
+    "dff": "obj52_russian_oven",
+    "txd": "obj52",
+    "name": "Объект: Печь",
+    "server_id": 6472
+  },
+  {
+    "model_id": 14179,
+    "dff": "obj52_scaffold",
+    "txd": "obj52",
+    "name": "Объект: Эшафот",
+    "server_id": 6473
+  },
+  {
+    "model_id": 14180,
+    "dff": "obj52_shrektoilet",
+    "txd": "obj52",
+    "name": "Объект: Туалет Шрека",
+    "server_id": 6474
+  },
+  {
+    "model_id": 14181,
+    "dff": "obj52_smoking_room",
+    "txd": "obj52",
+    "name": "Объект: Курилка",
+    "server_id": 6475
+  },
+  {
+    "model_id": 14182,
+    "dff": "obj52_target",
+    "txd": "obj52",
+    "name": "Объект: Мишень",
+    "server_id": 6476
+  },
+  {
+    "model_id": 14183,
+    "dff": "obj52_totem",
+    "txd": "obj52",
+    "name": "Объект: Тотем идола",
+    "server_id": 6470
+  },
+  {
+    "model_id": 14184,
+    "dff": "obj52_trainingdummy",
+    "txd": "obj52",
+    "name": "Объект: Тренировочный манекен        ",
+    "server_id": 6478
+  },
+  {
+    "model_id": 14185,
+    "dff": "obj52_wooden_hrs",
+    "txd": "obj52",
+    "name": "Объект: Деревянная лощадь",
+    "server_id": 6479
+  },
+  {
+    "model_id": 14186,
+    "dff": "obj52_wooden_hrs1",
+    "txd": "obj52",
+    "name": "Объект: Тотемы из лощадей",
+    "server_id": 6480
+  },
+  {
+    "model_id": 14187,
+    "dff": "obj52_wooden_owl",
+    "txd": "obj52",
+    "name": "Объект: Деревянная сова",
+    "server_id": 6481
+  },
+  {
+    "model_id": 14188,
+    "dff": "obj52_cock_23",
+    "txd": "obj52",
+    "name": "Объект: Анимированный флюгер",
+    "server_id": 6482
+  },
+  {
+    "model_id": 14189,
+    "dff": "obj52_decorwindmill",
+    "txd": "obj52",
+    "name": "        Объект: Анимированная мельница",
+    "server_id": 6483
+  },
+  {
+    "model_id": 14368,
+    "dff": "obj54_houseturrel",
+    "txd": "obj54_g",
+    "name": "Объект: Домашнаяя турель",
+    "server_id": 6937
+  },
+  {
+    "model_id": 14369,
+    "dff": "obj54_arkahouse",
+    "txd": "obj54_g",
+    "name": "Объект: Арка",
+    "server_id": 6938
+  },
+  {
+    "model_id": 14370,
+    "dff": "obj54_kidbatut",
+    "txd": "obj54_g",
+    "name": "Объект: Детский батут        ",
+    "server_id": 6939
+  },
+  {
+    "model_id": 14371,
+    "dff": "obj54_outdoorbar",
+    "txd": "obj54_g",
+    "name": "Объект: Открытый бар        ",
+    "server_id": 6940
+  },
+  {
+    "model_id": 14372,
+    "dff": "obj54_suicidebooth",
+    "txd": "obj54_g",
+    "name": "Объект: Убийственная будка",
+    "server_id": 6941
+  },
+  {
+    "model_id": 14373,
+    "dff": "obj54_summerflex",
+    "txd": "obj54_g",
+    "name": "Объект: Летнаяя веранда",
+    "server_id": 6942
+  },
+  {
+    "model_id": 14374,
+    "dff": "obj54_trampoloop",
+    "txd": "obj54_g",
+    "name": "Объект: Зацикленный трамплин",
+    "server_id": 6943
+  },
+  {
+    "model_id": 14375,
+    "dff": "obj54_treehouse",
+    "txd": "obj54_g",
+    "name": "Объект: Дом на дереве        ",
+    "server_id": 6944
+  },
+  {
+    "model_id": 14376,
+    "dff": "obj54_ttennis",
+    "txd": "obj54_g",
+    "name": "Объект: Стол для тенниса",
+    "server_id": 6945
+  },
+  {
+    "model_id": 14377,
+    "dff": "obj54_barbecue01_23",
+    "txd": "obj54_g",
+    "name": "Объект: Барбекю",
+    "server_id": 6946
+  },
+  {
+    "model_id": 14378,
+    "dff": "obj54_big_mushroom",
+    "txd": "obj54_g",
+    "name": "Объект: Большой гриб",
+    "server_id": 6947
+  },
+  {
+    "model_id": 14379,
+    "dff": "obj54_duck_fuck",
+    "txd": "obj54_g",
+    "name": "Объект: Агрессивная утка",
+    "server_id": 6948
+  },
+  {
+    "model_id": 14380,
+    "dff": "obj54_fountain01",
+    "txd": "obj54_g",
+    "name": "Объект: Фонтан с кувшинками",
+    "server_id": 6295
+  },
+  {
+    "model_id": 14381,
+    "dff": "obj54_fount_water",
+    "txd": "obj54_g",
+    "name": "Объект: Фонтан с кувшинками (вода)",
+    "server_id": null
+  },
+  {
+    "model_id": 14382,
+    "dff": "obj54_frog_on_rock",
+    "txd": "obj54_g",
+    "name": "Объект: Задумчивая лягушка",
+    "server_id": 6951
+  },
+  {
+    "model_id": 14529,
+    "dff": "obj54_moai",
+    "txd": "obj54_g",
+    "name": "Объект: Статуя Майя",
+    "server_id": 6952
+  },
+  {
+    "model_id": 14646,
+    "dff": "obj54_pavilion01_23",
+    "txd": "obj54_g",
+    "name": "Объект: Беседка #1",
+    "server_id": 6953
+  },
+  {
+    "model_id": 14647,
+    "dff": "obj54_plants_zomb",
+    "txd": "obj54_g",
+    "name": "Объект: Растение-зомби",
+    "server_id": 6954
+  },
+  {
+    "model_id": 14648,
+    "dff": "obj54_ramp01",
+    "txd": "obj54_g",
+    "name": "Объект: Рампа",
+    "server_id": 6955
+  },
+  {
+    "model_id": 14649,
+    "dff": "obj54_swing_sunbed",
+    "txd": "obj54_g",
+    "name": "Объект: Качели",
+    "server_id": 6956
+  },
+  {
+    "model_id": 14658,
+    "dff": "obj54_adflag",
+    "txd": "obj54_g",
+    "name": "Объект: Флаг 'Advance'",
+    "server_id": 6957
+  },
+  {
+    "model_id": 14659,
+    "dff": "obj54_admonument",
+    "txd": "obj54_g",
+    "name": "Объект: Монумент 'Advance'",
+    "server_id": 6958
+  },
+  {
+    "model_id": 14696,
+    "dff": "obj54_diam_grill",
+    "txd": "obj54_g",
+    "name": "Объект: Гриль",
+    "server_id": 6959
+  },
+  {
+    "model_id": 14697,
+    "dff": "obj54_diam_i_love",
+    "txd": "obj54_g",
+    "name": "Объект: Я люблю 'Diamond'",
+    "server_id": 6960
+  },
+  {
+    "model_id": 14698,
+    "dff": "obj54_diam_pavilion",
+    "txd": "obj54_g",
+    "name": "Объект: Беседка #2",
+    "server_id": 6961
+  },
+  {
+    "model_id": 14729,
+    "dff": "obj54_diam_sword",
+    "txd": "obj54_g",
+    "name": "Объект: Алмаз в алмазе",
+    "server_id": 6962
+  },
+  {
+    "model_id": 14730,
+    "dff": "obj54_letters",
+    "txd": "obj54_g",
+    "name": "Объект: Каменная надпись 'Advance'        ",
+    "server_id": 6963
+  },
+  {
+    "model_id": 15392,
+    "dff": "obj54_ball_ring",
+    "txd": "obj54_g",
+    "name": "Объект: Баскетбольная сетка",
+    "server_id": 6964
+  },
+  {
+    "model_id": 15437,
+    "dff": "obj54_deck_chairs",
+    "txd": "obj54_g",
+    "name": "Объект: Шезлонги",
+    "server_id": 6965
+  },
+  {
+    "model_id": 15594,
+    "dff": "obj54_swing_diam",
+    "txd": "obj54_g",
+    "name": "Объект: Двойные качели",
+    "server_id": 6966
+  },
+  {
+    "model_id": 15595,
+    "dff": "obj54_swimm_diam",
+    "txd": "obj54_g",
+    "name": "Объект: Джакузи",
+    "server_id": 6967
+  },
+  {
+    "model_id": 15597,
+    "dff": "obj54_swimm_water",
+    "txd": "obj54_g",
+    "name": "Объект: Джакузи (вода)",
+    "server_id": null
+  },
+  {
+    "model_id": 16924,
+    "dff": "obj55_pochita",
+    "txd": "obj55_g",
+    "name": "Объект: Почита",
+    "server_id": 7069
+  },
+  {
+    "model_id": 16927,
+    "dff": "obj55_pumpkin_cat",
+    "txd": "obj55_g",
+    "name": "Объект: Кошка в тыкве        ",
+    "server_id": 7070
+  },
+  {
+    "model_id": 16928,
+    "dff": "obj55_pumpkin_chick",
+    "txd": "obj55_g",
+    "name": "Объект: Тыква на курьих ножках",
+    "server_id": 7071
+  },
+  {
+    "model_id": 16939,
+    "dff": "obj55_pumpkin_scare",
+    "txd": "obj55_g",
+    "name": "Объект: Тыквенное пугало",
+    "server_id": 7072
+  },
+  {
+    "model_id": 17485,
+    "dff": "obj55_pumpkin_sp_2",
+    "txd": "obj55_g",
+    "name": "Объект: Тыквенный паук",
+    "server_id": 7073
+  },
+  {
+    "model_id": 17486,
+    "dff": "obj55_three_pumpk_2",
+    "txd": "obj55_g",
+    "name": "Объект: Весёлая тыква",
+    "server_id": 7074
+  },
+  {
+    "model_id": 17492,
+    "dff": "obj55_zayatsvolk",
+    "txd": "obj55_g",
+    "name": "Объект: Робот-Заяц",
+    "server_id": 7075
+  },
+  {
+    "model_id": 17987,
+    "dff": "obj55_zombiegrave",
+    "txd": "obj55_g",
+    "name": "Объект: Могила зомби",
+    "server_id": 7076
+  },
+  {
+    "model_id": 18110,
+    "dff": "obj55_black_monster",
+    "txd": "obj55_g",
+    "name": "Объект: Черный монстр",
+    "server_id": 7077
+  },
+  {
+    "model_id": 16910,
+    "dff": "obj55_cat_star",
+    "txd": "obj55_g",
+    "name": "Объект: Кот-Волшебник",
+    "server_id": 7078
+  },
+  {
+    "model_id": 16913,
+    "dff": "obj55_hollowknight",
+    "txd": "obj55_g",
+    "name": "Объект: Hollow Knight",
+    "server_id": 7079
+  },
+  {
+    "model_id": 16918,
+    "dff": "obj55_hookhouse",
+    "txd": "obj55_g",
+    "name": "Объект: Крюк",
+    "server_id": 7080
+  },
+  {
+    "model_id": 16919,
+    "dff": "obj55_htree",
+    "txd": "obj55_g",
+    "name": "Объект: Жуткое дерево",
+    "server_id": 7081
+  },
+  {
+    "model_id": 16922,
+    "dff": "obj55_kawsbrown",
+    "txd": "obj55_g",
+    "name": "Объект: KAWS",
+    "server_id": 7082
+  },
+  {
+    "model_id": 18106,
+    "dff": "obj55_demonghost",
+    "txd": "obj55_g",
+    "name": "Объект: Анимированный Демон-Призрак",
+    "server_id": 7083
+  },
+  {
+    "model_id": 18107,
+    "dff": "obj55_pothalloween",
+    "txd": "obj55_g",
+    "name": "Объект: Анимированный хэллоуинский горшок",
+    "server_id": 7084
+  },
+  {
+    "model_id": 18108,
+    "dff": "obj55_skeletonlego",
+    "txd": "obj55_g",
+    "name": "Объект: Анимированный Лего Скелет",
+    "server_id": 7085
+  },
+  {
+    "model_id": 17989,
+    "dff": "obj56_blackarachnia",
+    "txd": "obj56_g",
+    "name": "Объект: Трансформер Чёрная вдова",
+    "server_id": 7086
+  },
+  {
+    "model_id": 17990,
+    "dff": "obj56_grimlock",
+    "txd": "obj56_g",
+    "name": "Объект: Трансформер Гримлок",
+    "server_id": 7087
+  },
+  {
+    "model_id": 17992,
+    "dff": "obj56_iron_maiden",
+    "txd": "obj56_g",
+    "name": "Объект: Железная Дева",
+    "server_id": 7088
+  },
+  {
+    "model_id": 17993,
+    "dff": "obj56_optimusprime",
+    "txd": "obj56_g",
+    "name": "Объект: Трансформер Оптимус Прайм",
+    "server_id": 7089
+  },
+  {
+    "model_id": 17994,
+    "dff": "obj56_ravage",
+    "txd": "obj56_g",
+    "name": "Объект: Трансформер Реведж",
+    "server_id": 7090
+  },
+  {
+    "model_id": 17996,
+    "dff": "obj56_scooby",
+    "txd": "obj56_g",
+    "name": "Объект: Скуби-Ду",
+    "server_id": 7091
+  },
+  {
+    "model_id": 17997,
+    "dff": "obj56_scooby_arch",
+    "txd": "obj56_g",
+    "name": "Объект: Злое Зеркало",
+    "server_id": 7092
+  },
+  {
+    "model_id": 17999,
+    "dff": "obj56_scooby_car",
+    "txd": "obj56_g",
+    "name": "Объект: Машина Мистери",
+    "server_id": 7093
+  },
+  {
+    "model_id": 18037,
+    "dff": "obj56_scooby_snacks",
+    "txd": "obj56_g",
+    "name": "Объект: Скуби Снэк",
+    "server_id": 7094
+  },
+  {
+    "model_id": 18103,
+    "dff": "obj56_thrust",
+    "txd": "obj56_g",
+    "name": "Объект: Трансформер Траст",
+    "server_id": 7095
+  },
+  {
+    "model_id": 5696,
+    "dff": "obj59_bgbread",
+    "txd": "obj59",
+    "name": "Объект: Большой Пряня        ",
+    "server_id": 7177
+  },
+  {
+    "model_id": 5697,
+    "dff": "obj59_bpmirror",
+    "txd": "obj59",
+    "name": "Объект: Волшебное зеркало",
+    "server_id": 7178
+  },
+  {
+    "model_id": 5698,
+    "dff": "obj59_dragon24",
+    "txd": "obj59",
+    "name": "Объект: Спайро",
+    "server_id": 7179
+  },
+  {
+    "model_id": 5699,
+    "dff": "obj59_dwarfs",
+    "txd": "obj59",
+    "name": "Объект: Гномики",
+    "server_id": 7180
+  },
+  {
+    "model_id": 5700,
+    "dff": "obj59_gingerhouse",
+    "txd": "obj59",
+    "name": "Объект: Пряничный домик",
+    "server_id": 7181
+  },
+  {
+    "model_id": 5701,
+    "dff": "obj59_glassball",
+    "txd": "obj59",
+    "name": "Объект: Новогодний шар с ёлочками",
+    "server_id": 7182
+  },
+  {
+    "model_id": 5702,
+    "dff": "obj59_goldhill",
+    "txd": "obj59",
+    "name": "Объект: Гора золота",
+    "server_id": 8368
+  },
+  {
+    "model_id": 6011,
+    "dff": "obj59_gtree",
+    "txd": "obj59",
+    "name": "Объект: Золотая ёлка",
+    "server_id": 7184
+  },
+  {
+    "model_id": 6013,
+    "dff": "obj59_nutcracker",
+    "txd": "obj59",
+    "name": "Объект: Щелкунчик",
+    "server_id": 7185
+  },
+  {
+    "model_id": 6033,
+    "dff": "obj59_nywords",
+    "txd": "obj59",
+    "name": "Объект: С новым годом",
+    "server_id": 7186
+  },
+  {
+    "model_id": 6034,
+    "dff": "obj59_olaf",
+    "txd": "obj59",
+    "name": "Объект: Олаф",
+    "server_id": 7187
+  },
+  {
+    "model_id": 6254,
+    "dff": "obj59_penguin1",
+    "txd": "obj59",
+    "name": "Объект: Пингвин        ",
+    "server_id": 7188
+  },
+  {
+    "model_id": 6263,
+    "dff": "obj59_penguins",
+    "txd": "obj59",
+    "name": "Объект: Пингвины Мадагаскара",
+    "server_id": 7189
+  },
+  {
+    "model_id": 6265,
+    "dff": "obj59_pinnochio",
+    "txd": "obj59",
+    "name": "Объект: Пиннокио",
+    "server_id": 7190
+  },
+  {
+    "model_id": 6267,
+    "dff": "obj59_pinrick",
+    "txd": "obj59",
+    "name": "Объект: Значок Рик и Морти",
+    "server_id": 7191
+  },
+  {
+    "model_id": 6268,
+    "dff": "obj59_reducingbeam",
+    "txd": "obj59",
+    "name": "Объект: Уменьшающий луч",
+    "server_id": 7192
+  },
+  {
+    "model_id": 6269,
+    "dff": "obj59_rickandmorty",
+    "txd": "obj59",
+    "name": "Объект: Надпись Рик и Морти",
+    "server_id": 7193
+  },
+  {
+    "model_id": 6270,
+    "dff": "obj59_rickcar",
+    "txd": "obj59",
+    "name": "Объект: Машина Рика",
+    "server_id": 7194
+  },
+  {
+    "model_id": 6271,
+    "dff": "obj59_snowm",
+    "txd": "obj59",
+    "name": "Объект: Снеговик",
+    "server_id": 7195
+  },
+  {
+    "model_id": 6273,
+    "dff": "obj59_snowmenrob",
+    "txd": "obj59",
+    "name": "Объект: Снежный робот        ",
+    "server_id": 7196
+  },
+  {
+    "model_id": 6541,
+    "dff": "obj59_hotchocolatte",
+    "txd": "obj59",
+    "name": "Объект: Чашка с горячим шоколадом",
+    "server_id": 7197
+  },
+  {
+    "model_id": 5694,
+    "dff": "obj59_headportal",
+    "txd": "obj59",
+    "name": "Объект: Портал Рик и Морти",
+    "server_id": 7198
+  },
+  {
+    "model_id": 5693,
+    "dff": "obj59_rickportal",
+    "txd": "obj59",
+    "name": "Объект: Портал Рик и Морти (доп)",
+    "server_id": null
+  },
+  {
+    "model_id": 5695,
+    "dff": "obj59_carousel",
+    "txd": "obj59",
+    "name": "Объект: Новогодняя карусель",
+    "server_id": 7199
+  },
+  {
+    "model_id": 6012,
+    "dff": "obj59_iceshop",
+    "txd": "obj59",
+    "name": "Ледяная палатка        ",
+    "server_id": 7200
+  },
+  {
+    "model_id": 6274,
+    "dff": "obj59_tentny",
+    "txd": "obj59",
+    "name": "Новогодняя палатка        ",
+    "server_id": 7201
+  },
+  {
+    "model_id": 6275,
+    "dff": "obj58_lavkarick1",
+    "txd": "obj58",
+    "name": "Переносной ларек Рика 1 (открыт)",
+    "server_id": null
+  },
+  {
+    "model_id": 6277,
+    "dff": "obj58_lavkarick2",
+    "txd": "obj58",
+    "name": "Переносной ларек Рика 2 (открыт)",
+    "server_id": null
+  },
+  {
+    "model_id": 6279,
+    "dff": "obj58_lavkashrek1",
+    "txd": "obj58",
+    "name": "Переносной ларек Шрека 1 (открыт)",
+    "server_id": null
+  },
+  {
+    "model_id": 6540,
+    "dff": "obj58_lavkashrek2",
+    "txd": "obj58",
+    "name": "Переносной ларек Шрека 2 (открыт)",
+    "server_id": null
+  },
+  {
+    "model_id": 6688,
+    "dff": "rcmavic_object",
+    "txd": "rcmavic",
+    "name": "Дрон-Гранатометчик",
+    "server_id": 7352
+  },
+  {
+    "model_id": 6726,
+    "dff": "obj61_standdota",
+    "txd": "obj60",
+    "name": "Элитная переносная лавка (открыт)",
+    "server_id": null
+  },
+  {
+    "model_id": 12691,
+    "dff": "obj63_lunrover",
+    "txd": "obj63",
+    "name": "Объект: Луноход",
+    "server_id": 7561
+  },
+  {
+    "model_id": 12692,
+    "dff": "obj63_area",
+    "txd": "obj63",
+    "name": "Объект: Игровая площадка 'Ракета'",
+    "server_id": 7562
+  },
+  {
+    "model_id": 12693,
+    "dff": "obj63_meteorite",
+    "txd": "obj63",
+    "name": "Объект: Метеорит",
+    "server_id": 7563
+  },
+  {
+    "model_id": 12694,
+    "dff": "obj63_const",
+    "txd": "obj63",
+    "name": "Объект: Проекция созвездий",
+    "server_id": 7564
+  },
+  {
+    "model_id": 12695,
+    "dff": "obj63_ufocrash",
+    "txd": "obj63",
+    "name": "Объект: Разбитая летающая тарелка",
+    "server_id": 7565
+  },
+  {
+    "model_id": 12696,
+    "dff": "obj63_antenna",
+    "txd": "obj63",
+    "name": "Объект: Современная солнечная панель",
+    "server_id": 7566
+  },
+  {
+    "model_id": 12699,
+    "dff": "obj63_apalon",
+    "txd": "obj63",
+    "name": "Объект: Аполлон",
+    "server_id": 7567
+  },
+  {
+    "model_id": 12765,
+    "dff": "obj63_cryotube",
+    "txd": "obj63",
+    "name": "Объект: Крионическая труба",
+    "server_id": 7568
+  },
+  {
+    "model_id": 12789,
+    "dff": "obj63_launchr",
+    "txd": "obj63",
+    "name": "Объект: Стартовая установка",
+    "server_id": 7569
+  },
+  {
+    "model_id": 14320,
+    "dff": "obj63_murdercirc",
+    "txd": "obj63",
+    "name": "Объект: Силуэт",
+    "server_id": 7570
+  },
+  {
+    "model_id": 12795,
+    "dff": "obj65_easter_egg",
+    "txd": "obj65",
+    "name": "Объект: Покемоно-яйцо",
+    "server_id": 7571
+  },
+  {
+    "model_id": 13565,
+    "dff": "obj65_chick_egg",
+    "txd": "obj65",
+    "name": "        Объект: Вылупившийся цыплёнок",
+    "server_id": 7572
+  },
+  {
+    "model_id": 13577,
+    "dff": "obj65_basket_eggs",
+    "txd": "obj65",
+    "name": "Объект: Корзинка с яйцами",
+    "server_id": 7573
+  },
+  {
+    "model_id": 13583,
+    "dff": "obj65_raving",
+    "txd": "obj65",
+    "name": "Объект: Raving Rabbid",
+    "server_id": 7574
+  },
+  {
+    "model_id": 13589,
+    "dff": "obj65_bunny_man",
+    "txd": "obj65",
+    "name": "Объект: Человек-кролик        ",
+    "server_id": 7575
+  },
+  {
+    "model_id": 13892,
+    "dff": "obj65_carrot",
+    "txd": "obj65",
+    "name": "Объект: Морковка в грядке",
+    "server_id": 7576
+  },
+  {
+    "model_id": 13904,
+    "dff": "obj65_bell",
+    "txd": "obj65",
+    "name": "Объект: Пасхальный колокол",
+    "server_id": 7577
+  },
+  {
+    "model_id": 13916,
+    "dff": "obj65_yellowm",
+    "txd": "obj65",
+    "name": "Объект: Жёлтый",
+    "server_id": 7578
+  },
+  {
+    "model_id": 13922,
+    "dff": "obj65_eggpixel",
+    "txd": "obj65",
+    "name": "Объект: Пиксельный яйца",
+    "server_id": 7579
+  },
+  {
+    "model_id": 13928,
+    "dff": "obj65_basket",
+    "txd": "obj65",
+    "name": "Объект: Пасхальная корзина",
+    "server_id": 7580
+  },
+  {
+    "model_id": 13934,
+    "dff": "obj65_rabtent",
+    "txd": "obj65",
+    "name": "Объект: Пасхальная беседка",
+    "server_id": 7581
+  },
+  {
+    "model_id": 14126,
+    "dff": "obj65_kaws",
+    "txd": "obj65",
+    "name": "Объект: Розовый Kaws        ",
+    "server_id": 7582
+  },
+  {
+    "model_id": 14128,
+    "dff": "obj65_hares_flow",
+    "txd": "obj65",
+    "name": "Объект: Цееточные кролики",
+    "server_id": 7583
+  },
+  {
+    "model_id": 14130,
+    "dff": "obj65_egghouse",
+    "txd": "obj65",
+    "name": "Объект: Пасхальные домики",
+    "server_id": 7584
+  },
+  {
+    "model_id": 14150,
+    "dff": "obj63a_ufocat",
+    "txd": "obj63",
+    "name": "Объект: Анимированная летающая тарелка",
+    "server_id": 7586
+  },
+  {
+    "model_id": 14153,
+    "dff": "obj63a_whole",
+    "txd": "obj63",
+    "name": "Майнер Тёмной материи",
+    "server_id": 7587
+  },
+  {
+    "model_id": 14157,
+    "dff": "obj63a_obs",
+    "txd": "obj63",
+    "name": "Объект: Анимированная обсерватория",
+    "server_id": 7588
+  },
+  {
+    "model_id": 14158,
+    "dff": "obj63a_darkhole",
+    "txd": "obj63",
+    "name": "Объект: Танцевальная капсула",
+    "server_id": 7589
+  },
+  {
+    "model_id": 14159,
+    "dff": "obj65a_mechrab",
+    "txd": "obj65",
+    "name": "Объект: Анимированный меха-кролик",
+    "server_id": 7590
+  },
+  {
+    "model_id": 15360,
+    "dff": "obj67_nug_bird",
+    "txd": "obj67",
+    "name": "Объект: Злой петух",
+    "server_id": 7613
+  },
+  {
+    "model_id": 15361,
+    "dff": "obj67_jukebox",
+    "txd": "obj67",
+    "name": "Объект: Музыкальный автомат",
+    "server_id": 7614
+  },
+  {
+    "model_id": 15362,
+    "dff": "obj67_turntables",
+    "txd": "obj67",
+    "name": "Объект: Диджейский пульт",
+    "server_id": 7615
+  },
+  {
+    "model_id": 15363,
+    "dff": "obj67_boombox",
+    "txd": "obj67",
+    "name": "Объект: Большая колонка",
+    "server_id": 7616
+  },
+  {
+    "model_id": 15364,
+    "dff": "obj67_archerytarget",
+    "txd": "obj67",
+    "name": "Объект: Мишень",
+    "server_id": 7617
+  },
+  {
+    "model_id": 15365,
+    "dff": "obj67_llamapillar",
+    "txd": "obj67",
+    "name": "Объект: Голова Ламы-пиньяты",
+    "server_id": 7618
+  },
+  {
+    "model_id": 15366,
+    "dff": "obj67_pooltable",
+    "txd": "obj67",
+    "name": "Объект: Стол для бильярда",
+    "server_id": 7619
+  },
+  {
+    "model_id": 15367,
+    "dff": "obj67_springride",
+    "txd": "obj67",
+    "name": "Объект: Качалка на пружине",
+    "server_id": 7620
+  },
+  {
+    "model_id": 15368,
+    "dff": "obj67_merrygoround",
+    "txd": "obj67",
+    "name": "Объект: Карусель        ",
+    "server_id": 7621
+  },
+  {
+    "model_id": 15369,
+    "dff": "obj67_labrador",
+    "txd": "obj67",
+    "name": "Объект: Лама-пиньята",
+    "server_id": 7622
+  },
+  {
+    "model_id": 15370,
+    "dff": "obj67_cardboard",
+    "txd": "obj67",
+    "name": "Объект: Картонная барабанная установка",
+    "server_id": 7623
+  },
+  {
+    "model_id": 15576,
+    "dff": "obj67_dumper",
+    "txd": "obj67",
+    "name": "Кенгурятник для Batlle Bus Fortnite",
+    "server_id": 7624
+  },
+  {
+    "model_id": 15575,
+    "dff": "obj67_carshield",
+    "txd": "obj67",
+    "name": "Кенгурятник для Naran Hyper C. / Vanda Electrics D.",
+    "server_id": 7625
+  },
+  {
+    "model_id": 14243,
+    "dff": "obj69_ptb_bump",
+    "txd": "vehicle",
+    "name": "Кенгурятник для Peterbilt 359",
+    "server_id": 7746
+  },
+  {
+    "model_id": 14256,
+    "dff": "obj69_fb1",
+    "txd": "obj69",
+    "name": "Кенгурятник Метельник        ",
+    "server_id": 7747
+  },
+  {
+    "model_id": 14257,
+    "dff": "obj69_fb2",
+    "txd": "obj69",
+    "name": "Кенгурятник Промышленный        ",
+    "server_id": 7748
+  },
+  {
+    "model_id": 14258,
+    "dff": "obj69_fb3",
+    "txd": "obj69",
+    "name": "Кенгурятник Ретро        ",
+    "server_id": 7749
+  },
+  {
+    "model_id": 14259,
+    "dff": "obj69_fb4",
+    "txd": "obj69",
+    "name": "Кенгурятник Мародера",
+    "server_id": 7750
+  },
+  {
+    "model_id": 14260,
+    "dff": "obj69_fb5",
+    "txd": "obj69",
+    "name": "Кенгурятник Зомби-Апокалипсиса",
+    "server_id": 7751
+  },
+  {
+    "model_id": 14261,
+    "dff": "obj69_bb1",
+    "txd": "obj69",
+    "name": "Багажник с велосипедом (активный)",
+    "server_id": 7752
+  },
+  {
+    "model_id": 14262,
+    "dff": "obj69_bb2",
+    "txd": "obj69",
+    "name": "Багажник с Пит-Байком (активный)",
+    "server_id": 7753
+  },
+  {
+    "model_id": 14263,
+    "dff": "obj69_bb3",
+    "txd": "obj69",
+    "name": "Багажник Thug Life",
+    "server_id": 7754
+  },
+  {
+    "model_id": 14264,
+    "dff": "obj69_bb4",
+    "txd": "obj69",
+    "name": "Багажник с Лебедкой",
+    "server_id": 7755
+  },
+  {
+    "model_id": 14265,
+    "dff": "obj69_bb5",
+    "txd": "obj69",
+    "name": "Багажник Акустический        ",
+    "server_id": 7756
+  },
+  {
+    "model_id": 14290,
+    "dff": "obj69_cadlatre",
+    "txd": "obj69",
+    "name": "Кенгурятник для Cadillac Escalade Larte Design",
+    "server_id": 7804
+  },
+  {
+    "model_id": 14291,
+    "dff": "obj69_huracanst",
+    "txd": "obj69",
+    "name": "Кенгурятник для Lamborghini Huracan Sterrato",
+    "server_id": 7805
+  },
+  {
+    "model_id": 14292,
+    "dff": "obj69_prsng",
+    "txd": "obj69",
+    "name": "Кенгурятник для Ferrari Purosangue",
+    "server_id": 7806
+  },
+  {
+    "model_id": 14293,
+    "dff": "obj69_sf90",
+    "txd": "obj69",
+    "name": "Кенгурятник для Ferrari sf90 Off-road",
+    "server_id": 7807
+  },
+  {
+    "model_id": 14294,
+    "dff": "obj69_urusoff",
+    "txd": "obj69",
+    "name": "Кенгурятник для Lamborghini Urus Off-road",
+    "server_id": 7808
+  },
+  {
+    "model_id": 15622,
+    "dff": "obj71_hasbik",
+    "txd": "obj71",
+    "name": "Воздушный шар Хасбик",
+    "server_id": 7820
+  },
+  {
+    "model_id": 15623,
+    "dff": "obj71_bomjball",
+    "txd": "obj71",
+    "name": "Воздушный шар Бомж",
+    "server_id": 7821
+  },
+  {
+    "model_id": 14297,
+    "dff": "obj71_machine",
+    "txd": "obj71",
+    "name": "Объект: Автомат с газировкой",
+    "server_id": 7853
+  },
+  {
+    "model_id": 14298,
+    "dff": "obj71_slide",
+    "txd": "obj71",
+    "name": "Объект: Водная горка",
+    "server_id": 7854
+  },
+  {
+    "model_id": 14299,
+    "dff": "obj71_icecream",
+    "txd": "obj71",
+    "name": "Объект: Мороженное",
+    "server_id": 7855
+  },
+  {
+    "model_id": 14301,
+    "dff": "obj71_pizza",
+    "txd": "obj71",
+    "name": "Объект: Надувной круг Пицца",
+    "server_id": 7857
+  },
+  {
+    "model_id": 14303,
+    "dff": "obj71_summer",
+    "txd": "obj71",
+    "name": "Объект: Надпись Лето",
+    "server_id": 7859
+  },
+  {
+    "model_id": 14304,
+    "dff": "obj71_hot",
+    "txd": "obj71",
+    "name": "Объект: Надпись Горячо",
+    "server_id": 7860
+  },
+  {
+    "model_id": 14305,
+    "dff": "obj71_shark",
+    "txd": "obj71",
+    "name": "Объект: Фруктовая акула        ",
+    "server_id": 7861
+  },
+  {
+    "model_id": 14306,
+    "dff": "obj71_cloud",
+    "txd": "obj71",
+    "name": "Объект: Надувной матрас Небо",
+    "server_id": 7862
+  },
+  {
+    "model_id": 14310,
+    "dff": "obj71_trees1",
+    "txd": "obj71",
+    "name": "Объект: Кубическое дерево",
+    "server_id": 7863
+  },
+  {
+    "model_id": 14311,
+    "dff": "obj71_trees2",
+    "txd": "obj71",
+    "name": "Объект: Дерево Сакура",
+    "server_id": 7864
+  },
+  {
+    "model_id": 14312,
+    "dff": "obj71_trees3",
+    "txd": "obj71",
+    "name": "Объект: Изометрическое дерево 1",
+    "server_id": 7865
+  },
+  {
+    "model_id": 14313,
+    "dff": "obj71_trees4",
+    "txd": "obj71",
+    "name": "Объект: Изометрическое дерево 2",
+    "server_id": 7866
+  },
+  {
+    "model_id": 14314,
+    "dff": "obj71_trees5",
+    "txd": "obj71",
+    "name": "Объект: Тропическое дерево",
+    "server_id": 7867
+  },
+  {
+    "model_id": 14319,
+    "dff": "obj71_trees6",
+    "txd": "obj71",
+    "name": "Объект: Изометрическая Ель",
+    "server_id": 7868
+  },
+  {
+    "model_id": 6734,
+    "dff": "obj71_cloverbg",
+    "txd": "vehicle",
+    "name": "Кенгурятник для Clover Bomj Gang",
+    "server_id": 7917
+  },
+  {
+    "model_id": 6736,
+    "dff": "obj71_crownvic",
+    "txd": "vehicle",
+    "name": "Кенгурятник для Lamborghini Huracan Sterrato",
+    "server_id": 7918
+  },
+  {
+    "model_id": 6737,
+    "dff": "obj71_dsxtn",
+    "txd": "obj71",
+    "name": "Кенгурятник для Devel Sixteen",
+    "server_id": 7919
+  },
+  {
+    "model_id": 6738,
+    "dff": "obj71_humvee",
+    "txd": "vehicle",
+    "name": "Кенгурятник для Hummer H1 Military",
+    "server_id": 7920
+  },
+  {
+    "model_id": 6739,
+    "dff": "obj71_impala",
+    "txd": "vehicle",
+    "name": "Кенгурятник для 1967 Chevrolet Impala",
+    "server_id": 7921
+  },
+  {
+    "model_id": 6740,
+    "dff": "obj71_lc200_fbi",
+    "txd": "vehicle",
+    "name": "Кенгурятник для Toyota LC 200 FBI        ",
+    "server_id": 7922
+  },
+  {
+    "model_id": 6800,
+    "dff": "obj71_fsf23",
+    "txd": "obj71",
+    "name": "Кенгурятник для F1 Bolide 23",
+    "server_id": 7923
+  },
+  {
+    "model_id": 15353,
+    "dff": "obj71a_blavka",
+    "txd": "obj71",
+    "name": "Складная мусорная лавка (открыта)",
+    "server_id": null
+  },
+  {
+    "model_id": 16876,
+    "dff": "obj75_taverna",
+    "txd": "obj75",
+    "name": "Складная магическая лавка (открыта)",
+    "server_id": null
+  },
+  {
+    "model_id": 16875,
+    "dff": "obj75_workbench",
+    "txd": "obj75",
+    "name": "Переносной верстак миража (открыт)",
+    "server_id": null
+  },
+  {
+    "model_id": 16877,
+    "dff": "obj75_shop",
+    "txd": "obj75",
+    "name": "Складная хэллоуинская лавка (открыта)",
+    "server_id": null
+  },
+  {
+    "model_id": 16923,
+    "dff": "obj75a_pumpkin",
+    "txd": "obj75",
+    "name": "Объект: Тыквочка",
+    "server_id": 8019
+  },
+  {
+    "model_id": 16925,
+    "dff": "obj75a_guillotine",
+    "txd": "obj75",
+    "name": "Объект: Гиольотина",
+    "server_id": 8020
+  },
+  {
+    "model_id": 16929,
+    "dff": "obj75a_ghostfly",
+    "txd": "obj75",
+    "name": "Объект: Могила с приведениями",
+    "server_id": 8021
+  },
+  {
+    "model_id": 16930,
+    "dff": "obj75a_ghost",
+    "txd": "obj75",
+    "name": "Объект: Призрак",
+    "server_id": 8022
+  },
+  {
+    "model_id": 16931,
+    "dff": "obj75a_eye",
+    "txd": "obj75",
+    "name": "Объект: Магический глаз",
+    "server_id": 8023
+  },
+  {
+    "model_id": 16907,
+    "dff": "obj75_jplamp",
+    "txd": "obj75",
+    "name": "Объект: Японский фонарь",
+    "server_id": 8024
+  },
+  {
+    "model_id": 16908,
+    "dff": "obj75_inist_us",
+    "txd": "obj75",
+    "name": "Объект: Унесенный призраками",
+    "server_id": 8025
+  },
+  {
+    "model_id": 16916,
+    "dff": "obj75_barn",
+    "txd": "obj75",
+    "name": "Объект: Сарай Миража        ",
+    "server_id": 8026
+  },
+  {
+    "model_id": 16915,
+    "dff": "obj75_bbomj",
+    "txd": "obj75",
+    "name": "Воздушный шар читера",
+    "server_id": 8080
+  },
+  {
+    "model_id": 16878,
+    "dff": "obj75_pumpkinbal",
+    "txd": "obj75",
+    "name": "Тыквенный воздушный шар",
+    "server_id": 8081
+  },
+  {
+    "model_id": 16926,
+    "dff": "obj75a_grove",
+    "txd": "obj75",
+    "name": "Грув пончик воздушный шар",
+    "server_id": 8082
+  },
+  {
+    "model_id": 16935,
+    "dff": "obj75a_ballas",
+    "txd": "obj75",
+    "name": "Баллас пончик воздушный шар",
+    "server_id": 8084
+  },
+  {
+    "model_id": 15886,
+    "dff": "rsq8_ram",
+    "txd": "obj75",
+    "name": "Кенгурятник для Audi RS Q8 Mansory",
+    "server_id": 15887
+  },
+  {
+    "model_id": 15887,
+    "dff": "xmmans_ram",
+    "txd": "obj75",
+    "name": "Кенгурятник для BMW XM Mansory        ",
+    "server_id": 8085
+  },
+  {
+    "model_id": 15885,
+    "dff": "rrsm_ram",
+    "txd": "obj75",
+    "name": "Кенгурятник для Rolls Royse Spectre Mansory",
+    "server_id": 8086
+  },
+  {
+    "model_id": 11843,
+    "dff": "obj77_bentleygt3",
+    "txd": "obj77",
+    "name": "Кенгурятник для Bentley Continental GT3",
+    "server_id": 8225
+  },
+  {
+    "model_id": 11845,
+    "dff": "obj77_kmzdakar",
+    "txd": "obj77",
+    "name": "Кенгурятник для Kamaz Dakar",
+    "server_id": 8226
+  },
+  {
+    "model_id": 11846,
+    "dff": "obj77_mb190et",
+    "txd": "obj77",
+    "name": "Кенгурятник для Mercedes E190 Evolution",
+    "server_id": 8227
+  },
+  {
+    "model_id": 11847,
+    "dff": "obj77_mcsen",
+    "txd": "obj77",
+    "name": "Кенгурятник для McLaren Senna",
+    "server_id": 8228
+  },
+  {
+    "model_id": 11850,
+    "dff": "obj77_scaniach",
+    "txd": "obj77",
+    "name": "Кенгурятник для Scania Chimera",
+    "server_id": 8229
+  },
+  {
+    "model_id": 12070,
+    "dff": "obj77_boxes",
+    "txd": "obj77",
+    "name": "Объект: Праздничные подарки",
+    "server_id": 8248
+  },
+  {
+    "model_id": 12071,
+    "dff": "obj77_deer",
+    "txd": "obj77",
+    "name": "        Объект: Световой олень",
+    "server_id": 8249
+  },
+  {
+    "model_id": 12072,
+    "dff": "obj77_deerstand",
+    "txd": "obj77",
+    "name": "Объект: Стенд с оленем",
+    "server_id": 8250
+  },
+  {
+    "model_id": 12073,
+    "dff": "obj77_door",
+    "txd": "obj77",
+    "name": "Объект: Праздничная дверь",
+    "server_id": 8251
+  },
+  {
+    "model_id": 12074,
+    "dff": "obj77_phouse",
+    "txd": "obj77",
+    "name": "Объект: Пряничный домик",
+    "server_id": 8252
+  },
+  {
+    "model_id": 12075,
+    "dff": "obj77_ptree",
+    "txd": "obj77",
+    "name": "Объект: Пряничная ёлка",
+    "server_id": 8253
+  },
+  {
+    "model_id": 12076,
+    "dff": "obj77_tree_c",
+    "txd": "obj77",
+    "name": "Объект: Праздничная ёлка",
+    "server_id": 8254
+  },
+  {
+    "model_id": 11817,
+    "dff": "obj77a_deer",
+    "txd": "obj77",
+    "name": "Объект: Костяной олень",
+    "server_id": 8255
+  },
+  {
+    "model_id": 12104,
+    "dff": "obj77_bmwx5h_f",
+    "txd": "obj77",
+    "name": "Кенгурятник для BMW X5 Fly",
+    "server_id": 8256
+  },
+  {
+    "model_id": 12105,
+    "dff": "obj77_mersml350h_f",
+    "txd": "obj77",
+    "name": "Кенгурятник для Mercedes ML 350 Fly        ",
+    "server_id": 8257
+  },
+  {
+    "model_id": 12106,
+    "dff": "obj77_roverh_f",
+    "txd": "obj77",
+    "name": "Кенгурятник для Land Rover Fly",
+    "server_id": 8258
+  },
+  {
+    "model_id": 12099,
+    "dff": "obj77_mgtny25",
+    "txd": "obj77",
+    "name": "Кенгурятник для Maseratti Gran Turismo",
+    "server_id": 8259
+  },
+  {
+    "model_id": 12108,
+    "dff": "obj77_brbsgts",
+    "txd": "obj77",
+    "name": "Кенгурятник для BRABUS ROCKET GTS",
+    "server_id": 8260
+  },
+  {
+    "model_id": 12109,
+    "dff": "obj77_mmc20m",
+    "txd": "obj77",
+    "name": "Кенгурятник для Maseratti MC 20 Mansory",
+    "server_id": 8261
+  },
+  {
+    "model_id": 11780,
+    "dff": "obj77_shock",
+    "txd": "obj77",
+    "name": "Объект: Вырубленный Шито на стуле",
+    "server_id": 8283
+  },
+  {
+    "model_id": 11777,
+    "dff": "obj77_doktorfil",
+    "txd": "obj77",
+    "name": "Объект: Доктор Филькенштейн",
+    "server_id": 8284
+  },
+  {
+    "model_id": 11781,
+    "dff": "obj77_snake",
+    "txd": "obj77",
+    "name": "Объект: Змея (символ 2025)",
+    "server_id": 8285
+  },
+  {
+    "model_id": 12260,
+    "dff": "obj79_bonsai",
+    "txd": "obj79",
+    "name": "Объект: Дерево Бонсай",
+    "server_id": 9288
+  },
+  {
+    "model_id": 12261,
+    "dff": "obj79_bitcoin",
+    "txd": "obj79",
+    "name": "Объект: Стенд Биткоин        ",
+    "server_id": 8362
+  },
+  {
+    "model_id": 12262,
+    "dff": "obj79_alisa",
+    "txd": "obj79",
+    "name": "Объект: Колонка Алиса        ",
+    "server_id": 8363
+  },
+  {
+    "model_id": 12263,
+    "dff": "obj79_bamb",
+    "txd": "obj79",
+    "name": "Объект: Бамбуковые заросли",
+    "server_id": 8364
+  },
+  {
+    "model_id": 12264,
+    "dff": "obj79_gamepad",
+    "txd": "obj79",
+    "name": "Объект: Геймпад",
+    "server_id": 8365
+  },
+  {
+    "model_id": 12265,
+    "dff": "obj79_lamp",
+    "txd": "obj79",
+    "name": "Объект: Газоразрядный индикатор ИН-14",
+    "server_id": 8366
+  },
+  {
+    "model_id": 12266,
+    "dff": "obj79_academia",
+    "txd": "obj79",
+    "name": "Объект: Стенд Моя геройская академия",
+    "server_id": 8367
+  },
+  {
+    "model_id": 12267,
+    "dff": "obj79_mgold",
+    "txd": "obj79",
+    "name": "Объект: Гора золота",
+    "server_id": 8368
+  },
+  {
+    "model_id": 12268,
+    "dff": "obj79a_harecoin",
+    "txd": "obj79",
+    "name": "Объект: Монетный зайчик",
+    "server_id": 8369
+  },
+  {
+    "model_id": 12271,
+    "dff": "obj79a_pikachu",
+    "txd": "obj79",
+    "name": "Объект: Пикачу",
+    "server_id": 8370
+  },
+  {
+    "model_id": 12272,
+    "dff": "obj79a_tower",
+    "txd": "obj79",
+    "name": "Объект: Башня Clash Royale",
+    "server_id": 8371
+  },
+  {
+    "model_id": 12210,
+    "dff": "obj79_owl",
+    "txd": "obj79",
+    "name": "Объект: Пасхальная сова        ",
+    "server_id": 8372
+  },
+  {
+    "model_id": 12213,
+    "dff": "obj79_blackhare",
+    "txd": "obj79",
+    "name": "Объект: Пиксельный заяц",
+    "server_id": 8375
+  },
+  {
+    "model_id": 12214,
+    "dff": "obj79_box",
+    "txd": "obj79",
+    "name": "Объект: Сундук с кроликом",
+    "server_id": 8376
+  },
+  {
+    "model_id": 12216,
+    "dff": "obj79_rabbit",
+    "txd": "obj79",
+    "name": "Объект: Зайчик с морковкой",
+    "server_id": 8378
+  },
+  {
+    "model_id": 12220,
+    "dff": "obj79_s_pokemon",
+    "txd": "obj79",
+    "name": "Объект: Стенд покемонов",
+    "server_id": 8381
+  },
+  {
+    "model_id": 12222,
+    "dff": "obj79_doorsecurity",
+    "txd": "obj79",
+    "name": "Объект: Дверь с человеком",
+    "server_id": 8382
+  },
+  {
+    "model_id": 12225,
+    "dff": "obj79_nichosi",
+    "txd": "obj79",
+    "name": "Объект: Объект Ничоси",
+    "server_id": 8383
+  },
+  {
+    "model_id": 12226,
+    "dff": "obj79_charmander",
+    "txd": "obj79",
+    "name": "Объект: Покемон 1",
+    "server_id": 8384
+  },
+  {
+    "model_id": 12227,
+    "dff": "obj79_squirtle",
+    "txd": "obj79",
+    "name": "Объект: Покемон 2",
+    "server_id": 8385
+  },
+  {
+    "model_id": 12228,
+    "dff": "obj79_rookodile",
+    "txd": "obj79",
+    "name": "Объект: Покемон 3",
+    "server_id": 8386
+  },
+  {
+    "model_id": 12229,
+    "dff": "obj79_bulbasaur",
+    "txd": "obj79",
+    "name": "Объект: Покемон 4",
+    "server_id": 8387
+  },
+  {
+    "model_id": 12337,
+    "dff": "obj79_clashballoon",
+    "txd": "obj79",
+    "name": "Воздушный шар Clash Royale",
+    "server_id": 8449
+  },
+  {
+    "model_id": 12318,
+    "dff": "obj79_eairship",
+    "txd": "obj79",
+    "name": "Воздушный шар Дережабль",
+    "server_id": 8450
+  },
+  {
+    "model_id": 12233,
+    "dff": "obj79_bdora",
+    "txd": "obj79",
+    "name": "Воздушный шар Дора",
+    "server_id": 8451
+  },
+  {
+    "model_id": 12234,
+    "dff": "obj79_bhikka",
+    "txd": "obj79",
+    "name": "Воздушный шар Хикки",
+    "server_id": 8452
+  },
+  {
+    "model_id": 12221,
+    "dff": "obj79_airpokeball",
+    "txd": "obj79",
+    "name": "Воздушный шар Покеболл",
+    "server_id": 8453
+  },
+  {
+    "model_id": 12269,
+    "dff": "obj79a_fabergeeg",
+    "txd": "obj79",
+    "name": "Воздушный шар Фаберже",
+    "server_id": 8454
+  },
+  {
+    "model_id": 12270,
+    "dff": "obj79a_deadpool",
+    "txd": "obj79",
+    "name": "Воздушный шар Дэдпул",
+    "server_id": 8455
+  },
+  {
+    "model_id": 12236,
+    "dff": "obj79_chicken",
+    "txd": "obj79",
+    "name": "Курица на крышу [деталь тюнинга]",
+    "server_id": 8456
+  },
+  {
+    "model_id": 12237,
+    "dff": "obj79_ham",
+    "txd": "obj79",
+    "name": "Окорок на крышу [деталь тюнинга]",
+    "server_id": 8457
+  },
+  {
+    "model_id": 12238,
+    "dff": "obj79_banana",
+    "txd": "obj79",
+    "name": "Банан на крышу [деталь тюнинга]",
+    "server_id": 8458
+  },
+  {
+    "model_id": 12239,
+    "dff": "obj79_hotdog",
+    "txd": "obj79",
+    "name": "Хот-дог на крышу [деталь тюнинга]        ",
+    "server_id": 8459
+  },
+  {
+    "model_id": 12240,
+    "dff": "obj79_duck",
+    "txd": "obj79",
+    "name": "Резиновая уточка на крышу [деталь тюнинга]        ",
+    "server_id": 8460
+  },
+  {
+    "model_id": 12241,
+    "dff": "obj79_shuttle",
+    "txd": "obj79",
+    "name": "Шатл на крышу [деталь тюнинга]",
+    "server_id": 8461
+  },
+  {
+    "model_id": 12250,
+    "dff": "obj79_fish",
+    "txd": "obj79",
+    "name": "Шлакоблок на крышу [деталь тюнинга]",
+    "server_id": 8462
+  },
+  {
+    "model_id": 12251,
+    "dff": "obj79_cucumber",
+    "txd": "obj79",
+    "name": "Рик огурчик на крышу [деталь тюнинга]        ",
+    "server_id": 8463
+  },
+  {
+    "model_id": 12252,
+    "dff": "obj79_gold",
+    "txd": "obj79",
+    "name": "Гора золота на крышу [деталь тюнинга]        ",
+    "server_id": 8464
+  },
+  {
+    "model_id": 12253,
+    "dff": "obj79_tnt",
+    "txd": "obj79",
+    "name": "TNT на крышу [деталь тюнинга]",
+    "server_id": 8465
+  },
+  {
+    "model_id": 12254,
+    "dff": "obj79_suitcase",
+    "txd": "obj79",
+    "name": "Чемоданы на крышу [деталь тюнинга]",
+    "server_id": 8466
+  },
+  {
+    "model_id": 12255,
+    "dff": "obj79_container",
+    "txd": "obj79",
+    "name": "Контейнер на крышу [деталь тюнинга]        ",
+    "server_id": 8467
+  },
+  {
+    "model_id": 12257,
+    "dff": "obj79_pokeball",
+    "txd": "obj79",
+    "name": "Покеболл на крышу [деталь тюнинга]",
+    "server_id": 8468
+  },
+  {
+    "model_id": 12242,
+    "dff": "obj79_bariga",
+    "txd": "obj79",
+    "name": "LED-панель Барыга [деталь тюнинга]",
+    "server_id": 8469
+  },
+  {
+    "model_id": 12243,
+    "dff": "obj79_dolbit",
+    "txd": "obj79",
+    "name": "LED-панель Долбит [деталь тюнинга]        ",
+    "server_id": 8470
+  },
+  {
+    "model_id": 12244,
+    "dff": "obj79_mahin",
+    "txd": "obj79",
+    "name": "LED-панель Махинатор [деталь тюнинга]",
+    "server_id": 8471
+  },
+  {
+    "model_id": 12245,
+    "dff": "obj79_fire",
+    "txd": "obj79",
+    "name": "LED-панель Огонь [деталь тюнинга]        ",
+    "server_id": 8472
+  },
+  {
+    "model_id": 12246,
+    "dff": "obj79_fuck",
+    "txd": "obj79",
+    "name": "LED-панель Фак Ю [деталь тюнинга]",
+    "server_id": 8473
+  },
+  {
+    "model_id": 12247,
+    "dff": "obj79_farm",
+    "txd": "obj79",
+    "name": "LED-панель Фармлю [деталь тюнинга]        ",
+    "server_id": 8474
+  },
+  {
+    "model_id": 12248,
+    "dff": "obj79_skull",
+    "txd": "obj79",
+    "name": "LED-панель Череп [деталь тюнинга]",
+    "server_id": 8475
+  },
+  {
+    "model_id": 12249,
+    "dff": "obj79_ekwa",
+    "txd": "obj79",
+    "name": "LED-панель Эквалайзер [деталь тюнинга]        ",
+    "server_id": 8476
+  },
+  {
+    "model_id": 12256,
+    "dff": "obj79_rflasher",
+    "txd": "obj79",
+    "name": "Мигалка под радиатор [деталь тюнинга]        ",
+    "server_id": 8477
+  },
+  {
+    "model_id": 12258,
+    "dff": "obj79_flasher",
+    "txd": "obj79",
+    "name": "Проблесковый маячок [деталь тюнинга]",
+    "server_id": 8478
+  },
+  {
+    "model_id": 12259,
+    "dff": "obj79_spotlights",
+    "txd": "obj79",
+    "name": "Светодиодные прожекторы [деталь тюнинга]",
+    "server_id": 8479
+  },
+  {
+    "model_id": 12370,
+    "dff": "obj79_mclspeed",
+    "txd": "obj79",
+    "name": "Кенгурятник для McLaren Speedtail",
+    "server_id": 8490
+  },
+  {
+    "model_id": 12371,
+    "dff": "obj79_sf90",
+    "txd": "obj79",
+    "name": "Кенгурятник для Ferrari SF90 Stradale",
+    "server_id": 8491
+  },
+  {
+    "model_id": 12372,
+    "dff": "obj79_xpenght",
+    "txd": "obj79",
+    "name": "Кенгурятник для Xpeng Aero-Ht Evtol",
+    "server_id": 8492
+  },
+  {
+    "model_id": 12373,
+    "dff": "obj79_ducati1199",
+    "txd": "obj79",
+    "name": "Кенгурятник для Ducati Panigale 1199 R",
+    "server_id": 8493
+  },
+  {
+    "model_id": 12374,
+    "dff": "obj79_paz3205",
+    "txd": "obj79",
+    "name": "Кенгурятник для PAZ-3205",
+    "server_id": 8494
+  },
+  {
+    "model_id": 12375,
+    "dff": "obj79_vestas",
+    "txd": "obj79",
+    "name": "Кенгурятник для Lada Vesta Sport",
+    "server_id": 8495
+  },
+  {
+    "model_id": 12376,
+    "dff": "obj79_2107ofr",
+    "txd": "obj79",
+    "name": "Кенгурятник для 2107 4x4",
+    "server_id": 8496
+  },
+  {
+    "model_id": 12364,
+    "dff": "obj79_assback",
+    "txd": "obj79",
+    "name": "Задний отбойник Попка        ",
+    "server_id": 8497
+  },
+  {
+    "model_id": 12365,
+    "dff": "obj79_backgen",
+    "txd": "obj79",
+    "name": "Задний отбойник Генератор",
+    "server_id": 8498
+  },
+  {
+    "model_id": 12366,
+    "dff": "obj79_massiveface",
+    "txd": "obj79",
+    "name": "Передний отбойник Хамеллион",
+    "server_id": 8499
+  },
+  {
+    "model_id": 12367,
+    "dff": "obj79_pillowface",
+    "txd": "obj79",
+    "name": "Передний отбойник Подушки",
+    "server_id": 8500
+  },
+  {
+    "model_id": 12368,
+    "dff": "obj79_spback",
+    "txd": "obj79",
+    "name": "Задний отбойник Спойлер с закисью",
+    "server_id": 8501
+  },
+  {
+    "model_id": 12369,
+    "dff": "obj79_springface",
+    "txd": "obj79",
+    "name": "Передний отбойник Аварийная пружина",
+    "server_id": 8502
+  },
+  {
+    "model_id": 12230,
+    "dff": "obj79_banner",
+    "txd": "obj79",
+    "name": "Объект: Табличка блогера",
+    "server_id": 8505
+  },
+  {
+    "model_id": 12235,
+    "dff": "obj79_tube",
+    "txd": "obj79",
+    "name": "Объект: Стелла блогера",
+    "server_id": 8506
+  },
+  {
+    "model_id": 13959,
+    "dff": "obj81_cauldron",
+    "txd": "obj81",
+    "name": "Объект: Казан",
+    "server_id": 8590
+  },
+  {
+    "model_id": 13961,
+    "dff": "obj81_flowers",
+    "txd": "obj81",
+    "name": "Объект: Стол флориста        ",
+    "server_id": 8591
+  },
+  {
+    "model_id": 13962,
+    "dff": "obj81_golem",
+    "txd": "obj81",
+    "name": "Объект: Голем",
+    "server_id": 8592
+  },
+  {
+    "model_id": 13965,
+    "dff": "obj81_hydrant",
+    "txd": "obj81",
+    "name": "Объект: Гидрант        ",
+    "server_id": 8593
+  },
+  {
+    "model_id": 13969,
+    "dff": "obj81_scarecrow",
+    "txd": "obj81",
+    "name": "Объект: Пугало",
+    "server_id": 8594
+  },
+  {
+    "model_id": 13970,
+    "dff": "obj81_telephone",
+    "txd": "obj81",
+    "name": "Объект: Телефонная будка",
+    "server_id": 8595
+  },
+  {
+    "model_id": 13973,
+    "dff": "obj81_well",
+    "txd": "obj81",
+    "name": "Объект: Колодец",
+    "server_id": 8596
+  },
+  {
+    "model_id": 13974,
+    "dff": "obj81_wood",
+    "txd": "obj81",
+    "name": "Объект: Древесина",
+    "server_id": 8597
+  },
+  {
+    "model_id": 13987,
+    "dff": "obj81_alchemy",
+    "txd": "obj81",
+    "name": "Объект: Алхимический стол",
+    "server_id": 8598
+  },
+  {
+    "model_id": 13988,
+    "dff": "obj81_cavegame",
+    "txd": "obj81",
+    "name": "Объект: Игровой автомат        ",
+    "server_id": 8599
+  },
+  {
+    "model_id": 13989,
+    "dff": "obj81_treebench",
+    "txd": "obj81",
+    "name": "Объект: Сакура с лавкой",
+    "server_id": 8600
+  },
+  {
+    "model_id": 14030,
+    "dff": "obj81a_gameboy",
+    "txd": "obj81",
+    "name": "Объект: Геймбой        ",
+    "server_id": 8601
+  },
+  {
+    "model_id": 14041,
+    "dff": "obj81a_guardian",
+    "txd": "obj81",
+    "name": "Объект: Страж у дома",
+    "server_id": 8602
+  },
+  {
+    "model_id": 14044,
+    "dff": "obj81a_fish",
+    "txd": "obj81",
+    "name": "Объект: Рыбацкая лавка",
+    "server_id": 8603
+  },
+  {
+    "model_id": 14036,
+    "dff": "obj81_flwood",
+    "txd": "obj81",
+    "name": "Объект: Фонарики на столбе",
+    "server_id": 8604
+  },
+  {
+    "model_id": 14037,
+    "dff": "obj81_pixeas",
+    "txd": "obj81",
+    "name": "Объект: Стенд пасхи",
+    "server_id": 8605
+  },
+  {
+    "model_id": 14038,
+    "dff": "obj81_wally",
+    "txd": "obj81",
+    "name": "Объект: Валли",
+    "server_id": 8606
+  },
+  {
+    "model_id": 14076,
+    "dff": "obj81_bumpstop1",
+    "txd": "obj81",
+    "name": "Кенгурятник для Mercedes Benz G63 OW",
+    "server_id": 8646
+  },
+  {
+    "model_id": 14077,
+    "dff": "obj81_bumpstop2",
+    "txd": "obj81",
+    "name": "Кенгурятник для Tesla Cybertruck Mansory",
+    "server_id": 8647
+  },
+  {
+    "model_id": 14078,
+    "dff": "obj81_bumpstop3",
+    "txd": "obj81",
+    "name": "Кенгурятник для BMW X7 Lumma",
+    "server_id": 8648
+  },
+  {
+    "model_id": 14079,
+    "dff": "obj81_graffbar",
+    "txd": "obj81",
+    "name": "Кенгурятник для Koenigsegg Jesko",
+    "server_id": 8649
+  },
+  {
+    "model_id": 14080,
+    "dff": "obj81_ograffbar",
+    "txd": "obj81",
+    "name": "Кенгурятник для Koenigsegg One",
+    "server_id": 8650
+  },
+  {
+    "model_id": 14081,
+    "dff": "obj81_spider",
+    "txd": "obj81",
+    "name": "Кенгурятник для Bugatti Atlantic",
+    "server_id": 8651
+  },
+  {
+    "model_id": 14032,
+    "dff": "obj81_east_trail_1",
+    "txd": "obj81",
+    "name": "Пасхальный Трейлер 1",
+    "server_id": 8661
+  },
+  {
+    "model_id": 14033,
+    "dff": "obj81_east_trail_2",
+    "txd": "obj81",
+    "name": "Пасхальный Трейлер 2",
+    "server_id": 8662
+  },
+  {
+    "model_id": 14034,
+    "dff": "obj81_east_trail_3",
+    "txd": "obj81",
+    "name": "Пасхальный Трейлер 3",
+    "server_id": 8663
+  },
+  {
+    "model_id": 12027,
+    "dff": "obj85_brocket",
+    "txd": "obj85",
+    "name": "Воздушный шар Ракета",
+    "server_id": 8764
+  },
+  {
+    "model_id": 12028,
+    "dff": "obj85_sun",
+    "txd": "obj85",
+    "name": "Воздушный шар Гангстерское солнце",
+    "server_id": 8765
+  },
+  {
+    "model_id": 12064,
+    "dff": "obj85_barbecue",
+    "txd": "obj85",
+    "name": "Объект: Геттовская зона отдыха",
+    "server_id": 8803
+  },
+  {
+    "model_id": 12065,
+    "dff": "obj85_basketball",
+    "txd": "obj85",
+    "name": "Объект: Баскетбольное кольцо",
+    "server_id": 8804
+  },
+  {
+    "model_id": 12066,
+    "dff": "obj85_blockpillar",
+    "txd": "obj85",
+    "name": "Объект: Фонарь с граффити",
+    "server_id": 8805
+  },
+  {
+    "model_id": 12067,
+    "dff": "obj85_flowerbed",
+    "txd": "obj85",
+    "name": "Объект: Денежная клумба",
+    "server_id": 8806
+  },
+  {
+    "model_id": 12068,
+    "dff": "obj85_getosp",
+    "txd": "obj85",
+    "name": "Объект: Скейт-площадка",
+    "server_id": 8807
+  },
+  {
+    "model_id": 12069,
+    "dff": "obj85_ghettopool",
+    "txd": "obj85",
+    "name": "Объект: Бассейн с граффити",
+    "server_id": 8808
+  },
+  {
+    "model_id": 12077,
+    "dff": "obj85_ghettotv",
+    "txd": "obj85",
+    "name": "Объект: Телевизоры в граффити",
+    "server_id": 8809
+  },
+  {
+    "model_id": 12078,
+    "dff": "obj85_moneytree",
+    "txd": "obj85",
+    "name": "Объект: Денежный куст",
+    "server_id": 8810
+  },
+  {
+    "model_id": 12079,
+    "dff": "obj85_palm",
+    "txd": "obj85",
+    "name": "Объект: Денежная пальма",
+    "server_id": 8811
+  },
+  {
+    "model_id": 12080,
+    "dff": "obj85_shoppingcart",
+    "txd": "obj85",
+    "name": "Объект: Гетто-барбекю",
+    "server_id": 8812
+  },
+  {
+    "model_id": 12029,
+    "dff": "obj85_wan1",
+    "txd": "obj85",
+    "name": "Гетто Трейлер 1",
+    "server_id": 8836
+  },
+  {
+    "model_id": 12030,
+    "dff": "obj85_wan2",
+    "txd": "obj85",
+    "name": "Гетто Трейлер 2",
+    "server_id": 8837
+  },
+  {
+    "model_id": 12031,
+    "dff": "obj85_wan3",
+    "txd": "obj85",
+    "name": "Гетто Трейлер 3",
+    "server_id": 8838
+  },
+  {
+    "model_id": 12555,
+    "dff": "obj85_fangsbmp",
+    "txd": "obj85",
+    "name": "Кенгурятник для Volgatti",
+    "server_id": 8941
+  },
+  {
+    "model_id": 12554,
+    "dff": "obj85_trailbmp",
+    "txd": "vehicle",
+    "name": "Кенгурятник для Off-Road Buhanka",
+    "server_id": 8942
+  },
+  {
+    "model_id": 12553,
+    "dff": "obj85_ironclad",
+    "txd": "obj85",
+    "name": "Кенгурятник для Lamborghini Police UAE",
+    "server_id": 8943
+  },
+  {
+    "model_id": 12560,
+    "dff": "obj85_bkrr79",
+    "txd": "obj85",
+    "name": "Кенгурятник для Buick Rivera",
+    "server_id": 8975
+  },
+  {
+    "model_id": 12564,
+    "dff": "obj85_gnx",
+    "txd": "obj85",
+    "name": "Кенгурятник для Buick Regal Grand NGNX",
+    "server_id": 8976
+  },
+  {
+    "model_id": 12562,
+    "dff": "obj85_cdeville",
+    "txd": "obj85",
+    "name": "Кенгурятник для Cadillac De-Ville",
+    "server_id": 8977
+  },
+  {
+    "model_id": 12563,
+    "dff": "obj85_chevmc78",
+    "txd": "obj85",
+    "name": "Кенгурятник для Chevrolet Monte-Carlo",
+    "server_id": 8978
+  },
+  {
+    "model_id": 12561,
+    "dff": "obj85_cbelair57",
+    "txd": "obj85",
+    "name": "Кенгурятник для Chevrolet Bel-Air",
+    "server_id": 8979
+  },
+  {
+    "model_id": 12754,
+    "dff": "obj87_capsulepl",
+    "txd": "obj87",
+    "name": "Объект: Капсула с растением",
+    "server_id": 9022
+  },
+  {
+    "model_id": 12755,
+    "dff": "obj87a_robot",
+    "txd": "obj87",
+    "name": "Объект: Робот помощник",
+    "server_id": 9023
+  },
+  {
+    "model_id": 12756,
+    "dff": "obj87a_crystal",
+    "txd": "obj87",
+    "name": "Объект: Космические кристаллы",
+    "server_id": 9024
+  },
+  {
+    "model_id": 12757,
+    "dff": "obj87a_portal",
+    "txd": "obj87",
+    "name": "Объект: Космический портал",
+    "server_id": 9025
+  },
+  {
+    "model_id": 12758,
+    "dff": "obj87a_pearth",
+    "txd": "obj87",
+    "name": "Объект: Проектор земли",
+    "server_id": 9026
+  },
+  {
+    "model_id": 12759,
+    "dff": "obj87a_obelisk",
+    "txd": "obj87",
+    "name": "Объект: Обелиск\t",
+    "server_id": 9027
+  },
+  {
+    "model_id": 15546,
+    "dff": "obj87_mushrooms",
+    "txd": "obj87",
+    "name": "Объект: Грибница\t",
+    "server_id": 9028
+  },
+  {
+    "model_id": 15547,
+    "dff": "obj87_ramenobj",
+    "txd": "obj87",
+    "name": "Объект: Автомат с рамёном",
+    "server_id": 9029
+  },
+  {
+    "model_id": 15539,
+    "dff": "obj87_home_1",
+    "txd": "obj87",
+    "name": "Метка дома (занят)",
+    "server_id": null
+  },
+  {
+    "model_id": 15540,
+    "dff": "obj87_home_2",
+    "txd": "obj87",
+    "name": "Метка дома (свободен)",
+    "server_id": null
+  },
+  {
+    "model_id": 15650,
+    "dff": "obj87_home3",
+    "txd": "obj87",
+    "name": "Метка дома (аукцион)",
+    "server_id": null
+  },
+  {
+    "model_id": 15541,
+    "dff": "obj87_home_x2",
+    "txd": "obj87",
+    "name": "Метка x2 дома (занят)",
+    "server_id": null
+  },
+  {
+    "model_id": 15543,
+    "dff": "obj87_home4_x2",
+    "txd": "obj87",
+    "name": "Метка x2 дома (свободен)",
+    "server_id": null
+  },
+  {
+    "model_id": 15542,
+    "dff": "obj87_home3_x2",
+    "txd": "obj87",
+    "name": "Метка x2 дома (аукцион)",
+    "server_id": null
+  },
+  {
+    "model_id": 12761,
+    "dff": "obj87a_antenna",
+    "txd": "obj87",
+    "name": "Инопланетная антенна",
+    "server_id": 9065
+  },
+  {
+    "model_id": 15791,
+    "dff": "obj87_flybike",
+    "txd": "obj87",
+    "name": "Кенгурятник для Космический байк",
+    "server_id": 9151
+  },
+  {
+    "model_id": 15792,
+    "dff": "obj87_spcar4",
+    "txd": "obj87",
+    "name": "Кенгурятник для Аэродиномичный автомобиль",
+    "server_id": 9152
+  },
+  {
+    "model_id": 15793,
+    "dff": "obj87_am20k",
+    "txd": "obj87",
+    "name": "Кенгурятник для Trans-AM 20000",
+    "server_id": 9153
+  },
+  {
+    "model_id": 15794,
+    "dff": "obj87_nvisgt",
+    "txd": "obj87",
+    "name": "Кенгурятник для Nissan Skyline Vision GTR",
+    "server_id": 9154
+  },
+  {
+    "model_id": 15795,
+    "dff": "obj87_scifitruck",
+    "txd": "obj87",
+    "name": "Кенгурятник для Titan Macro 1390",
+    "server_id": 9155
+  },
+  {
+    "model_id": 15796,
+    "dff": "obj87_sf6k",
+    "txd": "obj87",
+    "name": "Кенгурятник для Hover Formula",
+    "server_id": 9156
+  },
+  {
+    "model_id": 15797,
+    "dff": "obj87_srttoma",
+    "txd": "obj87",
+    "name": "Кенгурятник для SRT Tomohawk",
+    "server_id": 9157
+  },
+  {
+    "model_id": 15798,
+    "dff": "obj87_volgsf",
+    "txd": "obj87",
+    "name": "Кенгурятник для Hover Volga",
+    "server_id": 9158
+  },
+  {
+    "model_id": 15544,
+    "dff": "obj87_btanos",
+    "txd": "obj87",
+    "name": "Багажник Таноса",
+    "server_id": 9162
+  },
+  {
+    "model_id": 15799,
+    "dff": "obj87_flunikesp",
+    "txd": "obj87",
+    "name": "Кенгурятник для Космический байк (доп)",
+    "server_id": null
+  },
+  {
+    "model_id": 15800,
+    "dff": "obj87_scifiufothrst",
+    "txd": "obj87",
+    "name": "Кенгурятник для Titan Macro 1390 (доп)",
+    "server_id": null
+  },
+  {
+    "model_id": 15801,
+    "dff": "obj87_sf6krhrst",
+    "txd": "obj87",
+    "name": "Кенгурятник для Hover Formula (доп)",
+    "server_id": null
+  },
+  {
+    "model_id": 15802,
+    "dff": "obj87_volgthrst",
+    "txd": "obj87",
+    "name": "Кенгурятник для Hover Volga (доп)",
+    "server_id": null
+  },
+  {
+    "model_id": 12690,
+    "dff": "obj89_bons",
+    "txd": "obj89",
+    "name": "Объект: Дерево Бонсай",
+    "server_id": 9288
+  },
+  {
+    "model_id": 12697,
+    "dff": "obj89_mimic",
+    "txd": "obj89",
+    "name": "Объект: Мимик",
+    "server_id": 9289
+  },
+  {
+    "model_id": 12698,
+    "dff": "obj89_st_book",
+    "txd": "obj89",
+    "name": "Объект: Магическая библиотека",
+    "server_id": 9290
+  },
+  {
+    "model_id": 12586,
+    "dff": "obj89_eyesauron",
+    "txd": "obj89",
+    "name": "Объект: Око Саурона",
+    "server_id": 9291
+  },
+  {
+    "model_id": 12581,
+    "dff": "obj89_furionshop",
+    "txd": "obj89",
+    "name": "Лавка Друида (открытая)",
+    "server_id": null
+  },
+  {
+    "model_id": 12580,
+    "dff": "obj89_gutsshop",
+    "txd": "obj89",
+    "name": "Лавка Черного мечника (открытая)",
+    "server_id": null
+  },
+  {
+    "model_id": 15504,
+    "dff": "obj89_lbsian",
+    "txd": "obj89",
+    "name": "Кенгурятник для Lamborghini Sian Advan",
+    "server_id": 9324
+  },
+  {
+    "model_id": 15505,
+    "dff": "obj89_hwfbed",
+    "txd": "obj89",
+    "name": "Кенгурятник для Advan Lambo",
+    "server_id": 9325
+  },
+  {
+    "model_id": 15506,
+    "dff": "obj89_ftwc",
+    "txd": "ftwc",
+    "name": "Кенгурятник для Scrapfang",
+    "server_id": 9326
+  },
+  {
+    "model_id": 15507,
+    "dff": "obj89_ff80",
+    "txd": "obj89",
+    "name": "Кенгурятник для Ferrari F80",
+    "server_id": 9327
+  },
+  {
+    "model_id": 15508,
+    "dff": "obj89_f150rmon",
+    "txd": "obj89",
+    "name": "Кенгурятник для Halloween Truck",
+    "server_id": 9328
+  },
+  {
+    "model_id": 14934,
+    "dff": "obj89_madgaz",
+    "txd": "obj89",
+    "name": "Кенгурятник для Безумная Газель",
+    "server_id": 9404
+  },
+  {
+    "model_id": 14937,
+    "dff": "obj89_lmzhw",
+    "txd": "obj89",
+    "name": "Кенгурятник для Death Limozeen",
+    "server_id": 9405
+  },
+  {
+    "model_id": 14936,
+    "dff": "obj89_hwbus",
+    "txd": "obj89",
+    "name": "Кенгурятник для Deadline Express",
+    "server_id": 9406
+  },
+  {
+    "model_id": 14933,
+    "dff": "obj89_frankym",
+    "txd": "obj89",
+    "name": "Кенгурятник для Такси Франкенштейна",
+    "server_id": 9408
+  },
+  {
+    "model_id": 15513,
+    "dff": "obj89_frankyt",
+    "txd": "obj89",
+    "name": "Кенгурятник для Такси Франкенштейна (доп)",
+    "server_id": null
+  },
+  {
+    "model_id": 14932,
+    "dff": "obj89_evil",
+    "txd": "obj89",
+    "name": "Кенгурятник для Такси Оборотня",
+    "server_id": 9409
+  },
+  {
+    "model_id": 15512,
+    "dff": "obj89_eviltwint",
+    "txd": "obj89",
+    "name": "Кенгурятник для Такси Оборотня (доп)",
+    "server_id": null
+  },
+  {
+    "model_id": 14931,
+    "dff": "obj89_bdelihw",
+    "txd": "obj89",
+    "name": "Кенгурятник для NecroVan Turbo",
+    "server_id": 9410
+  },
+  {
+    "model_id": 14935,
+    "dff": "obj89_giga",
+    "txd": "obj89",
+    "name": "Кенгурятник для Gigahorse Mad Max",
+    "server_id": 9407
+  },
+  {
+    "model_id": 14090,
+    "dff": "obj89a_mimik",
+    "txd": "obj89",
+    "name": "Объект: Мимик\t",
+    "server_id": 9411
+  },
+  {
+    "model_id": 14100,
+    "dff": "obj89a_ghost",
+    "txd": "obj89",
+    "name": "Объект: Призрак",
+    "server_id": 9412
+  },
+  {
+    "model_id": 14101,
+    "dff": "obj89a_skeletmage",
+    "txd": "obj89",
+    "name": "Объект: Чернокнижник\t",
+    "server_id": 9413
+  },
+  {
+    "model_id": 14102,
+    "dff": "obj89_ripskull",
+    "txd": "obj89",
+    "name": "Объект: Могила",
+    "server_id": 9414
+  },
+  {
+    "model_id": 14106,
+    "dff": "obj89_stump",
+    "txd": "obj89",
+    "name": "Объект: Пенёк",
+    "server_id": 9415
+  },
+  {
+    "model_id": 14107,
+    "dff": "obj89_stylzdpot",
+    "txd": "obj89",
+    "name": "Объект: Котелок с зельем",
+    "server_id": 9416
+  },
+  {
+    "model_id": 14108,
+    "dff": "obj89_coffin",
+    "txd": "obj89",
+    "name": "Объект: Гроб",
+    "server_id": 9417
+  }
+]
