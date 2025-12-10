@@ -545,4 +545,11 @@
     "name": "<unknow>",
     "server_id": null
   }
+  {
+    "model_id": 330,
+    "dff": "cellphone",
+    "txd": "cellphone",
+    "name": "Телефон",
+    "server_id": null
+  }
 ]
