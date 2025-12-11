@@ -675,7 +675,7 @@
     "model_id": 14175,
     "dff": "obj52_hutonlegs",
     "txd": "obj52",
-    "name": "Объект: Хижина на ножках        ",
+    "name": "Объект: Хижина на ножках",
     "server_id": 6469
   },
   {
@@ -3470,5 +3470,40 @@
     "txd": "obj89",
     "name": "Объект: Гроб",
     "server_id": 9417
-  }
+  },
+  {
+    "model_id": 14154,
+    "dff": "number_usa",
+    "txd": "item_number",
+    "name": "Номерной знак (USA)",
+    "server_id": 7034
+  },
+  {
+    "model_id": 14156,
+    "dff": "number_ru",
+    "txd": "item_number",
+    "name": "Номерной знак (RU)",
+    "server_id": 7034
+  },
+  {
+    "model_id": 14165,
+    "dff": "number_ua",
+    "txd": "item_number",
+    "name": "Номерной знак (UA)",
+    "server_id": 7034
+  },
+  {
+    "model_id": 14166,
+    "dff": "number_by",
+    "txd": "item_number",
+    "name": "Номерной знак (BY)",
+    "server_id": 7034
+  },
+  {
+    "model_id": 14167,
+    "dff": "number_kz",
+    "txd": "item_number",
+    "name": "Номерной знак (KZ)",
+    "server_id": 7034
+  },
 ]
