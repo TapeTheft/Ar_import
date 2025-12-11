@@ -551,5 +551,26 @@
     "txd": "cellphone",
     "name": "Телефон",
     "server_id": null
+  },
+  {
+    "model_id": 370,
+    "dff": "jetpack",
+    "txd": "jetpack",
+    "name": "Джетпак",
+    "server_id": null
+  },
+  {
+    "model_id": 371,
+    "dff": "gun_para",
+    "txd": "gun_para",
+    "name": "Парашют",
+    "server_id": null
+  },
+  {
+    "model_id": 373,
+    "dff": "armour",
+    "txd": "armour",
+    "name": "Бронежилет",
+    "server_id": null
   }
 ]
