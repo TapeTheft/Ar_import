@@ -7551,5 +7551,33 @@
     "txd": "ghos",
     "name": "Призрак",
     "server_id": 9522
+  },
+  {
+    "model_id": 15128,
+    "dff": "fol1",
+    "txd": "fol1",
+    "name": "T-60 Power Armor Base",
+    "server_id": 9533
+  },
+  {
+    "model_id": 15129,
+    "dff": "fol2",
+    "txd": "fol2",
+    "name": "T-60 Black Ops",
+    "server_id": 9534
+  },
+  {
+    "model_id": 15130,
+    "dff": "fol3",
+    "txd": "fol3",
+    "name": "T-60 Red Rocket",
+    "server_id": 9535
+  },
+  {
+    "model_id": 15131,
+    "dff": "glent2",
+    "txd": "glent2",
+    "name": "Глент",
+    "server_id": 9536
   }
 ]
