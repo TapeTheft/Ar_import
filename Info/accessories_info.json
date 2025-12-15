@@ -9924,5 +9924,40 @@
     "txd": "obj88",
     "name": "Ожерелье ведьмы (Легендарный)",
     "server_id": 9483
+  },
+  {
+    "model_id": 12488,
+    "dff": "obj88_headgl",
+    "txd": "obj88",
+    "name": "Маска Глента из Роблокса",
+    "server_id": 9542
+  },
+  {
+    "model_id": 12415,
+    "dff": "obj88_glentchain",
+    "txd": "obj88",
+    "name": "Цепь Глента",
+    "server_id": 9543
+  },
+  {
+    "model_id": 12412,
+    "dff": "obj88a_button_1",
+    "txd": "obj88",
+    "name": "Серебренная кнопка",
+    "server_id": 9544
+  },
+  {
+    "model_id": 12413,
+    "dff": "obj88a_button_2",
+    "txd": "obj88",
+    "name": "Золотая кнопка",
+    "server_id": 9545
+  },
+  {
+    "model_id": 12414,
+    "dff": "obj88a_button_3",
+    "txd": "obj88",
+    "name": "Бриллиантовая кнопка",
+    "server_id": 9546
   }
 ]
