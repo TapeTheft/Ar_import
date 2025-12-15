@@ -6235,5 +6235,12 @@
     "txd": "tronbike",
     "name": "Трон-байк",
     "server_id": 9315
+  },
+  {
+    "model_id": 15679,
+    "dff": "bmwi8glen",
+    "txd": "bmwi8",
+    "name": "BMW I8 Глента",
+    "server_id": 9547
   }
 ]
