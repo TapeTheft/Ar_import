@@ -8764,6 +8764,13 @@
     "server_id": 8763
   },
   {
+    "model_id": 12612,
+    "dff": "obj86a_suitcaselab",
+    "txd": "obj86",
+    "name": "Чемодан Лабубу",
+    "server_id": 8985
+  },
+  {
     "model_id": 12051,
     "dff": "obj84_chainsaw",
     "txd": "obj84",
