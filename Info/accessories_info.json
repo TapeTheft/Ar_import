@@ -4858,13 +4858,6 @@
     "server_id": 6871
   },
   {
-    "model_id": 11830,
-    "dff": "obj54_stick_diamond",
-    "txd": "obj54",
-    "name": "Анимированный крылья Diamond",
-    "server_id": 6872
-  },
-  {
     "model_id": 7408,
     "dff": "obj54_haishammer",
     "txd": "obj54",
@@ -5311,6 +5304,13 @@
     "txd": "obj54",
     "name": "Диамантовый посох",
     "server_id": 6936
+  },
+  {
+    "model_id": 11836,
+    "dff": "obj54_wings_diam",
+    "txd": "obj54",
+    "name": "Анимированный крылья Diamond",
+    "server_id": 6872
   },
   {
     "model_id": 24055,
