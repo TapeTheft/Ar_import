@@ -6608,6 +6608,13 @@
     "server_id": 7560
   },
   {
+    "model_id": 15600,
+    "dff": "obj68_stonewings",
+    "txd": "obj68",
+    "name": "Каменные крылья",
+    "server_id": 7707
+  },
+  {
     "model_id": 15602,
     "dff": "obj68_bbgun",
     "txd": "obj68",
