@@ -794,14 +794,14 @@
     "model_id": 14370,
     "dff": "obj54_kidbatut",
     "txd": "obj54_g",
-    "name": "Объект: Детский батут        ",
+    "name": "Объект: Детский батут",
     "server_id": 6939
   },
   {
     "model_id": 14371,
     "dff": "obj54_outdoorbar",
     "txd": "obj54_g",
-    "name": "Объект: Открытый бар        ",
+    "name": "Объект: Открытый бар",
     "server_id": 6940
   },
   {
@@ -1368,36 +1368,36 @@
     "model_id": 6274,
     "dff": "obj59_tentny",
     "txd": "obj59",
-    "name": "Новогодняя палатка        ",
+    "name": "Новогодняя палатка",
     "server_id": 7201
   },
   {
     "model_id": 6275,
     "dff": "obj58_lavkarick1",
     "txd": "obj58",
-    "name": "Переносной ларек Рика 1 (открыт)",
-    "server_id": null
+    "name": "Переносной ларек Рика 1 (развернута)",
+    "server_id": 7254
   },
   {
     "model_id": 6277,
     "dff": "obj58_lavkarick2",
     "txd": "obj58",
-    "name": "Переносной ларек Рика 2 (открыт)",
-    "server_id": null
+    "name": "Переносной ларек Рика 2 (развернута)",
+    "server_id": 7255
   },
   {
     "model_id": 6279,
     "dff": "obj58_lavkashrek1",
     "txd": "obj58",
-    "name": "Переносной ларек Шрека 1 (открыт)",
-    "server_id": null
+    "name": "Переносной ларек Шрека 1 (развернута)",
+    "server_id": 7256
   },
   {
     "model_id": 6540,
     "dff": "obj58_lavkashrek2",
     "txd": "obj58",
-    "name": "Переносной ларек Шрека 2 (открыт)",
-    "server_id": null
+    "name": "Переносной ларек Шрека 2 (развернута)",
+    "server_id": 7257
   },
   {
     "model_id": 6688,
@@ -1410,8 +1410,8 @@
     "model_id": 6726,
     "dff": "obj61_standdota",
     "txd": "obj60",
-    "name": "Элитная переносная лавка (открыт)",
-    "server_id": null
+    "name": "Элитная переносная лавка (развернута)",
+    "server_id": 7405
   },
   {
     "model_id": 12691,
@@ -1970,7 +1970,7 @@
     "model_id": 6740,
     "dff": "obj71_lc200_fbi",
     "txd": "vehicle",
-    "name": "Кенгурятник для Toyota LC 200 FBI        ",
+    "name": "Кенгурятник для Toyota LC 200 FBI",
     "server_id": 7922
   },
   {
@@ -1984,29 +1984,29 @@
     "model_id": 15353,
     "dff": "obj71a_blavka",
     "txd": "obj71",
-    "name": "Складная мусорная лавка (открыта)",
-    "server_id": null
+    "name": "Складная мусорная лавка (развернута)",
+    "server_id": 7845
   },
   {
     "model_id": 16876,
     "dff": "obj75_taverna",
     "txd": "obj75",
-    "name": "Складная магическая лавка (открыта)",
-    "server_id": null
+    "name": "Складная магическая лавка (развернута)",
+    "server_id": 8016
   },
   {
     "model_id": 16875,
     "dff": "obj75_workbench",
     "txd": "obj75",
-    "name": "Переносной верстак миража (открыт)",
-    "server_id": null
+    "name": "Переносной верстак миража (развернута)",
+    "server_id": 8017
   },
   {
     "model_id": 16877,
     "dff": "obj75_shop",
     "txd": "obj75",
-    "name": "Складная хэллоуинская лавка (открыта)",
-    "server_id": null
+    "name": "Складная хэллоуинская лавка (развернута)",
+    "server_id": 8018
   },
   {
     "model_id": 16923,
@@ -3314,15 +3314,15 @@
     "model_id": 12581,
     "dff": "obj89_furionshop",
     "txd": "obj89",
-    "name": "Лавка Друида (открытая)",
-    "server_id": null
+    "name": "Лавка Друида (развернута)",
+    "server_id": 9319
   },
   {
     "model_id": 12580,
     "dff": "obj89_gutsshop",
     "txd": "obj89",
-    "name": "Лавка Черного мечника (открытая)",
-    "server_id": null
+    "name": "Лавка Черного мечника (развернута)",
+    "server_id": 9320
   },
   {
     "model_id": 15504,
@@ -3505,5 +3505,12 @@
     "txd": "item_number",
     "name": "Номерной знак (KZ)",
     "server_id": 7034
+  },
+  {
+    "model_id": 15766,
+    "dff": "obj91_novlavk",
+    "txd": "obj91",
+    "name": "Лавка Чубрика (развернута)",
+    "server_id": 9648
   }
 ]
