@@ -6242,5 +6242,61 @@
     "txd": "bmwi8",
     "name": "BMW I8 Глента",
     "server_id": 9547
+  },
+  {
+    "model_id": 14968,
+    "dff": "shorty",
+    "txd": "shorty",
+    "name": "Shorty",
+    "server_id": 9664
+  },
+  {
+    "model_id": 15807,
+    "dff": "snowkad",
+    "txd": "snowkad",
+    "name": "Сани",
+    "server_id": 9665
+  },
+  {
+    "model_id": 14111,
+    "dff": "sleighezch",
+    "txd": "sleighezch",
+    "name": "BMW волшебника 2026",
+    "server_id": 9666
+  },
+  {
+    "model_id": 15765,
+    "dff": "uralnewyear",
+    "txd": "uralnewyear",
+    "name": "ЧубВоз 26",
+    "server_id": 9707
+  },
+  {
+    "model_id": 14923,
+    "dff": "furat1",
+    "txd": "furat1",
+    "name": "Фура Зверя Tier 1",
+    "server_id": 9707
+  },
+  {
+    "model_id": 14943,
+    "dff": "furat2",
+    "txd": "furat2",
+    "name": "Фура Зверя Tier 2",
+    "server_id": 9732
+  },
+  {
+    "model_id": 14921,
+    "dff": "airsht1",
+    "txd": "airsht1",
+    "name": "Дирижабль Магната Tier 1",
+    "server_id": 9734
+  },
+  {
+    "model_id": 14922,
+    "dff": "airsht2",
+    "txd": "airsht2",
+    "name": "Дирижабль Магната Tier 2",
+    "server_id": 9735
   }
 ]
