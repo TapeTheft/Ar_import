@@ -10398,14 +10398,14 @@
     "model_id": 14955,
     "dff": "obj90_zicon",
     "txd": "obj90",
-    "name": "Жетон полиции зверополиса (Хлам)",
+    "name": "Жетон полиции зверополиса",
     "server_id": 9643
   },
   {
     "model_id": 14941,
     "dff": "obj90_micro",
     "txd": "obj90",
-    "name": "Диктофон Джуди (Хлам)",
+    "name": "Диктофон Джуди",
     "server_id": 9644
   },
   {
@@ -10484,5 +10484,33 @@
     "txd": "obj90",
     "name": "Сноуборд Протокола",
     "server_id": 9655
+  },
+  {
+    "model_id": 14920,
+    "dff": "obj90_moroz",
+    "txd": "obj90",
+    "name": "Мороз на спину",
+    "server_id": 9672
+  },
+  {
+    "model_id": 14921,
+    "dff": "obj90_bob",
+    "txd": "obj90",
+    "name": "Чубрик на спину",
+    "server_id": 9673
+  },
+  {
+    "model_id": 14232,
+    "dff": "obj90_zsnake",
+    "txd": "obj90",
+    "name": "Гари Помощник (Хлам)",
+    "server_id": 9676
+  },
+  {
+    "model_id": 14231,
+    "dff": "obj90a_chrcar",
+    "txd": "obj91",
+    "name": "Карета(вокруг персонажа)",
+    "server_id": 9677
   }
 ]
