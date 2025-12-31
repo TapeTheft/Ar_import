@@ -7579,5 +7579,54 @@
     "txd": "glent2",
     "name": "Глент",
     "server_id": 9536
+  },
+  {
+    "model_id": 14986,
+    "dff": "friren",
+    "txd": "friren",
+    "name": "Фрирен",
+    "server_id": 9548
+  },
+  {
+    "model_id": 14987,
+    "dff": "itpedia",
+    "txd": "itpedia",
+    "name": "Молодой лесоруб",
+    "server_id": 9549
+  },
+  {
+    "model_id": 15644,
+    "dff": "leps",
+    "txd": "leps",
+    "name": "Лепс",
+    "server_id": 9550
+  },
+  {
+    "model_id": 15645,
+    "dff": "kirkov",
+    "txd": "kirkov",
+    "name": "Новогодний Филип",
+    "server_id": 9551
+  },
+  {
+    "model_id": 15775,
+    "dff": "verka",
+    "txd": "verka",
+    "name": "Верка Сердючка",
+    "server_id": 9552
+  },  
+  {
+    "model_id": 15789,
+    "dff": "bojack",
+    "txd": "bojack",
+    "name": "Боджек",
+    "server_id": 9553
+  },
+  {
+    "model_id": 15790,
+    "dff": "viking",
+    "txd": "viking",
+    "name": "Викинг",
+    "server_id": 9554
   }
 ]
