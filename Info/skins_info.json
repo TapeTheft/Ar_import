@@ -7628,5 +7628,68 @@
     "txd": "viking",
     "name": "Викинг",
     "server_id": 9554
+  },
+  {
+    "model_id": 14043,
+    "dff": "bob1",
+    "txd": "bob1",
+    "name": "Чубрик",
+    "server_id": 9667
+  },
+  {
+    "model_id": 14088,
+    "dff": "moroz",
+    "txd": "moroz",
+    "name": "Дед Мороз",
+    "server_id": 9668
+  },
+  {
+    "model_id": 14089,
+    "dff": "moroz2",
+    "txd": "moroz2",
+    "name": "Эльф",
+    "server_id": 9669
+  },
+  {
+    "model_id": 16854,
+    "dff": "judy1",
+    "txd": "judy1",
+    "name": "Джуди",
+    "server_id": 9670
+  },
+  {
+    "model_id": 12415,
+    "dff": "fox2",
+    "txd": "fox2",
+    "name": "Ник",
+    "server_id": 9671
+  },
+  {
+    "model_id": 14938,
+    "dff": "kalkin",
+    "txd": "kalkin",
+    "name": "Киран Калкин",
+    "server_id": 9674
+  },
+  {
+    "model_id": 14939,
+    "dff": "roblox",
+    "txd": "roblox",
+    "name": "Заблокированный Роблокс",
+    "server_id": 9675
+  },
+  {
+    "model_id": 15774,
+    "dff": "judy2",
+    "txd": "judy2",
+    "name": "Джуди Police",
+    "server_id": 9685
+  },
+  {
+    "model_id": 16853,
+    "dff": "fox1",
+    "txd": "fox1",
+    "name": "Ник Police",
+    "server_id": 9686
   }
 ]
