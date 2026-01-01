@@ -3514,10 +3514,59 @@
     "server_id": 9648
   },
   {
+    "model_id": 12527,
+    "dff": "ny_log_fir1",
+    "txd": "ny_2026",
+    "name": "Объект: Мультяшная ёлка 1",
+    "server_id": 9656
+  },
+  {
+    "model_id": 12528,
+    "dff": "ny_log_fir2",
+    "txd": "ny_2026",
+    "name": "Объект: Мультяшная ёлка 2",
+    "server_id": 9657
+  },
+  {
+    "model_id": 12587,
+    "dff": "ny_ice_fount",
+    "txd": "ny_2026",
+    "name": "Объект: Новогодний кристалл",
+    "server_id": 9658
+  },
+  {
+    "model_id": 12585,
+    "dff": "ny_ice_decor2",
+    "txd": "ny_2026",
+    "name": "Объект: Стенд со снежинками",
+    "server_id": 9659
+  },
+  {
     "model_id": 15776,
     "dff": "ny_japan_pillar",
     "txd": "ny_2026",
     "name": "Объект: Новогодний фонарь",
     "server_id": 9660
+  },
+  {
+    "model_id": 12619,
+    "dff": "ny_ice_snowmen",
+    "txd": "ny_2026",
+    "name": "Объект: Снеговик",
+    "server_id": 9661
+  },
+  {
+    "model_id": 12591,
+    "dff": "ny_ice_mushroom",
+    "txd": "ny_2026",
+    "name": "Объект: Морозный гриб",
+    "server_id": 9662
+  },
+  {
+    "model_id": 12588,
+    "dff": "y_ice_gate3",
+    "txd": "ny_2026",
+    "name": "Объект: Морозные врата",
+    "server_id": 9663
   }
 ]
