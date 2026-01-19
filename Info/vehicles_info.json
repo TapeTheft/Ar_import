@@ -6286,6 +6286,13 @@
     "server_id": 9732
   },
   {
+    "model_id": 9196,
+    "dff": "furat3",
+    "txd": "furat3",
+    "name": "Фура Зверя Tier 3",
+    "server_id": 9733
+  },
+  {
     "model_id": 14921,
     "dff": "airsht1",
     "txd": "airsht1",
@@ -6298,5 +6305,33 @@
     "txd": "airsht2",
     "name": "Дирижабль Магната Tier 2",
     "server_id": 9735
+  },
+  {
+    "model_id": 9200,
+    "dff": "airsht3",
+    "txd": "airsht3",
+    "name": "Дирижабль Магната Tier 3",
+    "server_id": 9736
+  },
+  {
+    "model_id": 14942,
+    "dff": "ftrailert1",
+    "txd": "ftrailert1",
+    "name": "Прицеп Фура Зверя Tier 1",
+    "server_id": null
+  },
+  {
+    "model_id": 14944,
+    "dff": "ftrailert2",
+    "txd": "ftrailert2",
+    "name": "Прицеп Фура Зверя Tier 2",
+    "server_id": null
+  },
+  {
+    "model_id": 9197,
+    "dff": "ftrailert3",
+    "txd": "ftrailert3",
+    "name": "Прицеп Фура Зверя Tier 3",
+    "server_id": null
   }
 ]
