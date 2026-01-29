@@ -10512,5 +10512,19 @@
     "txd": "obj91",
     "name": "Карета(вокруг персонажа)",
     "server_id": 9677
+  },
+  {
+    "model_id": 6821,
+    "dff": "obj90_faxe",
+    "txd": "obj90",
+    "name": "Огненный топор",
+    "server_id": 9777
+  },
+  {
+    "model_id": 6820,
+    "dff": "obj90a_gdnsaw",
+    "txd": "obj90",
+    "name": "Бензопила",
+    "server_id": 9778
   }
 ]
