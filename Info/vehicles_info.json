@@ -6333,5 +6333,19 @@
     "txd": "ftrailert3",
     "name": "Прицеп Фура Зверя Tier 3",
     "server_id": null
+  },
+  {
+    "model_id": 14954,
+    "dff": "mcl570stun",
+    "txd": "mcl570stun",
+    "name": "Mclaren 570s Carbon",
+    "server_id": 9772
+  },
+  {
+    "model_id": 15514,
+    "dff": "bmwg90n",
+    "txd": "bmwg90n",
+    "name": "BMW M5 G90 2k26",
+    "server_id": 9790	
   }
 ]
