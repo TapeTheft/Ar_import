@@ -3568,5 +3568,40 @@
     "txd": "ny_2026",
     "name": "Объект: Морозные врата",
     "server_id": 9663
+  },
+  {
+    "model_id": 14112,
+    "dff": "obj91_furat1",
+    "txd": "obj91",
+    "name": "Кенгурятник для Фура Зверя Tier 1",
+    "server_id": 9721
+  },
+  {
+    "model_id": 14113,
+    "dff": "obj91_furat2",
+    "txd": "obj91",
+    "name": "Кенгурятник для Фура Зверя Tier 2",
+    "server_id": 9722
+  },
+  {
+    "model_id": 9198,
+    "dff": "obj91_furat3",
+    "txd": "obj91",
+    "name": "Кенгурятник для Фура Зверя Tier 3",
+    "server_id": 9723
+  },
+  {
+    "model_id": 9479,
+    "dff": "obj91_sleighezch",
+    "txd": "obj91",
+    "name": "Кенгурятник для BMW волшебника 2026",
+    "server_id": 9729
+  },
+  {
+    "model_id": 9480,
+    "dff": "obj91_uralnewyear",
+    "txd": "obj91",
+    "name": "Кенгурятник для ЧубВоз 26",
+    "server_id": 9730
   }
 ]
