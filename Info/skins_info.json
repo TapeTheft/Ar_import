@@ -7697,14 +7697,14 @@
     "dff": "canae",
     "txd": "canae",
     "name": "Каноне",
-    "server_id": null
+    "server_id": 9775
   },
   {
     "model_id": 14926,
     "dff": "stark",
     "txd": "stark",
     "name": "Старк",
-    "server_id": null
+    "server_id": 9776
   },
   {
     "model_id": 9202,
