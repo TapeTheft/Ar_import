@@ -10526,5 +10526,12 @@
     "txd": "obj90",
     "name": "Бензопила",
     "server_id": 9778
+  },
+  {
+    "model_id": 6822,
+    "dff": "obj90_leggrabli",
+    "txd": "obj90",
+    "name": "Грабли Аризоны",
+    "server_id": 9763
   }
 ]
