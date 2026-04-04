@@ -10200,7 +10200,7 @@
   },
   {
     "model_id": 14951,
-    "dff": "obj90_fmimic3",
+    "dff": "obj90a_fmimic3", "obj90_fmimic3",
     "txd": "obj90",
     "name": "Мимик Фрирен (Легендарный)",
     "server_id": 9587
