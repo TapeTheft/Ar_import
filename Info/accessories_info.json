@@ -1572,7 +1572,7 @@
     "dff": "Money",
     "txd": "dyn_cash",
     "name": "Переносной ларек (3)",
-    "server_id": 749
+    "server_id": 750
   },
   {
     "model_id": 19079,
@@ -2362,7 +2362,7 @@
   {
     "comment": "custom_acs"
   },
-  
+
   {
     "model_id": 5381,
     "dff": "obj6_watch_1",
