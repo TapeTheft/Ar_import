@@ -89,7 +89,7 @@
     "txd": "MatWatches",
     "name": "Часы",
     "server_id": 11
-   },
+  },
   {
     "model_id": 19053,
     "dff": "WatchType15",
@@ -332,14 +332,14 @@
     "model_id": 19068,
     "dff": "HoodyHat2",
     "txd": "HoodyHats",
-    "name": "Шапка",
+    "name": "Шапка, Сумка-барыжка белая с узорами",
     "server_id": 46
   },
   {
     "model_id": 19067,
     "dff": "HoodyHat1",
     "txd": "HoodyHats",
-    "name": "Шапка",
+    "name": "Шапка, Сумка-барыжка чёрно-красная",
     "server_id": 47
   },
   {
@@ -619,7 +619,7 @@
     "model_id": 19274,
     "dff": "Hair5",
     "txd": "wmoice",
-    "name": "Парик",
+    "name": "Парик, Борода (оранжевые)",
     "server_id": 87
   },
   {
@@ -1158,7 +1158,7 @@
     "model_id": 6865,
     "dff": "steerskull",
     "txd": "vgndwntwn23",
-    "name": "Маска быка",
+    "name": "Маска быка, Череп",
     "server_id": 166
   },
   {
@@ -1298,14 +1298,14 @@
     "model_id": 18645,
     "dff": "MotorcycleHelmet1",
     "txd": "MatClothes",
-    "name": "Мотошлем (красно-белый)",
+    "name": "Мотошлем (красно-белый), Сумка-барыжка бело-красная",
     "server_id": 506
   },
   {
     "model_id": 18977,
     "dff": "MotorcycleHelmet3",
     "txd": "MatClothes",
-    "name": "Мотошлем (красный)",
+    "name": "Мотошлем (красный), Сумка-барыжка красная",
     "server_id": 507
   },
   {
@@ -1319,7 +1319,7 @@
     "model_id": 18979,
     "dff": "MotorcycleHelmet5",
     "txd": "MatClothes",
-    "name": "Мотошлем (фиолетовый)",
+    "name": "Мотошлем (фиолетовый), Сумка-барыжка фиолетовая",
     "server_id": 509
   },
   {
@@ -1624,13 +1624,6 @@
     "server_id": 789
   },
   {
-    "model_id": 19274,
-    "dff": "Hair5",
-    "txd": "wmoice",
-    "name": "Борода (оранжевые)",
-    "server_id": 787
-  },
-  {
     "model_id": 341,
     "dff": "chnsaw",
     "txd": "chnsaw",
@@ -1754,7 +1747,7 @@
     "dff": "des_cockbody",
     "txd": "desn2_peckers",
     "name": "Петух на плечо",
-    "server_id": 	1071
+    "server_id": 1071
   },
   {
     "model_id": 362,
@@ -1858,7 +1851,7 @@
     "model_id": 19627,
     "dff": "Wrench1",
     "txd": "Wrench1",
-    "name": "Гаечный ключ на грудь",
+    "name": "Гаечный ключ на грудь, Пика для ловли рыбы",
     "server_id": 1165
   },
   {
@@ -2044,53 +2037,11 @@
     "server_id": 1408
   },
   {
-    "model_id": 19067,
-    "dff": "HoodyHat1",
-    "txd": "HoodyHats",
-    "name": "Сумка-барыжка чёрно-красная",
-    "server_id": 1410
-  },
-  {
-    "model_id": 18645,
-    "dff": "MotorcycleHelmet1",
-    "txd": "MatClothes",
-    "name": "Сумка-барыжка бело-красная",
-    "server_id": 1411
-  },
-  {
-    "model_id": 18979,
-    "dff": "MotorcycleHelmet5",
-    "txd": "MatClothes",
-    "name": "Сумка-барыжка фиолетовая",
-    "server_id": 1412
-  },
-  {
-    "model_id": 18977,
-    "dff": "MotorcycleHelmet3",
-    "txd": "MatClothes",
-    "name": "Сумка-барыжка красная",
-    "server_id": 1413
-  },
-  {
-    "model_id": 19068,
-    "dff": "HoodyHat2",
-    "txd": "HoodyHats",
-    "name": "Сумка-барыжка белая с узорами",
-    "server_id": 1414
-  },
-  {
     "model_id": 18976,
     "dff": "MotorcycleHelmet2",
     "txd": "MatClothes",
     "name": "Сумка-барыжка синяя",
     "server_id": 1415
-  },
-  {
-    "model_id": 6865,
-    "dff": "steerskull",
-    "txd": "vgndwntwn23",
-    "name": "Череп",
-    "server_id": 1439
   },
   {
     "model_id": 2810,
@@ -2126,13 +2077,6 @@
     "txd": "CSHandcuffs1",
     "name": "Лётный ранец, Подводная маска",
     "server_id": 1479
-  },
-  {
-    "model_id": 19627,
-    "dff": "Wrench1",
-    "txd": "Wrench1",
-    "name": "Пика для ловли рыбы",
-    "server_id": 1480
   },
   {
     "model_id": 18875,
@@ -2320,7 +2264,7 @@
     "model_id": 14527,
     "dff": "fannyfan",
     "txd": "sweetslites",
-    "name": "Рюкзак Мотор",
+    "name": "Крылья Стрекозы",
     "server_id": 1508
   },
   {
@@ -2341,7 +2285,7 @@
     "model_id": 2064,
     "dff": "CJ_FEILDGUN",
     "txd": "CJ_AMMO",
-    "name": "Корона",
+    "name": "Крылья зеленые",
     "server_id": 1510
   },
   {
@@ -5343,7 +5287,7 @@
     "dff": "obj43_wings_1",
     "txd": "obj43",
     "name": "Крылья Купидона",
-    "server_id": 5057
+    "server_id": 6132
   },
   {
     "model_id": 18111,
@@ -5640,27 +5584,6 @@
     "server_id": 6307
   },
   {
-    "model_id": 15454,
-    "dff": "obj51_bmo",
-    "txd": "obj51",
-    "name": "БиМО",
-    "server_id": 6305
-  },
-  {
-    "model_id": 15457,
-    "dff": "obj51_bp_owl",
-    "txd": "obj51",
-    "name": "Рюкзак «Сова»",
-    "server_id": 6306
-  },
-  {
-    "model_id": 15553,
-    "dff": "obj51_bp_shark",
-    "txd": "obj51",
-    "name": "Рюкзак «Акула»",
-    "server_id": 6307
-  },
-  {
     "model_id": 15556,
     "dff": "obj51_capacc4",
     "txd": "obj51",
@@ -5778,20 +5701,6 @@
     "txd": "obj51",
     "name": "Табличка «Фрапс пишется»",
     "server_id": 6324
-  },
-  {
-    "model_id": 15579,
-    "dff": "obj51_pepe",
-    "txd": "obj51",
-    "name": "Грустный Пепе",
-    "server_id": 6325
-  },
-  {
-    "model_id": 15580,
-    "dff": "obj51_pepe2",
-    "txd": "obj51",
-    "name": "Веселый Пепе",
-    "server_id": 6326
   },
   {
     "model_id": 15579,
@@ -7009,7 +6918,7 @@
     "dff": "obj54_daftpunk",
     "txd": "obj54",
     "name": "Шлем 'Daft Punk'",
-    "server_id": 3499
+    "server_id": 6841
   },
   {
     "model_id": 11866,
@@ -8993,13 +8902,6 @@
     "server_id": 7706
   },
   {
-    "model_id": 15580,
-    "dff": "obj68_axesummer",
-    "txd": "obj68",
-    "name": "Каменные крылья",
-    "server_id": 7707
-  },
-  {
     "model_id": 15601,
     "dff": "obj68_robot",
     "txd": "obj67",
@@ -9897,7 +9799,7 @@
   },
   {
     "model_id": 6797,
-    "dff": "obj76_aegis1",
+    "dff": "obj76_aegis",
     "txd": "obj76",
     "name": "Аегис",
     "server_id": 8150
@@ -10317,7 +10219,7 @@
   },
   {
     "model_id": 12301,
-    "dff": "obj78_glassest",
+    "dff": "obj78_glasses",
     "txd": "obj78",
     "name": "Очки на лоб",
     "server_id": 8416
@@ -10621,7 +10523,7 @@
     "dff": "obj80_darkmask",
     "txd": "obj80",
     "name": "Маска дракона",
-    "server_id": 4790
+    "server_id": 8571
   },
   {
     "model_id": 13992,
