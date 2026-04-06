@@ -1,5 +1,12 @@
 [
   {
+    "model_id": 19039,
+    "dff": "WatchType1",
+    "txd": "MatWatches",
+    "name": "Часы",
+    "server_id": 1
+  },
+  {
     "model_id": 5381,
     "dff": "obj6_watch_1",
     "txd": "acsar_tx",
