@@ -1519,41 +1519,6 @@
     "server_id": 740
   },
   {
-    "model_id": 441,
-    "dff": "rcbandit",
-    "txd": "rcbandit",
-    "name": "Машинка на радиоуправлении",
-    "server_id": 743
-  },
-  {
-    "model_id": 464,
-    "dff": "rcbaron",
-    "txd": "rcbaron",
-    "name": "Машинка на радиоуправлении",
-    "server_id": 744
-  },
-  {
-    "model_id": 465,
-    "dff": "rcraider",
-    "txd": "rcraider",
-    "name": "Вертолёт на радиоуправлении (1)",
-    "server_id": 745
-  },
-  {
-    "model_id": 501,
-    "dff": "rcgoblin",
-    "txd": "rcgoblin",
-    "name": "Вертолёт на радиоуправлении (2)",
-    "server_id": 746
-  },
-  {
-    "model_id": 564,
-    "dff": "rctiger",
-    "txd": "rctiger",
-    "name": "Танк на радиоуправлении",
-    "server_id": 747
-  },
-  {
     "model_id": 1575,
     "dff": "drug_white",
     "txd": "drug_white",
@@ -1578,7 +1543,7 @@
     "model_id": 19079,
     "dff": "TheParrot2",
     "txd": "TheParrot",
-    "name": "Попугай на плечо",
+    "name": "Попугай на плечо, Костюм попугая",
     "server_id": 751
   },
   {
