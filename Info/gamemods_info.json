@@ -3659,5 +3659,271 @@
     "txd": "ny_2026",
     "name": "Объект: Морозные врата",
     "server_id": 9663
+  },
+  {
+    "model_id": 11800,
+    "dff": "little_house_warm",
+    "txd": "little_house",
+    "name": "Объект: Теплица",
+    "server_id": 9798
+  },
+  {
+    "model_id": 11806,
+    "dff": "little_house_data",
+    "txd": "little_house",
+    "name": "Объект: Магический дата центр",
+    "server_id": 9799
+  },
+  {
+    "model_id": 11794,
+    "dff": "little_house_barn",
+    "txd": "little_house",
+    "name": "Объект: Домашний склад",
+    "server_id": 9800
+  },
+  {
+    "model_id": 12620,
+    "dff": "obj93_froman",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Roma Spider (перед.)",
+    "server_id": 9963
+  },
+  {
+    "model_id": 12591,
+    "dff": "obj93_f12c",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник 12CILINDRI (перед.)",
+    "server_id": 9964
+  },
+  {
+    "model_id": 12619,
+    "dff": "obj93_fporto",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Portofino (перед.)",
+    "server_id": 9965
+  },
+  {
+    "model_id": 12772,
+    "dff": "obj93_patrio_otb2_f",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Commander (перед.)",
+    "server_id": 9966
+  },
+  {
+    "model_id": 12773,
+    "dff": "obj93_patrio_otb2_r",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Commander (зад.)",
+    "server_id": 9967
+  },
+  {
+    "model_id": 12679,
+    "dff": "obj93_patrio_otb1_f",
+    "txd": "vehicle",
+    "name": "Армейский кенгурятник Hallbruck Commander (перед.)",
+    "server_id": 9968
+  },
+  {
+    "model_id": 12771,
+    "dff": "obj93_patrio_otb1_r",
+    "txd": "vehicle",
+    "name": "Армейский кенгурятник Hallbruck Commander (зад.)",
+    "server_id": 9969
+  },
+  {
+    "model_id": 13933,
+    "dff": "obj93_tahoest_otb3f",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Monolith (перед.)",
+    "server_id": 9970
+  },
+  {
+    "model_id": 13976,
+    "dff": "obj93_tahoest_otb3r",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Monolith (зад.)",
+    "server_id": 9971
+  },
+  {
+    "model_id": 13926,
+    "dff": "obj93_tahoest_otb1f",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Hallbruck Monolith (перед.)",
+    "server_id": 9972
+  },
+  {
+    "model_id": 13927,
+    "dff": "obj93_tahoest_otb1r",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Hallbruck Monolith (зад.)",
+    "server_id": 9973
+  },
+  {
+    "model_id": 13929,
+    "dff": "obj93_tahoest_otb2f",
+    "txd": "vehicle",
+    "name": "Фбровский кенгурятник Hallbruck Monolith (перед.)",
+    "server_id": 9974
+  },
+  {
+    "model_id": 13930,
+    "dff": "obj93_tahoest_otb2r",
+    "txd": "vehicle",
+    "name": "Фбровский кенгурятник Hallbruck Monolith (зад.)",
+    "server_id": 9975
+  },
+  {
+    "model_id": 12583,
+    "dff": "obj93_charsrt_otb3f",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Redline (перед.)",
+    "server_id": 9976
+  },
+  {
+    "model_id": 12585,
+    "dff": "obj93_charsrt_otb3r",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Redline (зад.)",
+    "server_id": 9977
+  },
+  {
+    "model_id": 12570,
+    "dff": "obj93_charsrt_otb1f",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Hallbruck Redline (перед.)",
+    "server_id": 9978
+  },
+  {
+    "model_id": 12571,
+    "dff": "obj93_charsrt_otb1r",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Hallbruck Redline (зад.)",
+    "server_id": 9979
+  },
+  {
+    "model_id": 12574,
+    "dff": "obj93_charsrt_otb2f",
+    "txd": "vehicle",
+    "name": "Фбр кенгурятник Hallbruck Redline (перед.)",
+    "server_id": 9980
+  },
+  {
+    "model_id": 12582,
+    "dff": "obj93_charsrt_otb2r",
+    "txd": "vehicle",
+    "name": "Фбр кенгурятник Hallbruck Redline (зад.)",
+    "server_id": 9981
+  },
+  {
+    "model_id": 12588,
+    "dff": "obj93_crvnvic_f",
+    "txd": "obj93",
+    "name": "Полицейский кенгурятник crvnvic (перед.)",
+    "server_id": 9982
+  },
+  {
+    "model_id": 12589,
+    "dff": "obj93_crvnvic_r",
+    "txd": "obj93",
+    "name": "Полицейский кенгурятник crvnvic (зад.)",
+    "server_id": 9983
+  },
+  {
+    "model_id": 12659,
+    "dff": "obj93_mesa_otb2_f",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Titan (перед.)",
+    "server_id": 9984
+  },
+  {
+    "model_id": 12668,
+    "dff": "obj93_mesa_otb2_r",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Hallbruck Titan (зад.)",
+    "server_id": 9985
+  },
+  {
+    "model_id": 12651,
+    "dff": "obj93_mesa_f",
+    "txd": "vehicle",
+    "name": "Армейский кенгурятник Hallbruck Titan (перед.)",
+    "server_id": 9986
+  },
+  {
+    "model_id": 12669,
+    "dff": "obj93_mesa_r",
+    "txd": "vehicle",
+    "name": "Армейский кенгурятник Hallbruck Titan (зад.)",
+    "server_id": 9987
+  },
+  {
+    "model_id": 12568,
+    "dff": "obj93_barracks_f",
+    "txd": "vehicle",
+    "name": "Армейский кенгурятник Flatman Convoy (перед.)",
+    "server_id": 9988
+  },
+  {
+    "model_id": 12569,
+    "dff": "obj93_barracks_r",
+    "txd": "vehicle",
+    "name": "Армейский кенгурятник Flatman Convoy (зад.)",
+    "server_id": 9989
+  },
+  {
+    "model_id": 12639,
+    "dff": "obj93_mc720stc_f",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник 720s TopCa (перед.)",
+    "server_id": 9990
+  },
+  {
+    "model_id": 12640,
+    "dff": "obj93_mc720stc_r",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник 720s TopCa (зад.)",
+    "server_id": 9991
+  },
+  {
+    "model_id": 12776,
+    "dff": "obj93_swatvan_f",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Flatman Breach (перед.)",
+    "server_id": 9992
+  },
+  {
+    "model_id": 13925,
+    "dff": "obj93_swatvan_r",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Flatman Breach (зад.)",
+    "server_id": 9993
+  },
+  {
+    "model_id": 13977,
+    "dff": "obj93_tourbillion_f",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Tourbillon (перед.)",
+    "server_id": 9994
+  },
+  {
+    "model_id": 13978,
+    "dff": "obj93_tourbillion_r",
+    "txd": "obj93",
+    "name": "Гражданский кенгурятник Tourbillon (зад.)",
+    "server_id": 9995
+  },
+  {
+    "model_id": 12587,
+    "dff": "obj93_copbike",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Ironbound Ranger (перед.)",
+    "server_id": 9996
+  },
+  {
+    "model_id": 12590,
+    "dff": "obj93_enforcer",
+    "txd": "vehicle",
+    "name": "Полицейский кенгурятник Flatman Enforcer (перед.)",
+    "server_id": 9997
   }
 ]
