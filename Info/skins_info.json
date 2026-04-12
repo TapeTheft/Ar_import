@@ -7712,5 +7712,47 @@
     "txd": "5ka",
     "name": "5opka",
     "server_id": 9797
+  },
+  {
+    "model_id": 13979,
+    "dff": "tramp1",
+    "txd": "tramp1",
+    "name": "Хэнк Арбалет",
+    "server_id": 10003
+  },
+  {
+    "model_id": 13979,
+    "dff": "tramp1",
+    "txd": "tramp1",
+    "name": "Хэнк Арбалет",
+    "server_id": 10003
+  },
+  {
+    "model_id": 13980,
+    "dff": "tramp2",
+    "txd": "tramp2",
+    "name": "Хэнк Арбалет (большой)",
+    "server_id": 10004
+  },
+  {
+    "model_id": 5379,
+    "dff": "polyok",
+    "txd": "polyok",
+    "name": "Пол Уокер (Офицер года)",
+    "server_id": 2118
+  },
+  {
+    "model_id": 15633,
+    "dff": "polyok2",
+    "txd": "polyok2",
+    "name": "Пол Уокер (На дежурстве)",
+    "server_id": 9907
+  },
+  {
+    "model_id": 14009,
+    "dff": "dora2",
+    "txd": "dora2",
+    "name": "Дора (На дежурстве)",
+    "server_id": 10034
   }
 ]
