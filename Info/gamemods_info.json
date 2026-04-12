@@ -3925,5 +3925,12 @@
     "txd": "vehicle",
     "name": "Полицейский кенгурятник Flatman Enforcer (перед.)",
     "server_id": 9997
+  },
+  {
+    "model_id": 12495,
+    "dff": "obj93_gznkos",
+    "txd": "obj93",
+    "name": "Газонокосилка",
+    "server_id": 9805
   }
 ]
