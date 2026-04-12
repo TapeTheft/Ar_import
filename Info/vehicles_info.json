@@ -6347,5 +6347,47 @@
     "txd": "bmwg90n",
     "name": "BMW M5 G90 2k26",
     "server_id": 9790	
+  },
+  {
+    "model_id": 12501,
+    "dff": "f12c",
+    "txd": "f12c",
+    "name": "12CILINDRI",
+    "server_id": 10005	
+  },
+  {
+    "model_id": 15255,
+    "dff": "tourbillion",
+    "txd": "tourbillion",
+    "name": "Tourbillon",
+    "server_id": 10006	
+  },
+  {
+    "model_id": 15257,
+    "dff": "mc720stc",
+    "txd": "mc720stc",
+    "name": "720s TopCar",
+    "server_id": 10007	
+  },
+  {
+    "model_id": 15258,
+    "dff": "froman",
+    "txd": "froman",
+    "name": "Roma Spider",
+    "server_id": 10008	
+  },
+  {
+    "model_id": 12526,
+    "dff": "fporto",
+    "txd": "fporto",
+    "name": "Portofino",
+    "server_id": 10009	
+  },
+  {
+    "model_id": 11773,
+    "dff": "esciq",
+    "txd": "esciq",
+    "name": "Hallbruck IP",
+    "server_id": 10010	
   }
 ]
