@@ -1,5 +1,8 @@
 [
   {
+    "add_ifp": "anim_simp.ifp"
+  },
+  {
     "model_id": 19039,
     "dff": "WatchType1",
     "txd": "MatWatches",
