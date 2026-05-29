@@ -7754,5 +7754,19 @@
     "txd": "dora2",
     "name": "Дора (На дежурстве)",
     "server_id": 10034
+  },
+  {
+    "model_id": 15292,
+    "dff": "f_shelb",
+    "txd": "f_shelb",
+    "name": "Полли из Бирмингема",
+    "server_id": 10065
+  },
+  {
+    "model_id": 15638,
+    "dff": "m_shelb",
+    "txd": "m_shelb",
+    "name": "Шелби личной Персоной",
+    "server_id": 10066
   }
 ]
