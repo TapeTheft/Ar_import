@@ -6388,6 +6388,69 @@
     "dff": "esciq",
     "txd": "esciq",
     "name": "Hallbruck IP",
-    "server_id": 10010	
+    "server_id": 10010
+  },
+  {
+    "model_id": 12536,
+    "dff": "vetc5sc",
+    "txd": "vetc5sc",
+    "name": "Chevrolet Corvette C5",
+    "server_id": null
+  },
+  {
+    "model_id": 12537,
+    "dff": "mitsuhsr",
+    "txd": "mitsuhsr",
+    "name": "Mitsubishi HSR-II",
+    "server_id": null
+  },
+  {
+    "model_id": 12538,
+    "dff": "x100mk2",
+    "txd": "x100mk2",
+    "name": "Toyota Mark 2 JZX100",
+    "server_id": 10071
+  },
+  {
+    "model_id": 15503,
+    "dff": "fiat501",
+    "txd": "fiat501",
+    "name": "Fiat 501(Шелби)",
+    "server_id": 10070
+  },
+  {
+    "model_id": 12540,
+    "dff": "gr86",
+    "txd": "gr86",
+    "name": "Toyota GR86",
+    "server_id": 10067
+  },
+  {
+    "model_id": 12541,
+    "dff": "ct5v",
+    "txd": "ct5v",
+    "name": "Cadillac CT5-V Blackwing",
+    "server_id": 10068
+  },
+  {
+    "model_id": 12542,
+    "dff": "p964",
+    "txd": "p964",
+    "name": "TurboS 1980",
+    "server_id": 10069
+  },
+  {
+    "model_id": 12545,
+    "dff": "vetc5",
+    "txd": "vetc5",
+    "name": "Chevrolet Corvette C5 Z06",
+    "server_id": null
+  },
+  {
+    "model_id": 12545,
+    "dff": "vetc5",
+    "txd": "vetc5",
+    "name": "Chevrolet Corvette C5 Z06",
+    "server_id": null
   }
 ]
