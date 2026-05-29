@@ -13404,5 +13404,26 @@
     "txd": "obj92",
     "name": "Магический доспех (Легендарный)",
     "server_id": 9940
+  },
+  {
+    "model_id": 14956,
+    "dff": "obj92a_crown1",
+    "txd": "obj92",
+    "name": "Ледяная корона",
+    "server_id": 10045
+  },
+  {
+    "model_id": 14957,
+    "dff": "obj92a_crown2",
+    "txd": "obj92",
+    "name": "Золотая корона",
+    "server_id": 10046
+  },
+  {
+    "model_id": 14958,
+    "dff": "obj92a_crown3",
+    "txd": "obj92",
+    "name": "Огненная корона",
+    "server_id": 10047
   }
 ]
